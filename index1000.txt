@@ -1,0 +1,1000 @@
+/home/pi/Music/share/01 - O Holy Night - Celtic Woman.mp3
+/home/pi/Music/share/01 Secret Garden - Nocturne.mp3
+/home/pi/Music/share/01-britney_spears-hold_it_against_me-enemy.mp3
+/home/pi/Music/share/01-taylor_swift-fearless.mp3
+/home/pi/Music/share/013 - Katy Perry - Roar.mp3
+/home/pi/Music/share/015-Beyonc Jay Z - Crazy In Love.mp3
+/home/pi/Music/share/02 - I'm Eighteen.mp3
+/home/pi/Music/share/02-taylor_swift-fifteen.mp3
+/home/pi/Music/share/02.  Avicii  -  Wake Me Up (Radio Edit).mp3
+/home/pi/Music/share/02. Darude - Sandstorm.mp3
+/home/pi/Music/share/03 - The Verve - Bittersweet Symphony.mp3
+/home/pi/Music/share/03-LMFAO-Party_Rock_Anthem.mp3
+/home/pi/Music/share/03-taylor_swift-love_story.mp3
+/home/pi/Music/share/03. 1786 Mozart - The Marriage of Figaro - Overture.mp3
+/home/pi/Music/share/04-taylor_swift-hey_stephen.mp3
+/home/pi/Music/share/04. Edvard Grieg - Peer Gynt Suite Morning Mood.mp3
+/home/pi/Music/share/049 - Celine Dion - All By Myself.mp3
+/home/pi/Music/share/05-taylor_swift-white_horse.mp3
+/home/pi/Music/share/05. Mozart - Overture- The Marriage Of Figaro.mp3
+/home/pi/Music/share/0590 Pink - Just Give Me A Reason (ft. Nate Ruess).mp3
+/home/pi/Music/share/06-taylor_swift-you_belong_with_me.mp3
+/home/pi/Music/share/07-taylor_swift-breathe.mp3
+/home/pi/Music/share/08 - Tiny Dancer.mp3
+/home/pi/Music/share/08-taylor_swift-tell_me_why.mp3
+/home/pi/Music/share/09-taylor_swift-youre_not_sorry.mp3
+/home/pi/Music/share/09. 1786 Mozart - The Marriage of Figaro - March.mp3
+/home/pi/Music/share/10 - Pavarotti - Denza  -  Funiculi Funicula.flac
+/home/pi/Music/share/10 - The Rose - Bette Midler.mp3
+/home/pi/Music/share/10-taylor_swift-the_way_i_loved_you.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/100 Kickass Classical Pieces - Various artists.zip
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/01 - Symphony No. 5 in C Minor, Op. 67, _Fate_ Allegro con brio.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/02 - Festival Overture in E-Flat Major, _The Year 1812_, Op. 49_ Ouverture solennelle.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/03 - Serenade No. 13 in G Major, K. 525, _Eine Kleine Nachtmusik__ I. Allegro.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/04 - Toccata and Fugue in D Minor, BWV 565.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/05 - William Tell_ Overture.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/06 - Canon in D Major.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/07 - An der schönen blauen Donau (On the Beautiful Blue Danube), Op. 314_ Waltz.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/08 - Carmina Burana_ O Fortuna.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/09 - Also Sprach Zarathustra_ Introduction.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/10 - Orpheus in the Underworld_ Can-can.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/100 - The Hebrides, Op. 26_ Overture (Fingal's Cave).mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/11 - Messiah, HWV 56_ Hallelujah Chorus.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/12 - Carmen Suite No. 1_ Les Toréadors.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/13 - Gayane_ Sabre Dance.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/14 - Symphony No 9 in D Minor Op. 125, _Choral__ IV. An die Freude (Excerpt).mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/15 - Pomp and Circumstance, Op. 39_ Land of Hope and Glory.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/16 - Peer Gynt Suite No. 1, Op. 46_ In the Hall of the Mountain King.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/17 - La Gioconda_ Dance of the Hours.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/18 - Hungarian Rhapsody No. 2 in C-Sharp Minor, S. 359_2.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/19 - A Midsummer Night's Dream, Op. 61_ Wedding March.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/20 - The Tale of Tsar Saltan, Op. 57_ Flight of the Bumblebee.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/21 - Rhapsody in Blue.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/22 - Sonata No. 14 in C-Sharp Minor for Piano, Op. 27_2, _Moonlight__ I. Adagio sostenuto.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/23 - Boléro, M. 81.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/24 - The Nutcracker, Op. 71a_ XVc. Pas de deux - Variation II_ Dance of the Sugar-Plum Fairy.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/25 - Suite No. 3 in D Major, BWV 1068_ II. Air.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/26 - Die Zauberflöte (The Magic Flute), K. 620, Act 2_ _Der Hölle Rache kocht in meinem Herzen_ (Queen of.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/27 - Bagatelle in A Minor, WoO 59, _Für Elise.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/28 - Entrance of the Gladiators, Op. 68_ Marsch.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/29 - The Sorcerer´s Apprentice (without narration).mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/30 - Die Walkürie (The Valkyrie), Act 3_ Ride of the Valkyries.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/31 - Cantata, _Herz und Mund und Tat und Leben__ Chorale_ _Jesu bleibet meine Freude_ (Jesu, Joy of Man's.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/32 - The Nutcracker Suite, Op. 71a_ VIII. Waltz Of The Flowers.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/33 - Carmen Suite No. 2_ II. Habanera.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/34 - Suite Bergamasque, L 75_ III. Clair de lune (orchestral arrangement).mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/35 - Sonata No. 2 in B-Flat Minor for Piano, Op. 35_ III. Funeral March_ Lento.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/36 - Piano Sonata No. 11 in A Major, K. 331_ Rondo_ Alla turca.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/37 - Fantasy for Orchestra, _Night on Bald Mountain_.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/38 - Minuet in E Major, Op. 13.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/39 - Peer Gynt Suite No. 1, Op. 46_ I. Morning Mood_ Allegretto pastorale.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/40 - The Marriage of Figaro, K. 492_ Overture.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/41 - Le quattro stagioni (The Four Seasons), Op. 8 - Concerto No. 1 in E Major, RV 269, _La primavera_ (S.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/42 - Adagio for Strings.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/43 - The Nutcracker, Op. 71a_ Xiiid. Character Dances_ Dance Of The Reed Pipes.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/44 - Suite No. 1 in G Major for Solo Cello, BWV 1007_ I. Prelude.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/45 - The Nutcracker, Op. 71a_ Xiiid. Character Dances_ Trepak (Russian Dance).mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/46 - Lullaby (Guten Abend, Gute Nacht), Op. 49.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/47 - Paganini Rhapsody, Op. 43_ Variation XVIII. Andante Cantabile.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/48 - Concerto No. 1 in B-Flat Minor for Piano and Orchestra, Op. 23_ I. Allegro non troppo e molto maesto.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/49 - La gazza ladra (The Thieving Magpie)_ Overture.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/50 - Hungarian Dance No. 5 in G Minor.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/51 - Sonata No. 16 in C Major for Piano, K. 545, _Sonata facile__ I. Allegro.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/52 - The Nutcracker, Op. 71a_ Xiiic. Character Dances_ Tea (Chinese Dance).mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/53 - Brandenburg Concerto No. 3 in G Major, BWV 1048_ Allegro.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/54 - Romeo and Julia, Op. 64a_ Fantasy Overture.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/55 - Le Carneval des Animaux (The Carnival of the Animals)_ VII. Aquarium.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/56 - Concerto in A Minor for Piano and Orchestra, Op. 16_ I. Allegro molto moderato.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/57 - The Nutcracker Suite, Op. 71a_ Marsch.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/58 - Requiem Mass in D Minor, K. 626_ III. Dies irae.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/59 - Light Cavalry Overture.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/60 - Les Patineurs Valse (The Skater's Waltz), Op. 183.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/61 - Le quattro stagioni (The Four Seasons), Op. 8 - Concerto No. 4 in F Minor, RV 297, _L'inverno_ (Wint.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/62 - Le Carneval des Animaux (The Carnival of the Animals)_ XIV. Finale.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/63 - Swan Lake, Op. 20_ Scène (Lake in the Moonlight).mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/64 - Symphony No. 40 in G Minor, K. 550_ Allegro molto.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/65 - Il Barbiere di Siviglia (The Barber of Seville)_ Overture.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/66 - Il trovatore, Act 2_ Coro di zingari.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/67 - Requiem Mass In D Minor, K. 626_ VIII. Lacrimosa.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/68 - Tritsch-Tratsch-Polka, Op. 214.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/69 - Water Music Suite No. 2 in D Major, HWV 349_ II. Alla Hornpipe.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/70 - Romeo and Juliet, Suite No. 2, Op. 64ter_ I. Montagues and Capulets.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/71 - Concerto No. 21 in C Major for Piano and Orchestra, K. 467_ Andante (_Elvira Madigan_).mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/72 - Symphony No. 7 in A Major, Op. 92_ II. Allegretto.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/73 - Suite from Sylvia_ Pizzicato.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/74 - Three Nocturnes for Piano, Op. 62_ Liebestraum No. 3 in A-Flat Major, G 541_ _O lieb so lang' Du lie.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/75 - Turandot, Act 3_ _Nessun dorma.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/76 - Die Zauberflöte (The Magic Flute), K. 620_ Overture.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/77 - Messa da Requiem_ Dies irae - Tuba mirum.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/78 - Symphony No. 9 in E Minor, Op. 95, _From the New World__ IV. Allegro con fuoco.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/79 - Orchestral Suite No. 2 in B Minor, BWV 1067_ VII. Badinere.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/80 - Songs Without Words, Op. 62_ Spring Song in A Major_ Allegro grazioso.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/81 - The Sleeping Beauty, Ballet Suite, Op. 66_ Waltz.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/82 - Trumpet Voluntary in D Major (The Prince of Denmark's March).mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/83 - Frühlingsstimmen (Voices of Spring), Op. 410_ Waltz.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/84 - Le nozze di Figaro (The Marriage of Figaro), K. 492, Act 3_ March.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/85 - Lohengrin, WWV 75_ Prelude to Act 3.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/86 - The Bartered Bride_ Skocna.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/87 - Thaïs_ Méditation.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/88 - Wiener Blut (Viennese Spirit), Op. 354_ Waltz.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/89 - Marche Slave, Op. 31.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/90 - Serenade No. 13 in G Major, K. 525, _Eine Kleine Nachtmusik__ II. Romance_ Andante.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/91 - Danse Macabre in G Minor, Op. 40.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/92 - Sonata No. 8 in C Minor for Piano, Op. 13, _Pathétique__ II. Adagio cantabile.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/93 - L'Arlésienne Suite No. 2, Op. 23_ Farandole.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/94 - Finlandia, Op. 26.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/95 - Pictures at an Exhibition_ I. Promenade 1.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/96 - Swan Lake Suite, Op. 20_ Dance of the Swans.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/97 - An American in Paris.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/98 - The Well-Tempered Clavier, Book 1, BWV 846_ I. Prelude and Fugue in C Major.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/99 - The Tales of Hoffman_ Barcarolle.mp3
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/Thumbs.db
+/home/pi/Music/share/101-bruno_mars-grenade.mp3
+/home/pi/Music/share/106-jeff_buckley-hallelujah.mp3
+/home/pi/Music/share/12 - Simon And Garfunkel - I Am A Rock.mp3
+/home/pi/Music/share/12-taylor_swift-the_best_day.mp3
+/home/pi/Music/share/13-taylor_swift-change.mp3
+/home/pi/Music/share/13-taylor_swift-teardrops_on_my_guitar.mp3
+/home/pi/Music/share/13-taylor_swift-white_horse.mp3
+/home/pi/Music/share/14 - L'allegrie.mp3
+/home/pi/Music/share/15 - IL Volo - FUNICULI' FUNICULA'.mp3
+/home/pi/Music/share/1971[CD][TIP][HT] Cat Stevens - Peace Train.mp3
+/home/pi/Music/share/1974_231[CD][SM] Cat Stevens - Another Saturday Night.mp3
+/home/pi/Music/share/1988-386 - Enya - Orinoco Flow (sail away).mp3
+/home/pi/Music/share/2014_190 - Kristen Bell & Santino Fontana - Love Is An Open Door (320S - 2.07).mp3
+/home/pi/Music/share/202-cat_stevens_-_father_and_son-zzzz.mp3
+/home/pi/Music/share/204-whitney_houston-i_will_always_love_you.mp3
+/home/pi/Music/share/221 - Jeff Buckley - Hallelujah (Radio Edit).mp3
+/home/pi/Music/share/28-lilly_wood_and_the_prick-prayer_in_c_(robin_schulz_remix).mp3
+/home/pi/Music/share/3 Doors Down-The Better Life-05-Be Like That.mp3
+/home/pi/Music/share/309-mozart-ave_verum_corpus.mp3
+/home/pi/Music/share/370 - Contours - Do You Love Me.mp3
+/home/pi/Music/share/8) SarahMcLaughlin - In The Arms of an Angel.mp3
+/home/pi/Music/share/Aerosmith - Dream On (Live).wma
+/home/pi/Music/share/Aerosmith - Dream On.wma
+/home/pi/Music/share/Albert Hammond - It Never Rains In Southern California.wma
+/home/pi/Music/share/Albert Hammond - The Free Electric Band.wma
+/home/pi/Music/share/Albert Hammond - The Peacemaker.wma
+/home/pi/Music/share/Albert Hammond-The Lost 45's - 1970's-13-The Free Electric Band.mp3
+/home/pi/Music/share/Albert Hammond-The Very Best of Albert Hammond-02-The Peacemaker.mp3
+/home/pi/Music/share/Albert Hammond-Time-Life Music AM Gold the Early '70s-09-It Never Rains in Southern California.mp3
+/home/pi/Music/share/Albert West - Put Your Head On My Shoulder.wma
+/home/pi/Music/share/Alice Cooper-School's Out-01-School's Out.mp3
+/home/pi/Music/share/Alice Cooper-The Definitive Alice Cooper-04-Halo of Flies.mp3
+/home/pi/Music/share/America-TopdeQ-11-A Horse With No Name.mp3
+/home/pi/Music/share/Answering Machine/16 ^ Sound Effects ^ Answering Machine Message- Fred Flintstone #3.mp3
+/home/pi/Music/share/Answering Machine/Answering machine - Howard Stern.mp3
+/home/pi/Music/share/Answering Machine/Answering Machine Message - Confused.mp3
+/home/pi/Music/share/Answering Machine/Answering Machine Message - Sexy.mp3
+/home/pi/Music/share/Answering Machine/Answering Machine Messages  - If Answering Machines Could Talk.mp3
+/home/pi/Music/share/Answering Machine/Bruce McCulloch-Shame-Based Man-11-Answering Machine.mp3
+/home/pi/Music/share/Answering Machine/Cheech & Chong-Cheech & Chong's Greatest Hit-02-Earache My Eye (feat. Alice Bowie).mp3
+/home/pi/Music/share/Answering Machine/Clint Eastwood - Answering Machine.mp3
+/home/pi/Music/share/Answering Machine/Comedy BRITNEY SPEARS ANSWERING MACHINE MESSAGE.mp3
+/home/pi/Music/share/Answering Machine/Garfield Answering Machine Messages - Naked Jello.mp3
+/home/pi/Music/share/Answering Machine/Jerry Seinfeld-[non-album tracks]-02-George's Answering Machine.mp3
+/home/pi/Music/share/Answering Machine/Monty Python-Monty Python Sings-23-Christmas in Heaven.mp3
+/home/pi/Music/share/Answering Machine/Movie & TV Themes - Answering Machine (Simpsons).mp3
+/home/pi/Music/share/Answering Machine/Paul Shanklin-Simply Reprehensible-05-Los Alamos.mp3
+/home/pi/Music/share/Answering Machine/Roy D. Mercer-How Big'a Boy Are Ya Volume 6-11-Answering Machine Message.mp3
+/home/pi/Music/share/Answering Machine/The Simpsons-Songs in the Key of Springfield-38-Lisa's Wedding (Medley).mp3
+/home/pi/Music/share/Answering Machine/USMC Answering Machine.mp3
+/home/pi/Music/share/Argent-Only Rock 'n' Roll 1970-1974 #1 Radio Hits-03-Hold Your Head Up.mp3
+/home/pi/Music/share/Asia-Sounds of the Eighties 1982-05-Heat of the Moment.mp3
+/home/pi/Music/share/Badfinger-Straight Up-09-Day After Day.mp3
+/home/pi/Music/share/Barry White - I'm Gonna Love You Just A Little More Babe.wma
+/home/pi/Music/share/Barry White-Funked! Volume 1-14-I'm Gonna Love You Just A Little Bit More Baby.mp3
+/home/pi/Music/share/basketball themes/033 - Taio Cruz - Dynamite.mp3
+/home/pi/Music/share/basketball themes/072 - Kernkraft 400 - Zombie Nation.mp3
+/home/pi/Music/share/basketball themes/08 - Gary Glitter - Rock & Roll Part 2.mp3
+/home/pi/Music/share/basketball themes/104-house_of_pain--jump_around-oma.mp3
+/home/pi/Music/share/basketball themes/15 - 2 Unlimited - Get Ready For This.mp3
+/home/pi/Music/share/basketball themes/Alan Parsons Project - 09 - Sirius.mp3
+/home/pi/Music/share/basketball themes/Europe - The final Countdown.mp3
+/home/pi/Music/share/basketball themes/Thumbs.db
+/home/pi/Music/share/Bee Gees - Alive.wma
+/home/pi/Music/share/Bee Gees - Israel.mp3
+/home/pi/Music/share/Bee Gees - My World.wma
+/home/pi/Music/share/Bee Gees-Bee Gees Story-10-Run to Me.mp3
+/home/pi/Music/share/Bee Gees-Best of Bee Gees, Volume 2-05-My World.mp3
+/home/pi/Music/share/Bee Gees-Best of Bee Gees, Volume 2-14-Alive.mp3
+/home/pi/Music/share/Bill Withers-Daily Mail Disco Greats-14-Lean on Me.mp3
+/home/pi/Music/share/Billy Idol-Classic Rock 1980-1981 (disc 2)-08-Flesh for Fantasy.mp3
+/home/pi/Music/share/Billy Joel-52nd Street-01-Big Shot.mp3
+/home/pi/Music/share/Billy Joel-An Innocent Man-06-Uptown Girl.mp3
+/home/pi/Music/share/Billy Joel-Greatest Hits, Volume III 1986-1997-01-Keeping the Faith.mp3
+/home/pi/Music/share/Billy Joel-Greatest Hits, Volume III 1986-1997-02-An Innocent Man.mp3
+/home/pi/Music/share/Billy Joel-Greatest Hits, Volume III 1986-1997-03-A Matter of Trust.mp3
+/home/pi/Music/share/Billy Joel-Greatest Hits, Volume III 1986-1997-05-This Is the Time.mp3
+/home/pi/Music/share/Billy Joel-Greatest Hits, Volume III 1986-1997-06-Leningrad.mp3
+/home/pi/Music/share/Billy Joel-Greatest Hits, Volume III 1986-1997-07-We Didn't Start the Fire.mp3
+/home/pi/Music/share/Billy Joel-Greatest Hits, Volume III 1986-1997-08-I Go to Extremes.mp3
+/home/pi/Music/share/Billy Joel-Greatest Hits, Volume III 1986-1997-10-The Downeaster Alexa.mp3
+/home/pi/Music/share/Billy Joel-Greatest Hits, Volume III 1986-1997-11-Shameless.mp3
+/home/pi/Music/share/Billy Joel-Greatest Hits, Volume III 1986-1997-12-All About Soul (remix).mp3
+/home/pi/Music/share/Billy Joel-Greatest Hits, Volume III 1986-1997-13-Lullabye (Goodnight, My Angel).mp3
+/home/pi/Music/share/Billy Joel-Greatest Hits, Volume III 1986-1997-14-The River of Dreams.mp3
+/home/pi/Music/share/Billy Joel-Greatest Hits, Volume III 1986-1997-15-To Make You Feel My Love.mp3
+/home/pi/Music/share/Billy Joel-Greatest Hits, Volume III 1986-1997-16-Hey Girl.mp3
+/home/pi/Music/share/Billy Joel-Greatest Hits, Volume III 1986-1997-17-Light as the Breeze.mp3
+/home/pi/Music/share/Billy Joel-The Complete Hits Collection 1973-1997 (disc 3 Greatest Hits, Volume 3 1986-1997)-04-Baby Grand (feat. Ray Charles).mp3
+/home/pi/Music/share/Billy Joel-The Complete Hits Collection 1973-1997 (disc 3 Greatest Hits, Volume 3 1986-1997)-09-And So It Goes.mp3
+/home/pi/Music/share/Billy Joel-The Ultimate Collection (disc 2)-07-Allentown.mp3
+/home/pi/Music/share/Billy Squier-Classic Masters-07-Rock Me Tonite.mp3
+/home/pi/Music/share/Blue Haze-Greatest Hits of the '70s (disc 1)-15-Smoke Gets in Your Eyes.mp3
+/home/pi/Music/share/Bob Dylan - Knocking On Heaven's Door.wma
+/home/pi/Music/share/Bobby Vinton-The Best Of Bobby Vinton-14-Sealed With a Kiss.mp3
+/home/pi/Music/share/Bonnie St. Claire - Manana Manana.mp3
+/home/pi/Music/share/Boston-Third Stage-01-Amanda.mp3
+/home/pi/Music/share/Bruce Springsteen & The E Street Band-Live 1975-85 (disc 1)-06-Fire.mp3
+/home/pi/Music/share/Bruce Springsteen-The Rolling Stone Collection 1973-1977-09-Born to Run.mp3
+/home/pi/Music/share/Bryan Adams-So Far So Good-13-Heat of the Night.mp3
+/home/pi/Music/share/Carly Simon - You're So Vain.wma
+/home/pi/Music/share/Carpenters-A Song for You-02-Top of the World.mp3
+/home/pi/Music/share/Carpenters-Twenty-Two Hits of the Carpenters-22-Yesterday Once More.mp3
+/home/pi/Music/share/Celine Dion - My heart will go on.mp3
+/home/pi/Music/share/Cher-The Very Best of Cher-17-Gypsies, Tramps & Thieves.mp3
+/home/pi/Music/share/Chicago - Feeling Stronger Every Day.wma
+/home/pi/Music/share/Chicago-The Chicago Story 2002 (disc 2)-13-Feeling Stronger Every Day.mp3
+/home/pi/Music/share/christmas/101 - Andy Williams - Happy Holiday The Holiday Season.mp3
+/home/pi/Music/share/christmas/102 - Ray Conniff - Frosty The Snowman.mp3
+/home/pi/Music/share/christmas/103 - Steve Lawrence & Eydie Gorme - Santa Claus Is Coming.mp3
+/home/pi/Music/share/christmas/104 - Mitch Miller - Sleigh Ride.mp3
+/home/pi/Music/share/christmas/105 - Morton Gould - Home For Christmas.mp3
+/home/pi/Music/share/christmas/106 - Perry Como - Here We Come A Caroling We Wish You A Merry Christmas.mp3
+/home/pi/Music/share/christmas/107 - Roger Whittaker - Holly And The Ivy.mp3
+/home/pi/Music/share/christmas/108 - Steve Lawrence & Eydie Gorme - Have Yourself A Merry Little Christmas.mp3
+/home/pi/Music/share/christmas/109 - Mel Torme - The Christmas Song.mp3
+/home/pi/Music/share/christmas/110 - Andre Kostelanetz - O Tannenbaum.mp3
+/home/pi/Music/share/christmas/111 - Mitch Miller - I Saw Mommy Kissing Santa Claus.mp3
+/home/pi/Music/share/christmas/112 - Jim Reeves - Jingle Bells.mp3
+/home/pi/Music/share/christmas/113 - Patti Page - Christmas Bells.mp3
+/home/pi/Music/share/christmas/114 - Andy Williams - Do You Hear What I Hear.mp3
+/home/pi/Music/share/christmas/115 - Harry Simeone Chorale - Little Drummer Boy.mp3
+/home/pi/Music/share/christmas/116 - Leontyne Price - Ave Maria (Schubert).mp3
+/home/pi/Music/share/christmas/117 - Ray Conniff - What Child Is This (Greensleeves).mp3
+/home/pi/Music/share/christmas/118 - Nat King Cole - Hark! The Herald Angels Sing.mp3
+/home/pi/Music/share/christmas/119 - Philadelphia Orchestra - Messiah Hallelujah! Chorus.mp3
+/home/pi/Music/share/christmas/120 - Bing Crosby - I Heard The Bells.mp3
+/home/pi/Music/share/christmas/121 - Brenda Lee - Rocking Around The Christmas Tree.mp3
+/home/pi/Music/share/christmas/201 - Andy Williams - It's The Most Wonderful Time Of The Year.mp3
+/home/pi/Music/share/christmas/202 - Steve Lawrence & Eydie Gorme - Winter Wonderland.mp3
+/home/pi/Music/share/christmas/203 - Perry Como - It's Beginning to Look a Lot Like Christmas.mp3
+/home/pi/Music/share/christmas/204 - Bing Crosby - White Christmas.mp3
+/home/pi/Music/share/christmas/205 - Nat King Cole - Caroling Caroling.mp3
+/home/pi/Music/share/christmas/206 - Frank Sinatra - Christmas Waltz.mp3
+/home/pi/Music/share/christmas/207 - Steve Lawrence & Eydie Gorme - Baby It's Cold Outside.mp3
+/home/pi/Music/share/christmas/208 - Beach Boys - Santa's Beard.mp3
+/home/pi/Music/share/christmas/209 - New Christy Minstrels - We Need A Little Christmas.mp3
+/home/pi/Music/share/christmas/210 - Ray Conniff - God Rest Ye Gentlemen.mp3
+/home/pi/Music/share/christmas/211 - Mormon Tabernacle Choir - Deck The Halls.mp3
+/home/pi/Music/share/christmas/212 - Andy Williams - O Little Town of Bethlehem.mp3
+/home/pi/Music/share/christmas/213 - Robert Shaw & Leonard Bernstein - Carol Of The Bells.mp3
+/home/pi/Music/share/christmas/214 - Johnny Mathis - It Came Upon a Midnight Clear.mp3
+/home/pi/Music/share/christmas/215 - Mitch Miller - Silent Night.mp3
+/home/pi/Music/share/christmas/216 - Mahalia Jackson - Go Tell It On The Mountain.mp3
+/home/pi/Music/share/christmas/217 - Harry Belafonte - Mary's Boy Child.mp3
+/home/pi/Music/share/christmas/218 - Nat King Cole - I Saw Three Ships.mp3
+/home/pi/Music/share/christmas/219 - Philadelphia Orchestra - O Come All Ye Faithful.mp3
+/home/pi/Music/share/christmas/220 - Steve Lawrence & Eydie Gorme - What Are You Doing New Years Eve.mp3
+/home/pi/Music/share/christmas/221 - Jose Feliciano - Feliz Navidad.mp3
+/home/pi/Music/share/christmas/301 - Johnny Mathis - Sleigh Ride.mp3
+/home/pi/Music/share/christmas/302 - Bing Crosby - A Time To Be Jolly.mp3
+/home/pi/Music/share/christmas/303 - Mitch Miller - Winter Wonderland.mp3
+/home/pi/Music/share/christmas/304 - Steve Lawrence & Eydie Gorme - Let It Snow! Let It Snow! Let It Snow!.mp3
+/home/pi/Music/share/christmas/305 - Judy Garland - Have Yourself A Merry Little Christmas.mp3
+/home/pi/Music/share/christmas/306 - Perry Como - Home For The Holidays (1959).mp3
+/home/pi/Music/share/christmas/307 - Ray Conniff - Here Comes Santa Claus.mp3
+/home/pi/Music/share/christmas/308 - Gene Autry - Rudolph The Red-Nosed Reindeer.mp3
+/home/pi/Music/share/christmas/309 - Burl Ives - Holly Jolly Christmas.mp3
+/home/pi/Music/share/christmas/310 - Steve Lawrence & Eydie Gorme - Let Me Be The First To Wish You Merry Xmas.mp3
+/home/pi/Music/share/christmas/311 - Johnny Mathis - I'll Be Home For Christmas.mp3
+/home/pi/Music/share/christmas/312 - Robert Shaw - We Three Kings.mp3
+/home/pi/Music/share/christmas/313 - Julie Andrews - Patapan.mp3
+/home/pi/Music/share/christmas/314 - Johnny Cash - Little Drummer Boy.mp3
+/home/pi/Music/share/christmas/315 - Roger Whittaker - Ding Dong Merrily On High.mp3
+/home/pi/Music/share/christmas/316 - Morton Gould - Good King Wenceslas.mp3
+/home/pi/Music/share/christmas/317 - Luciano Pavarotti - Adeste Fideles.mp3
+/home/pi/Music/share/christmas/318 - Nat King Cole - O Little Town of Bethlehem.mp3
+/home/pi/Music/share/christmas/319 - Perry Como - O Holy Night.mp3
+/home/pi/Music/share/christmas/320 - Percy Faith - Joy To The World.mp3
+/home/pi/Music/share/christmas/321 - Bobby Helms - Jingle Bell Rock.mp3
+/home/pi/Music/share/christmas/401 - Steve Lawrence & Eydie Gorme - That Holiday Feeling.mp3
+/home/pi/Music/share/christmas/402 - Dean Martin - Let It Snow! Let It Snow! Let It Snow!.mp3
+/home/pi/Music/share/christmas/403 - Johnny Mathis - A Marshmallow World.mp3
+/home/pi/Music/share/christmas/404 - Frank Sinatra - Mistletoe and Holly.mp3
+/home/pi/Music/share/christmas/405 - Eddy Arnold - Up On The House Top.mp3
+/home/pi/Music/share/christmas/406 - Perry Como - Silver Bells.mp3
+/home/pi/Music/share/christmas/407 - Ray Conniff - Here We Come A Caroling.mp3
+/home/pi/Music/share/christmas/408 - Chet Atkins - Jolly Old St. Nick.mp3
+/home/pi/Music/share/christmas/409 - Mitch Miller - Santa Claus Is Coming.mp3
+/home/pi/Music/share/christmas/410 - Nat King Cole - The Christmas Song.mp3
+/home/pi/Music/share/christmas/411 - Steve Lawrence & Eydie Gorme - That Ol' Christmas Spirit.mp3
+/home/pi/Music/share/christmas/412 - Percy Faith - Have Yourself A Merry Little Christmas.mp3
+/home/pi/Music/share/christmas/413 - Johnny Mathis - O Holy Night.mp3
+/home/pi/Music/share/christmas/414 - Bing Crosby - Do You Hear What I Hear.mp3
+/home/pi/Music/share/christmas/415 - Andy Williams - The First Noel.mp3
+/home/pi/Music/share/christmas/416 - Mormon Tabernacle Choir - Good King Wenceslas.mp3
+/home/pi/Music/share/christmas/417 - The Nutcracker Suite - Dance of The Reed Pipes Trepak (Russian Dance).mp3
+/home/pi/Music/share/christmas/418 - London Philharmonic Orchestra - Messiah A Child Is Born.mp3
+/home/pi/Music/share/christmas/419 - New Christy Minstrels - Beautiful City.mp3
+/home/pi/Music/share/christmas/420 - Ray Conniff - Joy To The World.mp3
+/home/pi/Music/share/christmas/421 - Beach Boys - Little Saint Nick.mp3
+/home/pi/Music/share/christmas/501 - Steve Lawrence & Eydie Gorme - Happy Holiday.mp3
+/home/pi/Music/share/christmas/502 - Johnny Mercer & Margaret Whiting - Baby It's Cold Outside.mp3
+/home/pi/Music/share/christmas/503 - Percy Faith - We Need A Little Christmas.mp3
+/home/pi/Music/share/christmas/504 - Bing Crosby - The White World of Winter.mp3
+/home/pi/Music/share/christmas/505 - Mitch Miller - Twelve Days Of Christmas.mp3
+/home/pi/Music/share/christmas/506 - Steve Lawrence & Eydie Gorme - White Christmas.mp3
+/home/pi/Music/share/christmas/507 - Robert Goulet - Have Yourself A Merry Little Christmas.mp3
+/home/pi/Music/share/christmas/508 - Boston Pops - Sleigh Ride.mp3
+/home/pi/Music/share/christmas/509 - Perry Como - Home For The Holidays (1954).mp3
+/home/pi/Music/share/christmas/510 - Steve Lawrence & Eydie Gorme - The Christmas Song.mp3
+/home/pi/Music/share/christmas/511 - Mitch Miller - It Came Upon A Midnight Clear.mp3
+/home/pi/Music/share/christmas/512 - Nat King Cole - Joy To The World.mp3
+/home/pi/Music/share/christmas/513 - Boston Pops - Here We Come A Caroling I Saw Three Ships.mp3
+/home/pi/Music/share/christmas/514 - King's College Choir - Shepherds, In The Field Abiding.mp3
+/home/pi/Music/share/christmas/515 - Andy Williams - Carol Of The Bells.mp3
+/home/pi/Music/share/christmas/516 - Renata Tebaldi - Ave Maria (Bach-Gounod).mp3
+/home/pi/Music/share/christmas/517 - Philadelphia Brass - Silent Night.mp3
+/home/pi/Music/share/christmas/518 - Nat King Cole - Away In A Manger.mp3
+/home/pi/Music/share/christmas/519 - Gary Puckett - O Holy Night.mp3
+/home/pi/Music/share/christmas/520 - Grinch Soundtrack - Welcome Christmas.mp3
+/home/pi/Music/share/christmas/521 - New Christy Minstrels - It'll Be A Merry Christmas.mp3
+/home/pi/Music/share/christmas/601 - Steve Lawrence & Eydie Gorme - Sleigh Ride.mp3
+/home/pi/Music/share/christmas/602 - Barbra Striesand - Jingle Bells.mp3
+/home/pi/Music/share/christmas/603 - Tony Bennett - My Favorite Things.mp3
+/home/pi/Music/share/christmas/604 - Nat King Cole - Deck The Halls.mp3
+/home/pi/Music/share/christmas/605 - Johnny Mathis - Winter Wonderland.mp3
+/home/pi/Music/share/christmas/606 - Beach Boys - Christmas Day.mp3
+/home/pi/Music/share/christmas/607 - Burl Ives - Rudolph The Red-Nosed Reindeer.mp3
+/home/pi/Music/share/christmas/608 - Perry Como - Santa Claus Is Coming.mp3
+/home/pi/Music/share/christmas/609 - Bing Crosby - Mele Kalikimaka.mp3
+/home/pi/Music/share/christmas/610 - Doris Day - Toyland.mp3
+/home/pi/Music/share/christmas/611 - Carpenters - Merry Christmas Darling.mp3
+/home/pi/Music/share/christmas/612 - Steve Lawrence & Eydie Gorme - Hurry Home For Christmas.mp3
+/home/pi/Music/share/christmas/613 - Perry Como - There Is No Christmas Like A Home Christmas.mp3
+/home/pi/Music/share/christmas/614 - Ray Conniff - Silver Bells.mp3
+/home/pi/Music/share/christmas/615 - Robert Goulet - Ave Maria (Bach-Gounod).mp3
+/home/pi/Music/share/christmas/616 - Mario Lanza - O Holy Night.mp3
+/home/pi/Music/share/christmas/617 - The Nutcracker Suite - Dance of the Sugar Plum Fairy Dance of the Mirltons.mp3
+/home/pi/Music/share/christmas/618 - Harry Belafonte - I Heard The Bells.mp3
+/home/pi/Music/share/christmas/619 - Mormon Tabernacle Choir - Messiah Hallelujah! Chorus.mp3
+/home/pi/Music/share/christmas/620 - Andre Kostelanetz - We Wish You A Merry Christmas.mp3
+/home/pi/Music/share/christmas/621 - Guy Lombardo - Auld Lang Syne.mp3
+/home/pi/Music/share/christmas/Thumbs.db
+/home/pi/Music/share/Clasic Rock/ACDC-Back in Black-06-Back in Black.mp3
+/home/pi/Music/share/Clasic Rock/ACDC-Dirty Deeds Done Dirt Cheap-06-Big Balls.mp3
+/home/pi/Music/share/Clasic Rock/ACDC-Highway to Hell-01-Highway to Hell.mp3
+/home/pi/Music/share/Clasic Rock/ACDC-Live-11-You Shook Me All Night Long.mp3
+/home/pi/Music/share/Clasic Rock/Aerosmith-Aerosmith-03-Dream On.MP3
+/home/pi/Music/share/Clasic Rock/Al Green-Al Green-02-Lean on Me.mp3
+/home/pi/Music/share/Clasic Rock/Alice Cooper-Even More Dazed and Confused-02-No More Mr. Nice Guy.mp3
+/home/pi/Music/share/Clasic Rock/Alice Cooper-School's Out-01-School's Out.mp3
+/home/pi/Music/share/Clasic Rock/Aretha Franklin-The Big Chill-07-(You Make Me Feel Like A) Natural Woman.mp3
+/home/pi/Music/share/Clasic Rock/Arlo Guthrie-Alice's Restaurant-01-Alice's Restaurant Massacree.MP3
+/home/pi/Music/share/Clasic Rock/Bachman-Turner Overdrive-Not Fragile-04-You Ain't Seen Nothing Yet.mp3
+/home/pi/Music/share/Clasic Rock/Ben E. King-25 Super Oldies, Volume 3-10-Stand By Me.mp3
+/home/pi/Music/share/Clasic Rock/Betty Everett-70 Ounces of Gold, Golden Hits Volume II-25-It's in his Kiss.mp3
+/home/pi/Music/share/Clasic Rock/Billy Joel-An Innocent Man-03-The Longest Time.mp3
+/home/pi/Music/share/Clasic Rock/Billy Joel-An Innocent Man-05-Tell Her About It.mp3
+/home/pi/Music/share/Clasic Rock/Billy Joel-An Innocent Man-06-Uptown Girl.mp3
+/home/pi/Music/share/Clasic Rock/Billy Joel-Greatest Hits, Volume I 1973-1978-08-Just the Way You Are.mp3
+/home/pi/Music/share/Clasic Rock/Billy Joel-Piano Man-02-Piano Man.mp3
+/home/pi/Music/share/Clasic Rock/Billy Joel-The Stranger-03-Just the Way You Are.mp3
+/home/pi/Music/share/Clasic Rock/Black Sabbath-Neon Nights-01-War Pigs.mp3
+/home/pi/Music/share/Clasic Rock/Black Sabbath-Paranoid-02-Paranoid.mp3
+/home/pi/Music/share/Clasic Rock/Blue Öyster Cult-Agents of Fortune-03-(Don't Fear) The Reaper.mp3
+/home/pi/Music/share/Clasic Rock/Bob Dylan - Lay Lady Lay.mp3
+/home/pi/Music/share/Clasic Rock/Bob Dylan-Bob Dylan's Greatest Hits, Volume 2 (disc 1)-07-My Back Pages.mp3
+/home/pi/Music/share/Clasic Rock/Bob Seger & the Silver Bullet Band-Against the Wind-03-Her Strut.mp3
+/home/pi/Music/share/Clasic Rock/Bob Seger-Greatest Hits-02-Night Moves.mp3
+/home/pi/Music/share/Clasic Rock/Bob Seger-Greatest Hits-08-We've Got Tonight.mp3
+/home/pi/Music/share/Clasic Rock/Bob Seger-Night Moves-06-Mainstreet.mp3
+/home/pi/Music/share/Clasic Rock/Boston-Boston-01-More Than a Feeling.mp3
+/home/pi/Music/share/Clasic Rock/Boston-Third Stage-01-Amanda.mp3
+/home/pi/Music/share/Clasic Rock/Bruce Springsteen-Born in the U.S.A.-06-I'm on Fire.mp3
+/home/pi/Music/share/Clasic Rock/Bruce Springsteen-Born in the U.S.A.-10-Glory Days.mp3
+/home/pi/Music/share/Clasic Rock/Bruce Springsteen-Born in the U.S.A.-11-Dancing in the Dark.mp3
+/home/pi/Music/share/Clasic Rock/Bruce Springsteen-Born to Run-05-Born to Run.mp3
+/home/pi/Music/share/Clasic Rock/Bruce Springsteen-Kuschelrock 10 (disc 2)-09-Secret Garden.mp3
+/home/pi/Music/share/Clasic Rock/Bryan Adams-Reckless-06-Summer of '69.mp3
+/home/pi/Music/share/Clasic Rock/Buffalo Springfield-Buffalo Springfield-01-For What It's Worth.mp3
+/home/pi/Music/share/Clasic Rock/Carl Carlton-Pure Disco 2-08-Everlasting Love.mp3
+/home/pi/Music/share/Clasic Rock/Charlie Daniels Band-Million Mile Reflections-06-The Devil Went Down to Georgia.mp3
+/home/pi/Music/share/Clasic Rock/Charlie Daniels Band-Super Hits of the '70s Have a Nice Day, Volume 11-10-Uneasy Rider.mp3
+/home/pi/Music/share/Clasic Rock/Cher-The Very Best of Cher-17-Gypsies, Tramps & Thieves.mp3
+/home/pi/Music/share/Clasic Rock/Chuck Berry-Compilation Chuck Berry-09-Johnny B Goode.mp3
+/home/pi/Music/share/Clasic Rock/Chuck Berry-The Best of the Best of Chuck Berry-06-Maybelline.mp3
+/home/pi/Music/share/Clasic Rock/Chuck Berry-The Great Twenty-Eight-27-No Particular Place to Go.mp3
+/home/pi/Music/share/Clasic Rock/Chuck Berry-The Magic Collection-08-My Ding-A-Ling.mp3
+/home/pi/Music/share/Clasic Rock/Countdown Mix Masters-Non Stop Disco Dance Mix (disc 2)-08-Boogie Oogie Oogie.mp3
+/home/pi/Music/share/Clasic Rock/Cream-Cream (disc 1)-02-White Room.mp3
+/home/pi/Music/share/Clasic Rock/Creedence Clearwater Revival-Chronicle, Volume 1-03-Proud Mary.mp3
+/home/pi/Music/share/Clasic Rock/Creedence Clearwater Revival-Chronicle, Volume 1-04-Bad Moon Rising.mp3
+/home/pi/Music/share/Clasic Rock/Creedence Clearwater Revival-Chronicle, Volume 1-14-Lookin' Out My Back Door.mp3
+/home/pi/Music/share/Clasic Rock/Creedence Clearwater Revival-Cosmo's Factory-03-Travelin' Band.mp3
+/home/pi/Music/share/Clasic Rock/Creedence Clearwater Revival-Creedence Clearwater Revival-01-I Put a Spell on You.mp3
+/home/pi/Music/share/Clasic Rock/Creedence Clearwater Revival-Creedence Clearwater Revival-13-Susie Q.mp3
+/home/pi/Music/share/Clasic Rock/Creedence Clearwater Revival-The Best of Creedence Clearwater Revival (disc 1)-11-I Heard It Through the Grapevine.MP3
+/home/pi/Music/share/Clasic Rock/Crosby, Stills & Nash-Daylight Again-03-Southern Cross.mp3
+/home/pi/Music/share/Clasic Rock/Crosby, Stills, Nash & Young-Déjà Vu-02-Teach Your Children.mp3
+/home/pi/Music/share/Clasic Rock/Damn Yankees-Damn Yankees-06-Come Again.mp3
+/home/pi/Music/share/Clasic Rock/Dave Mathews Band - Charlie Brown Theme.MP3
+/home/pi/Music/share/Clasic Rock/David Bowie-Best of Bowie-01-Space Oddity.mp3
+/home/pi/Music/share/Clasic Rock/Def Leppard-Hysteria-05-Pour Some Sugar on Me.mp3
+/home/pi/Music/share/Clasic Rock/Dion-Hot Rod Classics (disc 1)-08-The Wanderer.mp3
+/home/pi/Music/share/Clasic Rock/Dire Straits-Brothers in Arms-02-Money for Nothing.mp3
+/home/pi/Music/share/Clasic Rock/Dire Straits-Brothers in Arms-03-Walk of Life.mp3
+/home/pi/Music/share/Clasic Rock/Dire Straits-Dire Straits-06-Sultans of Swing.mp3
+/home/pi/Music/share/Clasic Rock/Dire Straits-Money for Nothing-11-Money for Nothing.mp3
+/home/pi/Music/share/Clasic Rock/Dobie Gray-1970's R&B Classics-05-Drift Away.mp3
+/home/pi/Music/share/Clasic Rock/Don Henley-End Of The Innocence-01-End Of The Innocence.mp3
+/home/pi/Music/share/Clasic Rock/Don Henley-Sunfly Karaoke SF-123-16-Boys of Summer.mp3
+/home/pi/Music/share/Clasic Rock/Don Henley-The End of the Innocence-10-The Heart of the Matter.mp3
+/home/pi/Music/share/Clasic Rock/Don McLean-American Pie-01-American Pie.mp3
+/home/pi/Music/share/Clasic Rock/Dusty Springfield-Dusty in Memphis-03-Son of a Preacher Man.mp3
+/home/pi/Music/share/Clasic Rock/Eagles-Greatest Hits, Volume 2-01-Hotel California.mp3
+/home/pi/Music/share/Clasic Rock/Eagles-Hell Freezes Over-01-Get Over It.mp3
+/home/pi/Music/share/Clasic Rock/Eagles-Hell Freezes Over-02-Love Will Keep Us Alive.mp3
+/home/pi/Music/share/Clasic Rock/Eagles-Hell Freezes Over-03-The Girl From Yesterday.MP3
+/home/pi/Music/share/Clasic Rock/Eagles-Hell Freezes Over-05-Heart of the Matter.mp3
+/home/pi/Music/share/Clasic Rock/Eagles-Hell Freezes Over-06-Hotel California.mp3
+/home/pi/Music/share/Clasic Rock/Eagles-Hell Freezes Over-07-Wasted Time.mp3
+/home/pi/Music/share/Clasic Rock/Eagles-Hell Freezes Over-08-Pretty Maids All in a Row.mp3
+/home/pi/Music/share/Clasic Rock/Eagles-Hell Freezes Over-09-I Can't Tell You Why.mp3
+/home/pi/Music/share/Clasic Rock/Eagles-Hell Freezes Over-10-New York Minute.mp3
+/home/pi/Music/share/Clasic Rock/Eagles-Hell Freezes Over-12-Take It Easy.mp3
+/home/pi/Music/share/Clasic Rock/Eagles-Hell Freezes Over-14-Life in the Fast Lane (1).mp3
+/home/pi/Music/share/Clasic Rock/Eagles-Hell Freezes Over-14-Life in the Fast Lane.mp3
+/home/pi/Music/share/Clasic Rock/Eagles-Hotel California-03-Life in the Fast Lane (1).mp3
+/home/pi/Music/share/Clasic Rock/Eagles-Hotel California-03-Life in the Fast Lane.mp3
+/home/pi/Music/share/Clasic Rock/Eagles-One of These Nights-05-Lyin' Eyes.mp3
+/home/pi/Music/share/Clasic Rock/Eddie and the Cruisers-Live and in Concert-03-On the Dark Side.mp3
+/home/pi/Music/share/Clasic Rock/Electric Light Orchestra-Face the Music-01-Fire on High.mp3
+/home/pi/Music/share/Clasic Rock/Elton John-Goodbye Yellow Brick Road-01-Funeral for a Friend Love Lies Bleeding.mp3
+/home/pi/Music/share/Clasic Rock/Elvis Presley-The Essential 70's Masters (disc 5 The Elvis Presley Show)-21-Suspicious Minds (live).mp3
+/home/pi/Music/share/Clasic Rock/Eric Clapton-August-01-It's in the Way That You Use It.mp3
+/home/pi/Music/share/Clasic Rock/Eric Clapton-Clapton Chronicles The Best of Eric Clapton-02-Change the World.mp3
+/home/pi/Music/share/Clasic Rock/Eric Clapton-Crossroads (disc 4)-07-Promises.mp3
+/home/pi/Music/share/Clasic Rock/Eric Clapton-From the Cradle-06-I'm Tore Down.mp3
+/home/pi/Music/share/Clasic Rock/Eric Clapton-Journeyman-01-Pretending.mp3
+/home/pi/Music/share/Clasic Rock/Eric Clapton-Slowhand-02-Wonderful Tonight.mp3
+/home/pi/Music/share/Clasic Rock/Eric Clapton-The All Time Greatest Rock Songs-04-Layla (unplugged).mp3
+/home/pi/Music/share/Clasic Rock/Eric Clapton-The Cream of Clapton-09-Let It Rain.mp3
+/home/pi/Music/share/Clasic Rock/Eric Clapton-Timepieces The Best of Eric Clapton-05-Layla.mp3
+/home/pi/Music/share/Clasic Rock/Eric Clapton-Unplugged-04-Tears in Heaven (1).MP3
+/home/pi/Music/share/Clasic Rock/Eric Clapton-Unplugged-04-Tears in Heaven.mp3
+/home/pi/Music/share/Clasic Rock/Eric Clapton-Unplugged-08-Running on Faith.mp3
+/home/pi/Music/share/Clasic Rock/Eric Johnson-Ah Via Musicom-02-Cliffs of Dover.mp3
+/home/pi/Music/share/Clasic Rock/Eurythmics-Greatest Hits-01-Sweet Dreams (Are Made of This).MP3
+/home/pi/Music/share/Clasic Rock/Fats Domino-This Is Fats-01-Blueberry Hill.mp3
+/home/pi/Music/share/Clasic Rock/Foghat-Riff Rock High-04-Slow Ride.mp3
+/home/pi/Music/share/Clasic Rock/George Harrison-All Things Must Pass-02-My Sweet Lord.mp3
+/home/pi/Music/share/Clasic Rock/George Harrison-Completed Rarities, Volume 1-15-While My Guitar Gently Weeps (Live With Ringo & Eric Clapton).mp3
+/home/pi/Music/share/Clasic Rock/Golden Earring-Moontan-01-Radar Love.mp3
+/home/pi/Music/share/Clasic Rock/Gordon Lightfoot-Summertime Dream-02-The Wreck Of The Edmund Fitzgerald.mp3
+/home/pi/Music/share/Clasic Rock/Gordon Lightfoot-Sundown-07-Sundown.mp3
+/home/pi/Music/share/Clasic Rock/Grateful Dead-American Beauty-10-Truckin'.mp3
+/home/pi/Music/share/Clasic Rock/Grateful Dead-In the Dark-01-Touch of Grey.mp3
+/home/pi/Music/share/Clasic Rock/Grateful Dead-Workingman's Dead-01-Uncle John's Band.mp3
+/home/pi/Music/share/Clasic Rock/Grateful Dead-Workingman's Dead-08-Casey Jones.mp3
+/home/pi/Music/share/Clasic Rock/Great White-Monsters of Rock-02-One Bitten, Twice Shy.mp3
+/home/pi/Music/share/Clasic Rock/Harry Chapin-Heads & Tails-06-Taxi.mp3
+/home/pi/Music/share/Clasic Rock/Harry Chapin-Story of a Life, disc 2-02-Cat's in the Cradle.mp3
+/home/pi/Music/share/Clasic Rock/Heart-Heart-02-What About Love.mp3
+/home/pi/Music/share/Clasic Rock/Iron Butterfly-In-A-Gadda-Da-Vida-06-In-A-Gadda-Da-Vida.mp3
+/home/pi/Music/share/Clasic Rock/James Taylor-Sweet Baby James-07-Fire and Rain.mp3
+/home/pi/Music/share/Clasic Rock/Janis Joplin-Greatest Hits-01-Piece of My Heart.mp3
+/home/pi/Music/share/Clasic Rock/Janis Joplin-Pearl-07-Me and Bobby McGee.mp3
+/home/pi/Music/share/Clasic Rock/Jay & The Americans-Come a Little Bit Closer-21-This Magic Moment.mp3
+/home/pi/Music/share/Clasic Rock/Jeff Beck-Beckology (disc 2)-11-Superstition.MP3
+/home/pi/Music/share/Clasic Rock/Jefferson Airplane-Surrealistic Pillow-02-Somebody to Love.mp3
+/home/pi/Music/share/Clasic Rock/Jefferson Airplane-Surrealistic Pillow-10-White Rabbit.mp3
+/home/pi/Music/share/Clasic Rock/Jefferson Starship-TM Century GoldDisc 127-01-We Built This City.mp3
+/home/pi/Music/share/Clasic Rock/Jerry Lee Lewis-Stand By Me-08-Great Balls of Fire.mp3
+/home/pi/Music/share/Clasic Rock/Jimi Hendrix-Are You Experienced-01-Purple Haze.mp3
+/home/pi/Music/share/Clasic Rock/Jimi Hendrix-Electric Ladyland-03-Crosstown Traffic.mp3
+/home/pi/Music/share/Clasic Rock/Jimi Hendrix-Electric Ladyland-13-All Along the Watchtower (1).mp3
+/home/pi/Music/share/Clasic Rock/Jimi Hendrix-Electric Ladyland-13-All Along the Watchtower.mp3
+/home/pi/Music/share/Clasic Rock/Jimi Hendrix-Oh Atlanta-13-Voodoo Child.mp3
+/home/pi/Music/share/Clasic Rock/Jimi Hendrix-Smash Hits-03-The Wind Cries Mary.mp3
+/home/pi/Music/share/Clasic Rock/Jimi Hendrix-The Ultimate Experience-13-Red House.mp3
+/home/pi/Music/share/Clasic Rock/Jimi Hendrix-The Ultimate Experience-19-Star Spangled Banner (live).mp3
+/home/pi/Music/share/Clasic Rock/Jimmy Buffett-Calaloo-06-Come Monday.mp3
+/home/pi/Music/share/Clasic Rock/Jimmy Buffett-Changes in Latitudes, Changes in Attitudes-01-Changes in Latitudes, Changes in Attitudes.mp3
+/home/pi/Music/share/Clasic Rock/Jimmy Buffett-Changes in Latitudes, Changes in Attitudes-06-Margaritaville.mp3
+/home/pi/Music/share/Clasic Rock/Joe Cocker-Organic-13-You Are So Beautiful.mp3
+/home/pi/Music/share/Clasic Rock/Joe Cocker-Today's Most Requested Love Songs 90-12-You Are So Beautiful.mp3
+/home/pi/Music/share/Clasic Rock/Joe Dolce-Shaddap You Face-01-If You Want to Be Happy.mp3
+/home/pi/Music/share/Clasic Rock/Joe Walsh-The Best Rock Album in the World Ever! II (disc 1)-18-Rocky Mountain Way.mp3
+/home/pi/Music/share/Clasic Rock/John Lennon-Imagine-01-Imagine.mp3
+/home/pi/Music/share/Clasic Rock/John Mayall & The Bluesbreakers-Crossroads (disc 1)-12-Hideaway.mp3
+/home/pi/Music/share/Clasic Rock/John Mellencamp-1984-04-10 Noisy & Violent Indiana University Auditorium, Bloomington, IN, USA-05-Jack and Diane.mp3
+/home/pi/Music/share/Clasic Rock/John Mellencamp-American Fool-01-Hurts So Good.mp3
+/home/pi/Music/share/Clasic Rock/John Parr-And the Road Goes on Forever (disc 1)-18-St. Elmo's Fire.mp3
+/home/pi/Music/share/Clasic Rock/Journey-Escape-01-Don't Stop Believin' (1).mp3
+/home/pi/Music/share/Clasic Rock/Journey-Escape-01-Don't Stop Believin'.mp3
+/home/pi/Music/share/Clasic Rock/Journey-Escape-10-Open Arms.mp3
+/home/pi/Music/share/Clasic Rock/Journey-Frontiers-05-Faithfully.mp3
+/home/pi/Music/share/Clasic Rock/Journey-Infinity-01-Lights.mp3
+/home/pi/Music/share/Clasic Rock/Kansas-Point of Know Return-07-Dust in the Wind.mp3
+/home/pi/Music/share/Clasic Rock/Led Zeppelin - Dyer Maker.mp3
+/home/pi/Music/share/Clasic Rock/Led Zeppelin-1972-10-09 Complete Live in Japan Festival Hall, Osaka (disc 2)-01-Stairway to Heaven.mp3
+/home/pi/Music/share/Clasic Rock/Led Zeppelin-1975-05-25 When We Were Kings Earl's Court Arena, London, England-08-Kashmir.mp3
+/home/pi/Music/share/Clasic Rock/Led Zeppelin-Box Set (Disc 1)-02-Heartbreaker.mp3
+/home/pi/Music/share/Clasic Rock/Led Zeppelin-Box Set (Disc 3)-08-The Song Remains the Same.mp3
+/home/pi/Music/share/Clasic Rock/Led Zeppelin-Coda-07-Bonzo's Montreux.mp3
+/home/pi/Music/share/Clasic Rock/Led Zeppelin-Coda-12-Hey Hey What Can I Do.MP3
+/home/pi/Music/share/Clasic Rock/Led Zeppelin-Destroyer (disc 2)-11-Trampled Underfoot.mp3
+/home/pi/Music/share/Clasic Rock/Led Zeppelin-Houses of the Holy-06-D'yer Mak'er.mp3
+/home/pi/Music/share/Clasic Rock/Led Zeppelin-In Through the Out Door-01-In the Evening.mp3
+/home/pi/Music/share/Clasic Rock/Led Zeppelin-In Through the Out Door-03-Fool in the Rain.mp3
+/home/pi/Music/share/Clasic Rock/Led Zeppelin-In Through the Out Door-06-All My Love (1).mp3
+/home/pi/Music/share/Clasic Rock/Led Zeppelin-In Through the Out Door-06-All My Love.mp3
+/home/pi/Music/share/Clasic Rock/Led Zeppelin-Latter Days The Best of Led Zeppelin, Volume Two-09-All My Love.mp3
+/home/pi/Music/share/Clasic Rock/Led Zeppelin-Led Zeppelin II-02-What Is and What Should Never Be.mp3
+/home/pi/Music/share/Clasic Rock/Led Zeppelin-Led Zeppelin II-08-Moby Dick.mp3
+/home/pi/Music/share/Clasic Rock/Led Zeppelin-Led Zeppelin III-06-Gallows Pole.mp3
+/home/pi/Music/share/Clasic Rock/Led Zeppelin-Led Zeppelin III-07-Tangerine.mp3
+/home/pi/Music/share/Clasic Rock/Led Zeppelin-Led Zeppelin IV-02-Rock and Roll.mp3
+/home/pi/Music/share/Clasic Rock/Led Zeppelin-Led Zeppelin IV-05-Misty Mountain Hop.mp3
+/home/pi/Music/share/Clasic Rock/Led Zeppelin-Led Zeppelin-01-Good Times Bad Times.mp3
+/home/pi/Music/share/Clasic Rock/Led Zeppelin-Led Zeppelin-04-Dazed and Confused (1).mp3
+/home/pi/Music/share/Clasic Rock/Led Zeppelin-Led Zeppelin-04-Dazed and Confused.mp3
+/home/pi/Music/share/Clasic Rock/Led Zeppelin-Led Zeppelin-07-Communication Breakdown.mp3
+/home/pi/Music/share/Clasic Rock/Led Zeppelin-Physical Graffiti (disc 1)-06-Kashmir (1).mp3
+/home/pi/Music/share/Clasic Rock/Led Zeppelin-Physical Graffiti (disc 1)-06-Kashmir.mp3
+/home/pi/Music/share/Clasic Rock/Led Zeppelin-Physical Graffiti-08-Bron-Yr-Aur.mp3
+/home/pi/Music/share/Clasic Rock/Led Zeppelin-Physical Rarities-04-Trampled Underfoot.mp3
+/home/pi/Music/share/Clasic Rock/Led Zeppelin-Remasters (disc 1)-06-Heartbreaker.mp3
+/home/pi/Music/share/Clasic Rock/Led Zeppelin-The Song Remains the Same (disc 2)-03-Moby Dick.mp3
+/home/pi/Music/share/Clasic Rock/Lita Ford & Ozzy Osbourne-The Best of Lita Ford-06-Close My Eyes Forever.mp3
+/home/pi/Music/share/Clasic Rock/Louis Armstrong-What a Wonderful World-01-What a Wonderful World.mp3
+/home/pi/Music/share/Clasic Rock/Lynyrd Skynyrd-Legends Ultimate Rock Collection Get It On-17-Free Bird.mp3
+/home/pi/Music/share/Clasic Rock/Lynyrd Skynyrd-Second Helping-01-Sweet Home Alabama.mp3
+/home/pi/Music/share/Clasic Rock/Lynyrd Skynyrd-The Definitive Lynyrd Skynyrd Collection (disc 1)-05-Gimme Three Steps (original version).mp3
+/home/pi/Music/share/Clasic Rock/Martha Reeves-Dancing In The Street-01-Dancing in the Street.mp3
+/home/pi/Music/share/Clasic Rock/Marvin Berry and The Starlighters-Back to the Future-09-Earth Angel (Will You Be Mine).mp3
+/home/pi/Music/share/Clasic Rock/Marvin Gaye-The Best of Marvin Gaye (disc 1)-08-How Sweet It Is (to Be Loved by You).mp3
+/home/pi/Music/share/Clasic Rock/Meat Loaf-Bat Out of Hell-05-Two Out of Three Ain't Bad.mp3
+/home/pi/Music/share/Clasic Rock/Meat Loaf-Bat Out of Hell-06-Paradise by the Dashboard Light.mp3
+/home/pi/Music/share/Clasic Rock/Merrilee Rush-Angel of the Morning-07-Angel of the Morning.mp3
+/home/pi/Music/share/Clasic Rock/Metallica-and Justice for All-04-One.mp3
+/home/pi/Music/share/Clasic Rock/Mötley Crüe-Dr. Feelgood-02-Dr. Feelgood.mp3
+/home/pi/Music/share/Clasic Rock/Mötley Crüe-Dr. Feelgood-05-Kickstart My Heart.mp3
+/home/pi/Music/share/Clasic Rock/Mötley Crüe-Dr. Feelgood-10-Don't Go Away Mad (Just Go Away).mp3
+/home/pi/Music/share/Clasic Rock/Neil Young-Harvest Moon-04-Harvest Moon.mp3
+/home/pi/Music/share/Clasic Rock/Otis Redding-Pain In My Heart-13-(Sittin' On) The Dock of the Bay.mp3
+/home/pi/Music/share/Clasic Rock/Ozzy Osbourne-Blizzard of Ozz-02-Crazy Train.mp3
+/home/pi/Music/share/Clasic Rock/Ozzy Osbourne-No More Tears-03-Mama, I'm Coming Home.mp3
+/home/pi/Music/share/Clasic Rock/Pat Benatar-Crimes of Passion-04-Hit Me With Your Best Shot.mp3
+/home/pi/Music/share/Clasic Rock/Pat Benatar-Get Nervous-01-Shadows of the Night.mp3
+/home/pi/Music/share/Clasic Rock/Pat Benatar-Greatest Hits-14-We Belong.mp3
+/home/pi/Music/share/Clasic Rock/Peter Frampton-Frampton Comes Alive!-07-Do You Feel Like We Do.mp3
+/home/pi/Music/share/Clasic Rock/Pink Floyd-A Momentary Lapse of Reason-02-Learning to Fly.mp3
+/home/pi/Music/share/Clasic Rock/Pink Floyd-A Momentary Lapse of Reason-05-On the Turning Away.mp3
+/home/pi/Music/share/Clasic Rock/Pink Floyd-Pulse (disc 1)-07-Hey You.mp3
+/home/pi/Music/share/Clasic Rock/Pink Floyd-The Wall-19-Comfortably Numb.mp3
+/home/pi/Music/share/Clasic Rock/Pink Floyd-Wish You Were Here-04-Wish You Were Here.mp3
+/home/pi/Music/share/Clasic Rock/Pure Prairie League-Best of Pure Prairie League-01-Amie.mp3
+/home/pi/Music/share/Clasic Rock/Queen-A Night at the Opera-11-Bohemian Rhapsody (1).mp3
+/home/pi/Music/share/Clasic Rock/Queen-A Night at the Opera-11-Bohemian Rhapsody.mp3
+/home/pi/Music/share/Clasic Rock/Queen-Greatest Hits-09-Crazy Little Thing Called Love.mp3
+/home/pi/Music/share/Clasic Rock/Queen-Jazz-02-Fat Bottomed Girls (1).MP3
+/home/pi/Music/share/Clasic Rock/Queen-Jazz-02-Fat Bottomed Girls.mp3
+/home/pi/Music/share/Clasic Rock/Queen-The Game-03-Another One Bites the Dust.mp3
+/home/pi/Music/share/Clasic Rock/REO Speedwagon-Wheels Are Turnin'-06-Can't Fight This Feeling.mp3
+/home/pi/Music/share/Clasic Rock/Ric Harris-Super Soul Blues, Volume III-13-I Can See Clearly Now.mp3
+/home/pi/Music/share/Clasic Rock/Richard Marx-Sounds of the Eighties 1988-18-Hold On to the Nights.mp3
+/home/pi/Music/share/Clasic Rock/Richard O'Brien-The Rocky Horror Picture Show (1975 Film)-04-The Time Warp.mp3
+/home/pi/Music/share/Clasic Rock/Roy Orbison-Roy, Gene & Dion-01-Pretty Woman.mp3
+/home/pi/Music/share/Clasic Rock/Sam Cooke-Greatest-11-Cupid.mp3
+/home/pi/Music/share/Clasic Rock/Sam Cooke-National Lampoon's Animal House-03-Twistin' the Night Away.mp3
+/home/pi/Music/share/Clasic Rock/Sam Cooke-The Best Of-11-Wonderful World (Don't Know Much).mp3
+/home/pi/Music/share/Clasic Rock/Sam Cooke-The Man and His Music-04-You Send Me.mp3
+/home/pi/Music/share/Clasic Rock/Sam Cooke-The Man and His Music-16-Another Saturday Night.mp3
+/home/pi/Music/share/Clasic Rock/Simon & Garfunkel-Bridge Over Troubled Water-03-Cecilia.mp3
+/home/pi/Music/share/Clasic Rock/Simon & Garfunkel-Collected Works (disc 2)-04-Homeward Bound.mp3
+/home/pi/Music/share/Clasic Rock/Simon & Garfunkel-Greatest Hits-01-Mrs. Robinson.mp3
+/home/pi/Music/share/Clasic Rock/Simon & Garfunkel-Greatest Hits-05-The Sound of Silence.mp3
+/home/pi/Music/share/Clasic Rock/Simon & Garfunkel-Greatest Hits-09-Bridge Over Troubled Water.mp3
+/home/pi/Music/share/Clasic Rock/Smokey Robinson & The Miracles-The Big Chill-04-The Tracks of My Tears.mp3
+/home/pi/Music/share/Clasic Rock/Sonny & Cher-Sonny & Cher Greatest Hits-01-I Got You Babe.mp3
+/home/pi/Music/share/Clasic Rock/Stealers Wheel-Pure 70's-09-Stuck in the Middle With You.mp3
+/home/pi/Music/share/Clasic Rock/Steppenwolf-16 Greatest Hits-09-Magic Carpet Ride.mp3
+/home/pi/Music/share/Clasic Rock/Steppenwolf-Harley-Davidson Road Songs, Volume 2 (disc 2)-04-Magic Carpet Ride.mp3
+/home/pi/Music/share/Clasic Rock/Steppenwolf-Steppenwolf-05-Born to Be Wild.mp3
+/home/pi/Music/share/Clasic Rock/Steve Miller Band-Fly Like an Eagle-07-Take the Money and Run.mp3
+/home/pi/Music/share/Clasic Rock/Steve Miller Band-Greatest Hits 1974-1978-08-The Joker.mp3
+/home/pi/Music/share/Clasic Rock/Steve Miller Band-The Steve Miller Band-05-Fly Like an Eagle.mp3
+/home/pi/Music/share/Clasic Rock/Steve Miller Band-Young Hearts Complete Greatest Hits-03-Rockin' Me.mp3
+/home/pi/Music/share/Clasic Rock/Steve Vai, Joe Satriani and Brian May - Liberty (live).mp3
+/home/pi/Music/share/Clasic Rock/Stevie Ray Vaughan and Double Trouble-In Step-02-Crossfire.mp3
+/home/pi/Music/share/Clasic Rock/Stevie Ray Vaughan-Mega Rare Trax, Volume 1 (disc 3)-11-Superstition.mp3
+/home/pi/Music/share/Clasic Rock/Stevie Wonder-Song Review A Greatest Hits Collection-03-Superstition.mp3
+/home/pi/Music/share/Clasic Rock/Styx-Boat on the River-07-Mr. Roboto.mp3
+/home/pi/Music/share/Clasic Rock/Styx-Greatest Hits-09-Come Sail Away.mp3
+/home/pi/Music/share/Clasic Rock/Supertramp-Even in the Quietest Moments-01-Give a Little Bit.mp3
+/home/pi/Music/share/Clasic Rock/The Alan Parsons Project-Billboard Top Hits 1982-03-Eye in the Sky.mp3
+/home/pi/Music/share/Clasic Rock/The Allman Brothers Band-A Decade of Hits 1969-1979-01-Statesboro Blues.mp3
+/home/pi/Music/share/Clasic Rock/The Allman Brothers Band-A Decade of Hits 1969-1979-02-Ramblin' Man.mp3
+/home/pi/Music/share/Clasic Rock/The Allman Brothers Band-Eat a Peach-03-Melissa.mp3
+/home/pi/Music/share/Clasic Rock/The Allman Brothers Band-Eat a Peach-08-Blue Sky.mp3
+/home/pi/Music/share/Clasic Rock/The Allman Brothers Band-Eat a Peach-09-Little Martha.mp3
+/home/pi/Music/share/Clasic Rock/The Allman Brothers Band-Ramblin' Man-05-Midnight Rider.mp3
+/home/pi/Music/share/Clasic Rock/The Allman Brothers Band-Sounds of the Seventies Guitar Power-06-Statesboro Blues.mp3
+/home/pi/Music/share/Clasic Rock/The Allman Brothers Band-The Allman Brothers Band-07-Whipping Post.mp3
+/home/pi/Music/share/Clasic Rock/The Angels-Pure 60's The #1 Hits-06-My Boyfriend's Back.mp3
+/home/pi/Music/share/Clasic Rock/The Beach Boys-Still Cruisin'-05-Kokomo.mp3
+/home/pi/Music/share/Clasic Rock/The Beatles-Help!-13-Yesterday.mp3
+/home/pi/Music/share/Clasic Rock/The Beatles-Let It Be-06-Let It Be.mp3
+/home/pi/Music/share/Clasic Rock/The Beatles-Magical Mystery Tour-06-I Am the Walrus.mp3
+/home/pi/Music/share/Clasic Rock/The Beatles-The Beatles, Volume 1-14-Mrs. Robinson.mp3
+/home/pi/Music/share/Clasic Rock/The Byrds-The Byrds (disc 1 We Have Ignition)-10-Turn! Turn! Turn! (To Everything There Is a Season).mp3
+/home/pi/Music/share/Clasic Rock/The Clash-Combat Rock-03-Should I Stay or Should I Go.mp3
+/home/pi/Music/share/Clasic Rock/The Doors-The Best of The Doors-16-Hello, I Love You.mp3
+/home/pi/Music/share/Clasic Rock/The Guess Who-American Woman-01-American Woman.mp3
+/home/pi/Music/share/Clasic Rock/The Hollies-Hollies (II)-05-The Air That I Breathe.mp3
+/home/pi/Music/share/Clasic Rock/The Kingsmen-Louie Louie-01-Louie Louie.mp3
+/home/pi/Music/share/Clasic Rock/The Kinks-The Complete Collection-17-Lola.mp3
+/home/pi/Music/share/Clasic Rock/The Main Ingredient-Greatest Hits-01-Everybody Plays The Fool.mp3
+/home/pi/Music/share/Clasic Rock/The McCoys-Super 60's (disc 2)-10-Hang on Sloopy.mp3
+/home/pi/Music/share/Clasic Rock/The Monkees-More of the Monkees-12-I'm a Believer.mp3
+/home/pi/Music/share/Clasic Rock/The Outfield_Your Love.mp3
+/home/pi/Music/share/Clasic Rock/The Police-Synchronicity-07-Every Breath You Take (1).mp3
+/home/pi/Music/share/Clasic Rock/The Police-Synchronicity-07-Every Breath You Take.mp3
+/home/pi/Music/share/Clasic Rock/The Righteous Brothers-Now That's What I Call Music! 18 (disc 1)-08-Unchained Melody.mp3
+/home/pi/Music/share/Clasic Rock/The Righteous Brothers-Unchained Melodies-18-You've Lost That Lovin' Feelin'.mp3
+/home/pi/Music/share/Clasic Rock/The Rolling Stones-Singles Collection The London Years (disc 2)-15-She's a Rainbow.mp3
+/home/pi/Music/share/Clasic Rock/The Rolling Stones-The Best of the Rolling Stones (1962-1965)-13-Time Is on My Side.mp3
+/home/pi/Music/share/Clasic Rock/The Temptations-The Love Album II (disc 1)-12-My Girl.mp3
+/home/pi/Music/share/Clasic Rock/The Tokens-The Lion Sleeps Tonight-01-The Lion Sleeps Tonight.mp3
+/home/pi/Music/share/Clasic Rock/The Who-Quadrophenia (disc 2)-02-Sea and Sand.mp3
+/home/pi/Music/share/Clasic Rock/The Who-Tommy-13-Pinball Wizard.mp3
+/home/pi/Music/share/Clasic Rock/The Youngbloods-Summer of Love, Volume 1Tune In Good Times & Love Vibrations-03-Get Together.mp3
+/home/pi/Music/share/Clasic Rock/Traveling Wilburys-The Complete Collection! (disc 2)-04-Runaway.mp3
+/home/pi/Music/share/Clasic Rock/Traveling Wilburys-Traveling Wilburys, Volume 1-01-Handle With Care.mp3
+/home/pi/Music/share/Clasic Rock/Traveling Wilburys-Traveling Wilburys, Volume 1-03-Rattled.mp3
+/home/pi/Music/share/Clasic Rock/Traveling Wilburys-Traveling Wilburys, Volume 1-04-Last Night.MP3
+/home/pi/Music/share/Clasic Rock/Traveling Wilburys-Traveling Wilburys, Volume 1-09-Tweeter and the Monkey Man.mp3
+/home/pi/Music/share/Clasic Rock/Traveling Wilburys-Traveling Wilburys, Volume 1-10-End of the Line (1).mp3
+/home/pi/Music/share/Clasic Rock/Traveling Wilburys-Traveling Wilburys, Volume 1-10-End of the Line.mp3
+/home/pi/Music/share/Clasic Rock/Triumph-Allied Forces-02-Magic Power.mp3
+/home/pi/Music/share/Clasic Rock/U2-Rattle and Hum-12-When Love Comes to Town.Mp3
+/home/pi/Music/share/Clasic Rock/U2-The Joshua Tree-02-I Still Haven't Found What I'm Looking For.mp3
+/home/pi/Music/share/Clasic Rock/Ugly Kid Joe-Cats in the Cradle-01-Cats in the Cradle.mp3
+/home/pi/Music/share/Clasic Rock/Van Morrison-Brown Eyed Girl-01-Brown Eyed Girl.mp3
+/home/pi/Music/share/Clasic Rock/Whitesnake-1987-01-Still of the Night.mp3
+/home/pi/Music/share/Clasic Rock/Whitesnake-Whitesnake-04-Here I Go Again.mp3
+/home/pi/Music/share/Clasic Rock/ZZ Top-Eliminator-06-Legs.mp3
+/home/pi/Music/share/Clasic Rock/ZZ Top-Fandango-09-Tush.mp3
+/home/pi/Music/share/Clasic Rock/[unknown]-Dance With Neginah #3-06-Electric Slide.mp3
+/home/pi/Music/share/Clasical/01 - Eine kleine Nachtmusik 1 Allegro.mp3
+/home/pi/Music/share/Clasical/01 - Liechtensteiner Polka.mp3
+/home/pi/Music/share/Clasical/02 Entry Of The Gladiators.mp3
+/home/pi/Music/share/Clasical/04. Fruhlingsstimmen op. 410 (Walzer).dts.mp3
+/home/pi/Music/share/Clasical/05. William Tell Overture - Boston Pops Orchestra.mp3
+/home/pi/Music/share/Clasical/11. Chopin_ Piano Sonata No.2 in B flat minor, Op.35 - III. Marche funèbre. Lento - attacca_.flac
+/home/pi/Music/share/Clasical/A2 Colonel Bogey.mp3
+/home/pi/Music/share/Clasical/Bach - Classical Relaxation- Piano Concerto No 9.mp3
+/home/pi/Music/share/Clasical/Bach - Jesu Joy of Man Desiring.MP3
+/home/pi/Music/share/Clasical/Bach - Piano Concerto 5 .mp3
+/home/pi/Music/share/Clasical/Bach - Two Part Invention No 13 in a (A. Schiff).wpk
+/home/pi/Music/share/Clasical/Beethoven - Sonata 4 piano #14 in csm, op27, 1st mvmt.mp3
+/home/pi/Music/share/Clasical/Béla Bartók-Bluebeard's Castle (feat. conductor Istvan Kertesz)-01-Opening (Megérkeztünk).MP3
+/home/pi/Music/share/Clasical/Béla Bartók-The Miraculous Mandarin and Music for Strings, Percussion and Celesta-02-Miraculous Mandarin, First decoy game (moderato).mp3
+/home/pi/Music/share/Clasical/Camille Saint-Saëns-Peter and the Wolf-16-Carnival of the Animals - Finale.mp3
+/home/pi/Music/share/Clasical/Camille Saint-Saëns-The Essential Saint-Saëns (disc 2)-19-Piano Concerto No. 2 in G Minor Allegro Scherzando.mp3
+/home/pi/Music/share/Clasical/Charlotte Church-Charlotte Church-02-La Pastorella.mp3
+/home/pi/Music/share/Clasical/Charlotte Church-Charlotte Church-11-Voi Che Sapete(Tell Me What Love Is).mp3
+/home/pi/Music/share/Clasical/Chicago Symphony Orchestra-Fantasia 2000-02-Pines of Rome (Respighi).mp3
+/home/pi/Music/share/Clasical/Chicago Symphony Orchestra-Fantasia 2000-04-Piano Concerto No. 2, Allegro, Opus 102 (Shostakovich).mp3
+/home/pi/Music/share/Clasical/Chicago Symphony Orchestra-Fantasia 2000-07-Pomp and Circumstance, Marches # 1, 2, 3, & 4 (Elgar).mp3
+/home/pi/Music/share/Clasical/Chicago Symphony Orchestra-Fantasia 2000-08-Firebird Suite 1919 Version (Stravinsky).mp3
+/home/pi/Music/share/Clasical/Classical-Bach - 1st Piano Concerto Movement 1, Allegro.mp3
+/home/pi/Music/share/Clasical/Edvard Grieg-Peer Gynt-04-In the Hall of the Mountain King.mp3
+/home/pi/Music/share/Clasical/Felix Mendelssohn-101 Classical Greats (disc 3)-14-Midsummer Nights Dream, Op. 21, Wedding March.mp3
+/home/pi/Music/share/Clasical/Frédéric Chopin-Piano Concerto No. 1 6 Preludes (Stanislav Bunin)-06-No. 15 in D flat major Raindrops.mp3
+/home/pi/Music/share/Clasical/Frédéric Chopin-Polonaises (feat. piano Vladimir Ashkenazy)-06-Polonaise No. 6 in A-flat major, Op. 53.mp3
+/home/pi/Music/share/Clasical/Frédéric Chopin-Super Hits-07-Nocturne in E-Flat Major,.mp3
+/home/pi/Music/share/Clasical/George Gershwin-25 Piano Favorites-25-Rhapsody in Blue (Finale).mp3
+/home/pi/Music/share/Clasical/George Gershwin-Piano Masterpieces (Classical Heritage 1206 disc D)-04-Rhapsody in Blue.mp3
+/home/pi/Music/share/Clasical/gould_meets_menuhin_-_bach.mp3
+/home/pi/Music/share/Clasical/Hector Berlioz-Symphonie Fantastique, etc. (Orchestra Lamoureux)-04-Symphonie fantastique IV. March to the Scaffold Allegretto non troppo.mp3
+/home/pi/Music/share/Clasical/Henry Mancini-The Days of Wine and Roses (disc 3)-12-As Time Goes By.mp3
+/home/pi/Music/share/Clasical/Igor Stravinsky - Le Sacre du Printemps - The Rite of Spring (disc 2) - 01 - Part 1 Adoration of the Earth; Introduction.mp3
+/home/pi/Music/share/Clasical/Jacques Offenbach-Ravel Bolero-01-Orpheus in the Underworld (Can-Can).mp3
+/home/pi/Music/share/Clasical/Jerome_Lebanner_K-1_Orff_ Carmina Burana_ O Fortuna.mp3
+/home/pi/Music/share/Clasical/Johann Sebastian Bach - Two Part Invention No 13 in A minor.mp3
+/home/pi/Music/share/Clasical/Johann Sebastian Bach-2 & 3 Part Inventions (feat. piano Glenn Gould)-05-Invention 5 in E-flat major, BWV 776.mp3
+/home/pi/Music/share/Clasical/Johann Sebastian Bach-2 & 3 Part Inventions (feat. piano Glenn Gould)-07-Invention 14 in B-flat major, BWV 785.mp3
+/home/pi/Music/share/Clasical/Johann Sebastian Bach-2 & 3 Part Inventions (feat. piano Glenn Gould)-15-Invention 7 in E minor, BWV 778.mp3
+/home/pi/Music/share/Clasical/Johann Sebastian Bach-2 & 3 Part Inventions (feat. piano Glenn Gould)-23-Invention 3 in D major, BWV 774.mp3
+/home/pi/Music/share/Clasical/Johann Sebastian Bach-2 & 3 Part Inventions (feat. piano Glenn Gould)-27-Invention 8 in F major, BWV 779.mp3
+/home/pi/Music/share/Clasical/Johann Sebastian Bach-Brandenburg Concertos No. 5 & 6 (feat. conductor Benjamin Britten)-01-Concertos No. 5 in D major, BWV 1050 I. Allegro.mp3
+/home/pi/Music/share/Clasical/Johann Sebastian Bach-Classical Jukebox, Volume 1-01-Minuet in G.mp3
+/home/pi/Music/share/Clasical/Johann Sebastian Bach-Concertos for Piano & Orchestra Nos. 1-5 & 7 ___imir Golschmann, piano Glenn Gould) (disc 1)-01-Concerto for Piano & Orchestra No. 1 in D minor, BWV 1052 I. Allegro.mp3
+/home/pi/Music/share/Clasical/Johann Sebastian Bach-Fantasias and Inventions-12-Invention 11 in G minor.mp3
+/home/pi/Music/share/Clasical/Johann Sebastian Bach-Goldberg Variations Italian Concerto in F ___ntasia and Fugue in D minor (Wanda Landowska)-12-Chromatic Fantasia and Fugue - Fantasia.mp3
+/home/pi/Music/share/Clasical/Johann Sebastian Bach-I Musici Albinoni-16-Polonaise.mp3
+/home/pi/Music/share/Clasical/Johann Sebastian Bach-Julian Bream Plays Bach-12-Adagio.mp3
+/home/pi/Music/share/Clasical/Johann Sebastian Bach-Masters of Classical Music, Volume 2-06-Prelude in C major, BWV 846a (feat. harp Andrea Vigh).mp3
+/home/pi/Music/share/Clasical/Johann Sebastian Bach-The Best of J.S.Bach-09-Piano Concerto No. 5 in F minor.mp3
+/home/pi/Music/share/Clasical/Johann Sebastian Bach-The Best of Johann Sebastian Bach-02-Toccata And Fugue in d minor, BWV 565.mp3
+/home/pi/Music/share/Clasical/Johann Sebastian Bach-The Complete Keyboard Works Of J.S. Bach On C___d Three Part Inventions (Joao Carlos Martins)-13-The Two Part Inventions No. 13 In A Minor.mp3
+/home/pi/Music/share/Clasical/Johann Sebastian Bach-The Six Trio Sonatas-17-Sonata in E flat II Adagio.mp3
+/home/pi/Music/share/Clasical/Joseph Haydn-The Art of Glenn Gould Bach, Beethoven, Haydn-10-Piano Sonata in E-flat major, Hob XVI 49 I. Allegro.mp3
+/home/pi/Music/share/Clasical/Ludwig van Beethoven-25 Beethoven Favorites-03-Piano Sonata No. 21 in C 'Waldstein'.mp3
+/home/pi/Music/share/Clasical/Ludwig van Beethoven-Air on the G String (Boccherini Quartet)-04-Moonlight Sonata.mp3
+/home/pi/Music/share/Clasical/Ludwig van Beethoven-Beethoven's Greatest Hits-02-Minuet In G.mp3
+/home/pi/Music/share/Clasical/Ludwig van Beethoven-BeethovenThe Great Composers-06-Moonlight Sonata, 1st movement.mp3
+/home/pi/Music/share/Clasical/Ludwig van Beethoven-Classical Wedding (Craig Duncan)-02-Ode to Joy.mp3
+/home/pi/Music/share/Clasical/Ludwig van Beethoven-Concerto No. 5 and Sonata No. 8 (Anton Dikov & Emil Tabakov)-06-Piano Sonata No. 8 Pathetique III. Rondo. Allegro.mp3
+/home/pi/Music/share/Clasical/Ludwig van Beethoven-Für Elise Favourite Piano Works (feat. Misha Goldstein)-01-Für Elise.mp3
+/home/pi/Music/share/Clasical/Ludwig van Beethoven-Immortal Beloved-08-Piano Sonata No. 8 in C Minor Pathetique.mp3
+/home/pi/Music/share/Clasical/Ludwig van Beethoven-Piano Sonatas Nos. 17, 18 & 26 (feat. Murray Perahia)-10-Piano Sonata No. 26 in E-flat major, Op. 81a (Das LebewohlLes___eux) III. Das WiedersehnLe RetourThe Return Vivacissimamente.mp3
+/home/pi/Music/share/Clasical/Ludwig van Beethoven-Piano Sonatas Op. 27 Op. 13 Op. 53 (feat. Dubravka Tomsic)-04-Piano Sonata No. 8 in C minor Op. 13 Pathetique I. Grave Allegro di molto.mp3
+/home/pi/Music/share/Clasical/Ludwig van Beethoven-Portrait of Vladimir Horowitz-08-Sonata No. 14, Op. 27, No. 2 Moonlight III. Presto Agitato.mp3
+/home/pi/Music/share/Clasical/Ludwig van Beethoven-Pure Classical Chillout (disc 2)-15-Piano Sonata No. 8 In C Minor.mp3
+/home/pi/Music/share/Clasical/Ludwig van Beethoven-Serenade Festival ''Dreaming'' (Amsterdam Royal Philharmonic feat. conductor Hans Meichnen)-07-Minuet for piano in G major, WoO 10 No. 2.mp3
+/home/pi/Music/share/Clasical/Ludwig van Beethoven-Symphony No. 9 (London Symphony Orchestra and Chorus)-02-Symphony No. 9 II. Molto vivace - Presto.mp3
+/home/pi/Music/share/Clasical/Ludwig van Beethoven-The Greatest Hits (Disc 2)-02-Piano Concerto No. 5, emporer -- Allegro.mp3
+/home/pi/Music/share/Clasical/Ludwig van Beethoven-The Masterpiece Collection Beethoven-04-Piano Concerto No. 5 In E Flat Major Op. 73.mp3
+/home/pi/Music/share/Clasical/Ludwig van Beethoven-Top 10 of Classical Music Classical-05-Symphony No. 5, 1st movement.mp3
+/home/pi/Music/share/Clasical/Ludwig van Beethoven-Walt Disney Pictures Presents 'Fantasia 2000'-01-Symphony No. 5 (excerpt) (Chicago Symphony Orchestra).mp3
+/home/pi/Music/share/Clasical/Mozart - Symphony No. 41 (Jupiter, Molto Allegro).mp3
+/home/pi/Music/share/Clasical/Mozart - Vienna Choir Boys - Ave Verum Corpus.mp3
+/home/pi/Music/share/Clasical/Mozart - Violin Concerto No. 5 in A major K 219 - Menuetto.mp3
+/home/pi/Music/share/Clasical/Mozart - Violin Concerto No. 5 in A.mp3
+/home/pi/Music/share/Clasical/Mozart Requiem -08.mp3
+/home/pi/Music/share/Clasical/Mozart-Violin Concerto No 5-Allegro Aperto.mp3
+/home/pi/Music/share/Clasical/mozart_piano_sonata_10_in_.mp3
+/home/pi/Music/share/Clasical/mozart_piano_sonata_5_in_b.mp3
+/home/pi/Music/share/Clasical/newage-Mozart Effect Vol II Heal The Body - Mozart - Romance from Piano Concerto -20 in D Minor, K 466.mp3
+/home/pi/Music/share/Clasical/nutcracker_march.mp3
+/home/pi/Music/share/Clasical/Outatime Orchestra - Back To The Future Overture.mp3
+/home/pi/Music/share/Clasical/Pachabel - Canon in D.mp3
+/home/pi/Music/share/Clasical/Pachabel Cannon in D (Piano).mp3
+/home/pi/Music/share/Clasical/Paganini - Violin Concerto No. 1.mp3
+/home/pi/Music/share/Clasical/Piano - Beethoven - Ode To Joy.mp3
+/home/pi/Music/share/Clasical/Rossini - Barber of Seville.mp3
+/home/pi/Music/share/Clasical/Rossini_-_Barber_of_Seville_Overture.mp3
+/home/pi/Music/share/Clasical/Scott Joplin-Greatest Hits-07-The Entertainer.mp3
+/home/pi/Music/share/Clasical/Scott Joplin-Scott Joplin His Complete Works (disc 1) (Richard Zimmerman)-07-Maple Leaf Rag.mp3
+/home/pi/Music/share/Clasical/Shostakovich - Piano Concerto No 2 in F.mp3
+/home/pi/Music/share/Clasical/Shostakovich - Symphony No. 4.mp3
+/home/pi/Music/share/Clasical/Shostakovich - Symphony no.5 mvt.4.mp3
+/home/pi/Music/share/Clasical/Strauss Blue Danube Waltz.mp3
+/home/pi/Music/share/Clasical/Tchaikovsky   Capriccio Italien    Antal Dorati.mp3
+/home/pi/Music/share/Clasical/Tchaikovsky - 1812 Overture.mp3
+/home/pi/Music/share/Clasical/Tchaikovsky - Arab Dance.mp3
+/home/pi/Music/share/Clasical/Tchaikovsky - Chinese Dance.mp3
+/home/pi/Music/share/Clasical/Tchaikovsky - Dance of the Sugar-Plum Fairy.mp3
+/home/pi/Music/share/Clasical/Tchaikovsky - Marche slave, Op. 31.mp3
+/home/pi/Music/share/Clasical/Tchaikovsky - Nutcracker Suite (Dance Of The Sugar Plum Fairies).mp3
+/home/pi/Music/share/Clasical/Tchaikovsky - Nutcracker Suite - Dance of the Sugar Plum Fairy.mp3
+/home/pi/Music/share/Clasical/Tchaikovsky - Nutcracker Suite-March.mp3
+/home/pi/Music/share/Clasical/Tchaikovsky - Romeo and Juliet - Love Theme.mp3
+/home/pi/Music/share/Clasical/Tchaikovsky - Romeo and Juliet.mp3
+/home/pi/Music/share/Clasical/Tchaikovsky - Sleeping Beauty Waltz.mp3
+/home/pi/Music/share/Clasical/Tchaikovsky - Swan Lake.mp3
+/home/pi/Music/share/Clasical/Tchaikovsky - The March From The Nutcracker.mp3
+/home/pi/Music/share/Clasical/Tchaikovsky - Waltz of the Flowers from Sleeping Beauty.mp3
+/home/pi/Music/share/Clasical/Tchaikovsky Trepak - Russian Dance.mp3
+/home/pi/Music/share/Clasical/Tchaikovsky- Piano Concerto No. 1 in B-flat Minor (Introduction).mp3
+/home/pi/Music/share/Clasical/Tchaikovsky-Violin Concerto No 1 -3 Finale.mp3
+/home/pi/Music/share/Clasical/The Philharmonia Orchestra-Fantasia 2000-06-The Sorcerer's Apprentice (Dukas).mp3
+/home/pi/Music/share/Clasical/The Prague Philharmonic Orchestra & Chorus-Romeo & Juliet-19-Love Theme From Romeo And Juliet.mp3
+/home/pi/Music/share/Clasical/Thumbs.db
+/home/pi/Music/share/Clasical/Violin Concerto Op. 14, Allegro.mp3
+/home/pi/Music/share/Clasical/W. THOMAS, T. RENDALL - CHICKEN DANCE.FLAC
+/home/pi/Music/share/Clasical/Wolfgang Amadeus Mozart-200 Greatest Classics, Volume 1-12-Piano Sonata #15 in C Major.mp3
+/home/pi/Music/share/Clasical/Wolfgang Amadeus Mozart-Adagios (disc 1)-08-Symphony #40.mp3
+/home/pi/Music/share/Clasical/Wolfgang Amadeus Mozart-Choruses The Greatest Hits (Disc 1)-05-Requiem aetemam from 'Requiem' Mass.mp3
+/home/pi/Music/share/Clasical/Wolfgang Amadeus Mozart-Classica II-10-Greensleeves.mp3
+/home/pi/Music/share/Clasical/Wolfgang Amadeus Mozart-Complete Mozart Edition, Volume 7 Piano Concertos (disc 9) (Alfred Brendel)-03-Concerto No. 20 in D minor, KV 466; Rondo (Allegro assai).mp3
+/home/pi/Music/share/Clasical/Wolfgang Amadeus Mozart-Don Giovanni-16-La ci darem la mano.Mp3
+/home/pi/Music/share/Clasical/Wolfgang Amadeus Mozart-Flute Concertos or Oboe And Flute (Antonio Salieri)-06-Flute Concerto in D major, K. 314 III. Rondo. Allegretto.mp3
+/home/pi/Music/share/Clasical/Wolfgang Amadeus Mozart-Horowitz (The Last Romantic)-02-Piano Sonata in C, K330 I. Allgro Moderato.mp3
+/home/pi/Music/share/Clasical/Wolfgang Amadeus Mozart-Horowitz (The Last Romantic)-03-Piano Sonata in C, K330 II. Andante Cantabile.mp3
+/home/pi/Music/share/Clasical/Wolfgang Amadeus Mozart-Mozart - Early Symphonies, Volume 1 (disc 2)-12-Mozart Symphony No 8 in d KV 48 1 Allegro.mp3
+/home/pi/Music/share/Clasical/Wolfgang Amadeus Mozart-Mozart for Meditation-11-Fantasia in D minor.mp3
+/home/pi/Music/share/Clasical/Wolfgang Amadeus Mozart-Opera Highlights (HMV)-15-Der Vogelfanger bin ich ja.mp3
+/home/pi/Music/share/Clasical/Wolfgang Amadeus Mozart-Piano Concerto No. 21 No. 17 (Vilmos Fischer)-02-Piano Concerto No. 21 in C major Elvira Madigan II. Andante.mp3
+/home/pi/Music/share/Clasical/Wolfgang Amadeus Mozart-Requiem - Schreier-01-I. Introitus Requiem.mp3
+/home/pi/Music/share/Clasical/Wolfgang Amadeus Mozart-Requiem Mass, K.626 - Exsultate Jubilate K.165-01-Requiem.mp3
+/home/pi/Music/share/Clasical/Wolfgang Amadeus Mozart-Requiem-03-III. Sequenz - 1. Dies Irae.mp3
+/home/pi/Music/share/Clasical/Wolfgang Amadeus Mozart-Requiem-11-Sanctus.mp3
+/home/pi/Music/share/Clasical/Wolfgang Amadeus Mozart-Requiem-14-Communio Lux Aeterna.mp3
+/home/pi/Music/share/Clasical/Wolfgang Amadeus Mozart-Spiritual Classics-06-Dies Irae (Requiem).mp3
+/home/pi/Music/share/Clasical/Wolfgang Amadeus Mozart-The 5 Violin Concertos (disc 2)-08-Concerto No. 5 in A major, K. 219 - II Adagio.mp3
+/home/pi/Music/share/Clasical/Wolfgang Amadeus Mozart-The Best of Mozart, Volume 2-02-Fantasy in D minor.mp3
+/home/pi/Music/share/Clasical/Wolfgang Amadeus Mozart-The Best of Mozart-03-Symphony No. 25 in G minor, K. 183 (K. 173dB) Allegro.mp3
+/home/pi/Music/share/Clasical/Wolfgang Amadeus Mozart-The Classics Mozart-08-Laudate Dominum.mp3
+/home/pi/Music/share/Clasical/Wolfgang Amadeus Mozart-The Greatest Hits (disc 1)-07-Piano Concerto No. 20 -- Romance.mp3
+/home/pi/Music/share/Clasical/Wolfgang Amadeus Mozart-The Mozart Album (The Canadian Brass)-08-Rondo Alla Turca from Piano Sonata.mp3
+/home/pi/Music/share/Clasical/Wolfgang Amadeus Mozart-The Shawshank Redemption-16-The Marriage of Figaro Duettino Sull 'Aria.mp3
+/home/pi/Music/share/Clasical/Wolfgang Amadeus Mozart-Velvet Classics (Disc 1)-04-Eine Kleine Nachtmuzik Serenade Allegro.mp3
+/home/pi/Music/share/Country/Alison Krauss & Union Station-Keith Whitley A Tribute Album-05-When You Say Nothing at All.mp3
+/home/pi/Music/share/Country/Diamond Rio-Diamond Rio-01-Meet in the Middle.mp3
+/home/pi/Music/share/Country/Garth Brooks-No Fences-05-Friends in Low Places.mp3
+/home/pi/Music/share/Country/Keith Whitley-Don't Close Your Eyes-10-When You Say Nothing At All.mp3
+/home/pi/Music/share/Country/Lionel Cartwright-Chasin' the Sun-10-Leap of Faith.mp3
+/home/pi/Music/share/Country/Wynonna-Wynonna-03-I Saw the Light.mp3
+/home/pi/Music/share/Creedence Clearwater Revival - I Heard It Through The Grapevine.wma
+/home/pi/Music/share/Creedence Clearwater Revival - I Put A Spell On You.wma
+/home/pi/Music/share/Creedence Clearwater Revival-25 grandes exitos (disc 2)-10-Born on the Bayou.mp3
+/home/pi/Music/share/Creedence Clearwater Revival-Chronicle, Volume 1-16-I Heard It Through the Grapevine.mp3
+/home/pi/Music/share/Creedence Clearwater Revival-Mardi Gras-05-Someday Never Comes.mp3
+/home/pi/Music/share/Creedence Clearwater Revival-Revival - TimeLife Classic Rock-05-Bad Moon Rising.mp3
+/home/pi/Music/share/Creedence Clearwater Revival-The Very Best Of-03-I Put a Spell on You.mp3
+/home/pi/Music/share/Crosby, Stills & Nash-CSN (disc 1)-01-Suite Judy Blue Eyes.mp3
+/home/pi/Music/share/Crosby, Stills & Nash-CSN (disc 1)-02-Helplessly Hoping.mp3
+/home/pi/Music/share/Crosby, Stills & Nash-CSN (disc 1)-03-You Don't Have to Cry.mp3
+/home/pi/Music/share/Crosby, Stills & Nash-CSN (disc 1)-04-Wooden Ships.mp3
+/home/pi/Music/share/Crosby, Stills & Nash-CSN (disc 1)-05-Guinnevere.mp3
+/home/pi/Music/share/Crosby, Stills & Nash-CSN (disc 1)-06-Marrakesh Express.mp3
+/home/pi/Music/share/Crosby, Stills & Nash-CSN (disc 1)-07-Long Time Gone.mp3
+/home/pi/Music/share/Crosby, Stills & Nash-CSN (disc 1)-08-Blackbird.mp3
+/home/pi/Music/share/Crosby, Stills & Nash-CSN (disc 1)-09-Lady of the Island.mp3
+/home/pi/Music/share/Crosby, Stills & Nash-CSN (disc 1)-10-Song With No Words (Tree With No Leaves).mp3
+/home/pi/Music/share/Crosby, Stills & Nash-CSN (disc 1)-11-Almost Cut My Hair.mp3
+/home/pi/Music/share/Crosby, Stills & Nash-CSN (disc 1)-12-Teach Your Children.mp3
+/home/pi/Music/share/Crosby, Stills & Nash-CSN (disc 1)-13-Horses Through a Rainstorm.mp3
+/home/pi/Music/share/Crosby, Stills & Nash-CSN (disc 1)-14-Deja Vu.mp3
+/home/pi/Music/share/Crosby, Stills & Nash-CSN (disc 1)-15-Helpless.mp3
+/home/pi/Music/share/Crosby, Stills & Nash-CSN (disc 1)-16-4 + 20.mp3
+/home/pi/Music/share/Crosby, Stills & Nash-CSN (disc 1)-17-Laughing.mp3
+/home/pi/Music/share/Crosby, Stills & Nash-CSN (disc 1)-18-Carry OnQuestions.mp3
+/home/pi/Music/share/Crosby, Stills, Nash & Young-American Dream-01-American Dream.mp3
+/home/pi/Music/share/David Bowie-Ziggy Stardust The Motion Picture-13-Let's Spend the Night Together.mp3
+/home/pi/Music/share/Deep Purple-Fireball-01-Fireball.mp3
+/home/pi/Music/share/Deep Purple-Made in Japan-05-Child in Time.mp3
+/home/pi/Music/share/Deep Purple-Made in Japan-06-Smoke on the Water.mp3
+/home/pi/Music/share/Deep Purple-Nobody's Perfect-09-Woman From Tokyo.mp3
+/home/pi/Music/share/Dion-1960's Classic Hits-12-Abraham, Martin & John.mp3
+/home/pi/Music/share/Don McLean-American Pie & Other Hits-04-Vincent.mp3
+/home/pi/Music/share/Don McLean-Classics-01-American Pie (original).mp3
+/home/pi/Music/share/Don McLean-Totally 70's (disc 2)-06-American Pie.mp3
+/home/pi/Music/share/Doobie Brothers - China Groove.wma
+/home/pi/Music/share/Doobie Brothers - Long Train Running.wma
+/home/pi/Music/share/Dr  Hook & The Medicine Show - The Cover Of 'rolling Stone'.wma
+/home/pi/Music/share/Dr. Hook-Dr. Hook Collection (disc 1)-02-The Cover of the Rolling Stone.mp3
+/home/pi/Music/share/Dr. Hook-Time-Life Music AM Gold 1973-18-The Cover of 'Rolling Stone'.mp3
+/home/pi/Music/share/Eagles - Desperado (Live).wma
+/home/pi/Music/share/Eagles - Desperado.wma
+/home/pi/Music/share/Eagles - Tequila Sunrise.wma
+/home/pi/Music/share/Eddie Money-Time-Life Classic Rock 1980-1984 (disc 2)-02-Think I'm in Love.mp3
+/home/pi/Music/share/Eddy Grant-Killer on the Rampage-01-Electric Avenue.mp3
+/home/pi/Music/share/Electric Light Orchestra - Roll Over Beethoven.wma
+/home/pi/Music/share/Electric Light Orchestra-Afterglow (disc 2 L)-04-Do Ya.mp3
+/home/pi/Music/share/Electric Light Orchestra-The Best of Electric Light Orchestra-15-Don't Bring Me Down.mp3
+/home/pi/Music/share/Electric Light Orchestra-The Definitive Collection-30-Roll Over Beethoven.mp3
+/home/pi/Music/share/Elton John - Crocodile Rock.wma
+/home/pi/Music/share/Elton John - Daniel.wma
+/home/pi/Music/share/Elton John-Billboard Top Rock & Roll Hits 1973-01-Crocodile Rock.mp3
+/home/pi/Music/share/Elton John-Billboard Top Rock & Roll Hits 1973-07-Goodbye Yellow Brick Road.mp3
+/home/pi/Music/share/Elton John-Goodbye Yellow Brick Road-10-The Ballad of Danny Bailey (1909-34).mp3
+/home/pi/Music/share/Elton John-Greatest Hits 1970-2002 (disc 2)-04-Sad Songs (Say So Much).mp3
+/home/pi/Music/share/Elton John-The Collection-14-Ballad of a Well Known Gun.mp3
+/home/pi/Music/share/Elton John-The Very Best of Elton John (disc 1)-05-Daniel.mp3
+/home/pi/Music/share/Elvis Presley-Hit Story (disc 1 Elvis 30 #1 Hits)-29-Burning Love.mp3
+/home/pi/Music/share/Elvis Presley-The Sunday Times Elvis Presley-04-I Just Can't help Believin'.mp3
+/home/pi/Music/share/Emerson, Lake & Palmer-Brain Salad Surgery-05-Karn Evil 9 1st Impression.mp3
+/home/pi/Music/share/Emerson, Lake & Palmer-Brain Salad Surgery-06-Karn Evil 91st Impression Part 2.mp3
+/home/pi/Music/share/Eric Clapton - 22 - Tales Of Brave Ulysses - Cream.mp3
+/home/pi/Music/share/Eurythmics-The Golden Collection (disc 3)-01-Sweet Dreams.mp3
+/home/pi/Music/share/Fine Young Cannibals-The Raw & The Cooked-01-She Drives Me Crazy.mp3
+/home/pi/Music/share/Fleetwood Mac-Greatest Hits-02-Oh Well Part 1.mp3
+/home/pi/Music/share/Fleetwood Mac-Then Play On-06-Oh Well.mp3
+/home/pi/Music/share/Foreigner-Complete Greatest Hits-15-I Want to Know What Love Is.mp3
+/home/pi/Music/share/Foreigner-Footloose 15th Anniversary Collector's Edition-12-Waiting for a Girl Like You.mp3
+/home/pi/Music/share/Frank Sinatra-Ol' Blue Eyes Is Back-07-Let Me Try Again.mp3
+/home/pi/Music/share/George Harrison - Give Me Love.wma
+/home/pi/Music/share/George Harrison-Best of Dark Horse 1976-1989-14-All Those Years Ago.mp3
+/home/pi/Music/share/George Harrison-The Best of George Harrison-09-Give Me Love (Give Me Peace on Earth).mp3
+/home/pi/Music/share/George Harrison-The Concert for Bangladesh (disc 2)-09-Bangla Desh.mp3
+/home/pi/Music/share/George Michael-Back to the 80s (disc 2)-06-Faith.mp3
+/home/pi/Music/share/George Thorogood & The Destroyers-Bad to the Bone-06-Bad to the Bone.mp3
+/home/pi/Music/share/George Thorogood & The Destroyers-Maverick-02-I Drink Alone.mp3
+/home/pi/Music/share/Gerry Rafferty-Baker Street-01-Baker Street.mp3
+/home/pi/Music/share/Gladys Knight & The Pips-Billboard Top Rock & Roll Hits 1973-03-Midnight Train To Georgia.mp3
+/home/pi/Music/share/Glenn Frey-Sounds of the Eighties 1985-11-The Heat Is On.mp3
+/home/pi/Music/share/Glenn Miller-Let's Swing (disc 4)-01-In the Mood.mp3
+/home/pi/Music/share/Golden Earring-Radar Love-01-Radar Love.mp3
+/home/pi/Music/share/Greenfield and Cook-The Best Of Greenfield And Cook-07-Where.mp3
+/home/pi/Music/share/Greenfield and Cook-The Best Of Greenfield And Cook-09-Don't Turn Me Loose.mp3
+/home/pi/Music/share/Greenfield and Cook-The Best Of Greenfield And Cook-11-Melody.mp3
+/home/pi/Music/share/Greenfield and Cook-The Best Of Greenfield And Cook-15-Far Too Late.mp3
+/home/pi/Music/share/Greenfield and Cook-Top 40 Hitdossier 1973-1974 (disc 1)-07-Easy Boy.mp3
+/home/pi/Music/share/Haddaway - What is Love   Lyrics.mp3
+/home/pi/Music/share/Harold Melvin & The Blue Notes-The Best of Harold Melvin & The Blue Notes-03-If You Don't Know Me by Now.mp3
+/home/pi/Music/share/Heart-Heart-02-What About Love.mp3
+/home/pi/Music/share/Heart-Heart-04-These Dreams.mp3
+/home/pi/Music/share/Huey Lewis & the News-Sounds of the Eighties The Mid-'80s Take Two-10-The Heart of Rock 'n' Roll.mp3
+/home/pi/Music/share/Huey Lewis & the News-Time-Life Classic Rock 1980-1984 (disc 2)-06-If This Is It.mp3
+/home/pi/Music/share/Iggy Pop-Blah-Blah-Blah-01-Real Wild Child.mp3
+/home/pi/Music/share/INXS-Kick-04-Need You Tonight.mp3
+/home/pi/Music/share/Janis Ian-Singers & Songwriters, Volume 1-09-At Seventeen.mp3
+/home/pi/Music/share/Jefferson Starship-Time-Life Classic Rock 1980-1984 (disc 1)-10-No Way Out.mp3
+/home/pi/Music/share/Jim Croce - Bad Leroy Brown.wma
+/home/pi/Music/share/Jim Croce-Best Singles of All Time (disc 10 The No. 1s)-16-Bad, Bad Leroy Brown.mp3
+/home/pi/Music/share/Jim Croce-Billboard Top Rock & Roll Hits 1973-02-Bad, Bad Leroy Brown.mp3
+/home/pi/Music/share/Joan Jett and the Blackhearts-20 Years on MTV 1981-1984 (disc 2)-05-I Love Rock and Roll.mp3
+/home/pi/Music/share/Joan Jett and the Blackhearts-Fit to Be Tied-09-Crimson and Clover.mp3
+/home/pi/Music/share/Joe Cocker-Classics, Volume 4-01-Feeling Alright.mp3
+/home/pi/Music/share/Joe Cocker-Summer of Love (disc 4)-15-With a Little Help From My Friends.mp3
+/home/pi/Music/share/Joe Walsh-Time-Life Classic Rock 1980-1984 (disc 1)-11-A Life of Illusion.mp3
+/home/pi/Music/share/John Denver - Take Me Home, Country Roads.mp3
+/home/pi/Music/share/John Denver - Take Me Home, Country Roads2.mp3
+/home/pi/Music/share/John Lennon & Yoko Ono-Now! The Christmas Album (disc 1)-01-Happy Xmas (War Is Over).mp3
+/home/pi/Music/share/John Lennon - Mind Games.wma
+/home/pi/Music/share/John Lennon-Imagine-01-Imagine.mp3
+/home/pi/Music/share/John Lennon-Shaved Fish-06-Woman Is the Nigger of the World.mp3
+/home/pi/Music/share/John Lennon-The John Lennon Collection-08-Happy Xmas (War Is Over).mp3
+/home/pi/Music/share/John Mellencamp-Sounds of the Eighties The Rolling Stone Collection 1982-1983-05-Jack & Diane.mp3
+/home/pi/Music/share/Johnny Cash-The Best of Johnny Cash-18-A Thing Called Love.mp3
+/home/pi/Music/share/Johnny Nash-Freewheeling Daily Mail Part One-06-I Can See Clearly Now.mp3
+/home/pi/Music/share/Johnny Pearson-Music for TV Dinners-16-Sleepy Shores.mp3
+/home/pi/Music/share/Jonathan King-King of Hits (disc 1)-04-Hooked on a Feeling.mp3
+/home/pi/Music/share/Journey-Escape-01-Don't Stop Believin'.mp3
+/home/pi/Music/share/Journey-Escape-02-Stone in Love.mp3
+/home/pi/Music/share/Journey-Escape-03-Who's Crying Now.mp3
+/home/pi/Music/share/Journey-Escape-04-Keep on Runnin'.mp3
+/home/pi/Music/share/Journey-Escape-05-Still They Ride.mp3
+/home/pi/Music/share/Journey-Escape-06-Escape.mp3
+/home/pi/Music/share/Journey-Escape-07-Lay it Down.mp3
+/home/pi/Music/share/Journey-Escape-08-Dead or Alive.mp3
+/home/pi/Music/share/Journey-Escape-09-Mother, Father.mp3
+/home/pi/Music/share/Journey-Escape-10-Open Arms.mp3
+/home/pi/Music/share/Journey-Infinity-01-Lights.mp3
+/home/pi/Music/share/Journey-Infinity-02-Feeling That Way.mp3
+/home/pi/Music/share/Journey-Infinity-03-Anytime.mp3
+/home/pi/Music/share/Journey-Infinity-04-La Do Da.mp3
+/home/pi/Music/share/Journey-Infinity-05-Patiently.mp3
+/home/pi/Music/share/Journey-Infinity-06-Wheel in the Sky.mp3
+/home/pi/Music/share/Journey-Infinity-07-Somethin' to Hide.mp3
+/home/pi/Music/share/Journey-Infinity-08-Winds of March.mp3
+/home/pi/Music/share/Journey-Infinity-09-Can Do.mp3
+/home/pi/Music/share/Journey-Infinity-10-Opened the Door.mp3
+/home/pi/Music/share/Kansas - Two For The Show - 08 - Dust In The Wind (Acoustic Guitar Solo).mp3
+/home/pi/Music/share/Kansas - Two For The Show - 09 - Lonely Wind (Piano Solo).mp3
+/home/pi/Music/share/Kansas - Two For The Show - 12 - The Wall.mp3
+/home/pi/Music/share/Kansas-Leftoverture-01-Carry on Wayward Son.mp3
+/home/pi/Music/share/Kansas-Leftoverture-09-Carry on Wayward Son (live).mp3
+/home/pi/Music/share/Kansas-Point of Know Return-01-Point of Know Return.mp3
+/home/pi/Music/share/Kansas-Point of Know Return-07-Dust in the Wind.mp3
+/home/pi/Music/share/Kansas-Sail On The 30th Anniversary Collection (disc 1)-02-Journey From Mariabronn.mp3
+/home/pi/Music/share/Kansas-Two for the Show-01-Song for America.mp3
+/home/pi/Music/share/Kansas-Two for the Show-02-Point of Know Return.mp3
+/home/pi/Music/share/Kansas-Two for the Show-03-Paradox.mp3
+/home/pi/Music/share/Kansas-Two for the Show-04-Icarus Borne on the Wings of Steel.mp3
+/home/pi/Music/share/Kansas-Two for the Show-05-Portrait (He Knew).mp3
+/home/pi/Music/share/Kansas-Two for the Show-06-Carry on Wayward Son.mp3
+/home/pi/Music/share/Kansas-Two for the Show-10-Mysteries and Mayhem.mp3
+/home/pi/Music/share/Kansas-Two for the Show-11-Excerpt From Lamplight Symphony.mp3
+/home/pi/Music/share/Kansas-Two for the Show-13-Magnum Opus.mp3
+/home/pi/Music/share/Katy Perry - Firework.mp3
+/home/pi/Music/share/Kenny Rogers-20 Great Years-03-The Gambler.mp3
+/home/pi/Music/share/LAS on WHAS.mp3
+/home/pi/Music/share/Led Zeppelin - Black Dog.mp3
+/home/pi/Music/share/LedZeppelin/01 - Achilles Last Stand.mp3
+/home/pi/Music/share/LedZeppelin/01 - Black Dog-215f9a12c.mp3
+/home/pi/Music/share/LedZeppelin/01 - Black Dog.mp3
+/home/pi/Music/share/LedZeppelin/01 - Custard Pie - Led Zeppelin.mp3
+/home/pi/Music/share/LedZeppelin/01 - Good Times Bad Times.mp3
+/home/pi/Music/share/LedZeppelin/01 - Immigrant Song.mp3
+/home/pi/Music/share/LedZeppelin/01 - In The Evening - Led Zeppelin.mp3
+/home/pi/Music/share/LedZeppelin/01 - In The Light - Led Zeppelin.mp3
+/home/pi/Music/share/LedZeppelin/01 - The Song Remains The Same-2a53b63f1.mp3
+/home/pi/Music/share/LedZeppelin/01 - The Song Remains The Same.mp3
+/home/pi/Music/share/LedZeppelin/01 - We're Gonna Groove.mp3
+/home/pi/Music/share/LedZeppelin/01 - Whole Lotta Love.mp3
+/home/pi/Music/share/LedZeppelin/02 - Babe I'm Gonna Leave You.mp3
+/home/pi/Music/share/LedZeppelin/02 - Bron-Yr-Aur - Led Zeppelin.mp3
+/home/pi/Music/share/LedZeppelin/02 - For Your Life.mp3
+/home/pi/Music/share/LedZeppelin/02 - Friends.mp3
+/home/pi/Music/share/LedZeppelin/02 - Poor Tom.mp3
+/home/pi/Music/share/LedZeppelin/02 - Rock & Roll.mp3
+/home/pi/Music/share/LedZeppelin/02 - Rock And Roll.mp3

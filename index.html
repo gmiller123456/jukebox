@@ -1,0 +1,146 @@
+
+<html><head><title>Jukebox</title>
+<style>
+.fakeURL {color:blue; text-decoration: underline;cursor:pointer;}
+.modal {display: none; position: fixed; z-index:1; left:0;top:0;width:100%;height:100%; overflow:auto; background-color: rgba(0,0,0,0.4);}
+
+input[type="button"]  
+{
+ border-style: solid;
+ border-width: 2px;
+ border-color: white;
+ background: none;
+ box-shadow: none;
+ border-radius: 0px;
+ background-color: green;
+ color: white;
+}
+</style>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head><body>
+<div class=modal id=addModal>
+<div style="border: solid; padding: 20px; color: white; background-color: #aaaaff; position: absolute; margin: auto; left: 50%; top: 50%;  transform: translate(-50%, -50%);" >
+<div id='selectedName' style='padding-bottom: 20px'></div>
+<input onclick='playNow()'; style="font-size: 25px; padding:10px;" type=button value="Play Now">
+<input onclick='playNow()'; style="font-size: 25px; padding:10px;" type=button value="Add to Playlist">
+<input onclick='cancelSelect()'; style="font-size: 25px; padding:10px;" type=button value="Cancel">
+</div>
+</div>
+<form onsubmit="return search()">
+<input placeholder="Keywords (separate by spaces)" style="font-size: 25px; width:100%" type=text name='keywords' id='keywords'>
+<input style="padding: 10px; border:0" onclick="search()" type=button value='Search'>
+<br>
+</form>
+
+Volume:
+<a class='fakeURL' onclick='volume(1)'>1</a>
+<a class='fakeURL' onclick='volume(2)'>2</a>
+<a class='fakeURL' onclick='volume(3)'>3</a>
+<a class='fakeURL' onclick='volume(4)'>4</a>
+<a class='fakeURL' onclick='volume(5)'>5</a>
+<a class='fakeURL' onclick='volume(6)'>6</a>
+<a class='fakeURL' onclick='volume(7)'>7</a>
+<a class='fakeURL' onclick='volume(8)'>8</a>
+<a class='fakeURL' onclick='volume(9)'>9</a>
+<a class='fakeURL' onclick='volume(10)'>10</a>
+<a class='fakeURL' onclick='volume(10)'>11</a>
+<br>
+
+<a class='fakeURL' onclick='stopPlayer()' >Stop</a><br>
+<a class='fakeURL' onclick='startPlaylist()' >Start Playlist</a><br>
+<div id=mainList></div>
+
+<script>
+function search(){
+	var e=document.getElementById("mainList");
+	e.innerHTML="Loading... Please Wait....";
+	
+	var s=document.getElementById("keywords").value
+	console.log(s);
+
+	var req=new XMLHttpRequest();
+	req.addEventListener("load",receive);
+	req.open("GET","search.cgi?keywords="+s);
+	req.send();
+	return false;
+}
+function playNow(){
+	var n=document.getElementById("selectedName");
+    var t=n.innerHTML;
+	t=t.replace("&amp;","&");
+
+    t=encodeURIComponent(t);
+    getURL("player.cgi?file="+t);
+	cancelSelect();
+}
+
+function startPlaylist(){
+    getURL("player.cgi?playlist=play");
+}
+
+function cancelSelect(){
+	var m=document.getElementById("addModal");
+	m.style.display="none";
+}
+
+function selectSong(s){
+	var m=document.getElementById("addModal");
+	var n=document.getElementById("selectedName");
+	n.innerHTML=s.innerHTML;
+	
+	m.style.display="block";
+}
+
+function volume(v){
+    getURL("player.cgi?volume="+(v*10));
+}
+
+function stopPlayer(){
+    getURL("player.cgi?command=stop");
+}
+
+function startServer(){
+    getURL("player.cgi?command=startserver");
+}
+
+var index;
+function receive(){
+    console.log(this.responseText);
+    index=this.responseText.split("\n");
+    showList(index);
+}
+
+function showList(l){
+    var t="";
+	var d=document.createElement("div");
+    for(var i=0;i<l.length;i++){
+		var a=document.createElement("a");
+		a.innerHTML=l[i];
+		a.classList.add("fakeURL");
+		a.addEventListener("click",function(){selectSong(this);});
+		d.appendChild(a);
+		d.appendChild(document.createElement("br"));
+		d.appendChild(document.createElement("br"));
+    }
+    //document.getElementById("mainList").innerHTML=t;
+	var e=document.getElementById("mainList");
+	e.innerHTML=(l.length-1)+" matches.";
+	e.appendChild(d);
+}
+
+function getURL(u){
+    console.log("getting "+u);
+    var req=new XMLHttpRequest();
+    req.open("GET",u);
+    req.addEventListener("load",function(){console.log(this.responseText);});
+    req.send();
+}
+
+
+</script>
+
+</body></html>
+
+
+
+
