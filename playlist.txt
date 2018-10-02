@@ -1,0 +1,3 @@
+/home/pi/Music/share/top500/048 - The Jimi Hendrix Experience - All Along The Watchtower.mp3
+/home/pi/Music/share/top500/003 - John Lennon - Imagine.mp3
+/home/pi/Music/share/top500/007 - Chuck Berry - Johnny B. Goode.mp3

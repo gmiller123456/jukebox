@@ -6,18 +6,79 @@
 
 input[type="button"]  
 {
- border-style: solid;
- border-width: 2px;
- border-color: white;
- background: none;
- box-shadow: none;
- border-radius: 0px;
- background-color: green;
- color: white;
+	border-style: solid;
+	border-width: 2px;
+	border-color: white;
+	background: none;
+	box-shadow: none;
+	border-radius: 0px;
+	background-color: green;
+	color: white;
 }
+
+#currTitle{
+	font-size:300%;
+	font-weight: bold;
+}
+
+#currArtist{
+	font-weight: bold;
+}
+
+#playButton{
+    width: 72px;
+    height: 72px;
+    background: url(Preview_Buttons.jpg) -26px -35px;
+}
+#prevButton{
+    width: 72px;
+    height: 72px;
+    background: url(Preview_Buttons.jpg) -142px -247px;
+}
+#nextButton{
+    width: 72px;
+    height: 72px;
+    background: url(Preview_Buttons.jpg) -26px -247px;
+}
+#volDownButton{
+    width: 72px;
+    height: 72px;
+    background: url(Preview_Buttons.jpg) -376px -140px;
+}
+#volUpButton{
+    width: 72px;
+    height: 72px;
+    background: url(Preview_Buttons.jpg) -142px -140px;
+}
+#muteButton{
+    width: 72px;
+    height: 72px;
+    background: url(Preview_Buttons.jpg) -493px -140px;
+}
+#progressContainer{
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+#progressContainer2{
+	width: 80%;
+	display: inline-block;
+	background-color: #888888;
+}
+#progressBar{
+	width:0%;
+	background-color: green;
+	display: inline-block;
+}
+#currTotalTime{
+	width: 100%;
+	position: relative;
+	color: black;
+}
+
 </style>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-</head><body>
+</head><body id=mainBody>
 <div class=modal id=addModal>
 <div style="border: solid; padding: 20px; color: white; background-color: #aaaaff; position: absolute; margin: auto; left: 50%; top: 50%;  transform: translate(-50%, -50%);" >
 <div id='selectedName' style='padding-bottom: 20px'></div>
@@ -33,24 +94,130 @@ input[type="button"]
 </form>
 
 Volume:
-<a class='fakeURL' onclick='volume(1)'>1</a>
-<a class='fakeURL' onclick='volume(2)'>2</a>
-<a class='fakeURL' onclick='volume(3)'>3</a>
-<a class='fakeURL' onclick='volume(4)'>4</a>
-<a class='fakeURL' onclick='volume(5)'>5</a>
-<a class='fakeURL' onclick='volume(6)'>6</a>
-<a class='fakeURL' onclick='volume(7)'>7</a>
-<a class='fakeURL' onclick='volume(8)'>8</a>
-<a class='fakeURL' onclick='volume(9)'>9</a>
-<a class='fakeURL' onclick='volume(10)'>10</a>
-<a class='fakeURL' onclick='volume(10)'>11</a>
+<input type="range" min=1 max=100 step=1 id='volumeControl' oninput="changeVolume(this.value)" onchange="changeVolume(this.value)"></input>
 <br>
-
 <a class='fakeURL' onclick='stopPlayer()' >Stop</a><br>
 <a class='fakeURL' onclick='startPlaylist()' >Start Playlist</a><br>
+
+<div id='nowPlaying'>
+	<center>
+		<span id='currTitle'></span>
+	</center>
+	<center>
+		<span id='currArtist'></span>
+		<span id='currYear'></span>
+	</center>
+	<center>
+		<span id='currAlbum'></span>
+		<span id='currGenre'></span>
+	</center>
+		<div id="progressContainer">
+			<span id='currCurTime'></span>
+			<span id="progressContainer2">
+				<span id="progressBar">&nbsp;</span>
+			</span>
+			<span id='currTotalTime'></span>
+		</div>
+	<center>
+		<a onclick='prevButtonClick()'><img id='prevButton' src="clear.gif"></a>
+		<a onclick='playButtonClick()'><img id='playButton' src="clear.gif"></a>
+		<a onclick='nextButtonClick()'><img id='nextButton' src="clear.gif"></a>
+	</center>
+	<center>
+		<span id='currState'></span>
+	</center>
+</div>
+
 <div id=mainList></div>
 
 <script>
+
+function volume(v){
+    getURL("player.cgi?volume="+v);
+}
+function changeVolume(v){
+	console.log(v);
+	volume(v);
+}
+function setVolume(v){
+	document.getElementById("volumeControl").value=v;
+}
+
+function prevButtonClick(){
+    getURL("player.cgi?command=previoussong");
+}
+function playButtonClick(){
+    getURL("player.cgi?command=playpause");
+}
+function nextButtonClick(){
+    getURL("player.cgi?command=nextsong");
+}
+
+function updateProgress(){
+	if(totalTimeInt==0) return;
+	var p=currentTime/totalTimeInt*100;
+	if(p>100)p=100;
+	document.getElementById("progressBar").style.width=p+"%";
+}
+
+var currentTime=0;
+var totalTimeInt=0;
+var currVolume=100;
+function receiveNowPlaying(){
+	var t=this.responseText;
+	var title=t.substr(0,30).trim();
+	var artist=t.substr(30,30).trim();
+	var album=t.substr(60,30).trim();
+	var genra=t.substr(90,30).trim();
+	var year=t.substr(120,5).trim();
+	totalTimeInt=t.substr(125,10).trim();
+	currentTime=t.substr(135,10).trim();
+	var state=t.substr(145,10).trim();
+	currVolume=t.substr(155,10).trim();
+	
+	document.getElementById("currTitle").innerHTML=title;
+	document.getElementById("currArtist").innerHTML=artist;
+	document.getElementById("currAlbum").innerHTML=album;
+	document.getElementById("currYear").innerHTML="("+year+")";
+	document.getElementById("currTotalTime").innerHTML=prettyTime(totalTimeInt);
+	document.getElementById("currCurTime").innerHTML=prettyTime(currentTime);
+	setState(state);
+	setVolume(currVolume);
+}
+
+function setState(s){
+	var state="";
+	if(s==2){
+		state="Playing";
+	}
+	if(s==0){
+		state="Stopped";
+	}
+	document.getElementById("currState").innerHTML=state;
+}
+
+function prettyTime(time){
+	var s="";
+	var t=Math.floor(time);
+	var hours=Math.floor(t/(60*60));
+	t-=hours*60*60;
+	if(hours>0) {s+=hours+":";}
+	var min=Math.floor(t/60);
+	t-=min*60;
+	if(min<10){s+="0";}
+	s+=min+":";
+	if(t<10){s+="0";}
+	s=s+""+t;
+	return s;
+}
+
+function updateNowPlaying(){
+	var req=new XMLHttpRequest();
+	req.addEventListener("load",receiveNowPlaying);
+	req.open("GET","playinfo.txt");
+	req.send();
+}
+
 function search(){
 	var e=document.getElementById("mainList");
 	e.innerHTML="Loading... Please Wait....";
@@ -60,6 +227,7 @@ function search(){
 
 	var req=new XMLHttpRequest();
 	req.addEventListener("load",receive);
+	//req.open("GET","index1000.txt");
 	req.open("GET","search.cgi?keywords="+s);
 	req.send();
 	return false;
@@ -72,6 +240,7 @@ function playNow(){
     t=encodeURIComponent(t);
     getURL("player.cgi?file="+t);
 	cancelSelect();
+
 }
 
 function startPlaylist(){
@@ -91,16 +260,14 @@ function selectSong(s){
 	m.style.display="block";
 }
 
-function volume(v){
-    getURL("player.cgi?volume="+(v*10));
-}
-
 function stopPlayer(){
     getURL("player.cgi?command=stop");
 }
 
-function startServer(){
-    getURL("player.cgi?command=startserver");
+function playSong(s){
+    var t=encodeURI(s.innerHTML);
+    getURL("player.cgi?file="+t);
+	//console.log(t);
 }
 
 var index;
@@ -122,7 +289,6 @@ function showList(l){
 		d.appendChild(document.createElement("br"));
 		d.appendChild(document.createElement("br"));
     }
-    //document.getElementById("mainList").innerHTML=t;
 	var e=document.getElementById("mainList");
 	e.innerHTML=(l.length-1)+" matches.";
 	e.appendChild(d);
@@ -136,11 +302,16 @@ function getURL(u){
     req.send();
 }
 
+var updateInterval=500;
+function documentReady(){
+	updateNowPlaying();
+	setInterval(updateNowPlaying,1000);
+	setInterval(updateProgress,updateInterval);
+}
+
+document.addEventListener("DOMContentLoaded",documentReady);
+
 
 </script>
 
 </body></html>
-
-
-
-

@@ -6,37 +6,49 @@ print "Content-type: text/html\n\n";
 
 if($input{playlist} eq "play"){
     print "Playlist\n";
-   system("screen -d -m -S top500fav mpg123 --random -@ /home/pi/www/top500.txt");
-   #$t='screen -S top500 -p 0 -X stuff "LOADLIST >1 http://127.0.0.1/~pi/top500fav.txt^M"';
+    stop();
+   system("nohup mpg123 --keep-open --random -@ /home/pi/www/top500fav.txt");
 }
 
 if($input{volume} ne ""){
-   $t='screen -S Player2 -p 0 -X stuff "V '.$input{volume}.'^M"';
-   print $t;
-   system($t);
-   #system('screen -S Player2 -p 0 -X stuff "V 100^M"');
+   sendCommand("V ".$input{volume}."\r\n");
 }
 
 if($input{file} ne ""){
-   print "<h1>Now Playing: $input{file}</h1><br>\r\n";
-   #system('screen -S Player2 -p 0 -X stuff "L /home/pi/Music/'.$input{file}.'^M"');
-   system('screen -S Player2 -p 0 -X stuff "L '.$input{file}.'^M"');
+    stop();
+   sendCommand('L '.$input{file}."\r\n");
 }
 
 if($input{command} eq "stop"){
-   system('screen -S Player2 -p 0 -X stuff "S^M"');
-   $p=`ps a | grep mpg123 | grep random`;
-   $p=~m/^\s*(\d+)/gis;
-   system("kill -KILL $1");
+    stop();
 }
 
 if($input{command} eq "startserver"){
    system("screen -wipe");
-   system("screen -d -m -S Player2 mpg123 -R asdf");
+   system("nohup mpg123 --fifo /home/pi/www/fifo/mpg123 -R asdf | ./outputparser.pl");
+   sleep(1);
+   system("chmod a+w /home/pi/www/fifo/mpg123");
 }
 
 if($input{command} eq "wipe"){
    system("screen -wipe");
+}
+
+sub stop(){
+   sendCommand("S\r\n");
+   $p=`ps ax | grep mpg123 | grep random`;
+   $p=~m/^\s*(\d+)/gis;
+   system("kill -KILL $1");
+   print "Killing: ".$1;
+}
+
+sub sendCommand(){
+    my $s=shift;
+    my $f;
+    open($f,">>","/home/pi/www/fifo/mpg123");
+    print $f $s;
+    close($f);
+    print "Sent: ".$s;
 }
 
 #Start screen server: screen -d -m -S Player mpg123 -R asdf
