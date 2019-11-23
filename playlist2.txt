@@ -1,0 +1,41 @@
+/home/pi/Music/share/top500/048 - The Jimi Hendrix Experience - All Along The Watchtower.mp3
+/home/pi/Music/share/top500/003 - John Lennon - Imagine.mp3
+/home/pi/Music/share/top500/007 - Chuck Berry - Johnny B. Goode.mp3
+/home/pi/Music/share/top500/009 - Nirvana - Smells Like Teen Spirit.mp3
+/home/pi/Music/share/top500/017 - Jimi Hendrix - Purple Haze.mp3
+/home/pi/Music/share/top500/020 - The Beatles - Let It Be.mp3
+/home/pi/Music/share/top500/027 - Derek And The Dominos - Layla.mp3
+/home/pi/Music/share/top500/030 - Johnny Cash - I Walk The Line.mp3
+/home/pi/Music/share/02.  Avicii  -  Wake Me Up (Radio Edit).mp3
+/home/pi/Music/8. John Legend - All Of Me.mp3
+/home/pi/Music/huge/Fleetwood Mac/Greatest Hits/05 - Everywhere.mp3
+/home/pi/Music/huge/Lionel Richie/Back To Front/04 All Night Long.mp3
+/home/pi/Music/huge/Salt-N-Pepa/A Salt With A Deadly Pepa/Push It.mp3
+/home/pi/Music/huge/David Bowie/Changesbowie/15 Let's Dance.mp3
+/home/pi/Music/huge/Paul Simon/1964-1993/3-306 You Can Call Me Al.mp3
+/home/pi/Music/share/top500/224 - Chic - Good Times.mp3
+/home/pi/Music/huge/The Beatles/Introducing The Beatles/Twist And Shout.MP3
+/home/pi/Music/huge/Judsons laptop music/Rick James/Motown Greatest Hits/1-16 Superfreak.mp3
+/home/pi/Music/huge/Prince/Prince/Prince/09 1999.mp3
+/home/pi/Music/huge/Lipps Inc/Super Number Ones Vol.2 (CD1)/09 Funkytown.mp3
+/home/pi/Music/share/top500/337 - Michael Jackson - Beat It.mp3
+/home/pi/Music/huge/80's Explosion (Disc 1)/Soft Cell_Tainted Love.mp3
+/home/pi/Music/huge/A-Ha/Hunting High and Low/01 Take on Me.mp3
+/home/pi/Music/share/top500/246 - Jackie Wilson - (Your Love Keeps Lifting Me) Higher And Higher.mp3
+/home/pi/Music/share/top500/243 - The B-52S - Love Shack.mp3
+/home/pi/Music/share/Clasic Rock/Bruce Springsteen-Born in the U.S.A.-11-Dancing in the Dark.mp3
+/home/pi/Music/share/02.  Avicii  -  Wake Me Up (Radio Edit).mp3
+/home/pi/Music/share/03 - The Verve - Bittersweet Symphony.mp3
+/home/pi/Music/share/Pharrell Williams - Happy.mp3
+/home/pi/Music/share/Haddaway - What is Love   Lyrics.mp3
+/home/pi/Music/share/013 - Katy Perry - Roar.mp3
+/home/pi/Music/share/0590 Pink - Just Give Me A Reason (ft. Nate Ruess).mp3
+/home/pi/Music/share/Radioactive - Imagine Dragons .mp3
+/home/pi/Music/share/28-lilly_wood_and_the_prick-prayer_in_c_(robin_schulz_remix).mp3
+/home/pi/Music/share/Lorde - Royals.mp3
+/home/pi/Music/share/sara_bareilles-love_song.mp3
+/home/pi/Music/share/Toto - Africa (1982).mp3
+/home/pi/Music/share/03-LMFAO-Party_Rock_Anthem.mp3
+/home/pi/Music/huge/Cat Stevens/Cat Stevens Box Set - The Search/21 Peace Train.mp3
+/home/pi/Music/huge/The Cranberries/No Need to Argue/04 Zombie.mp3
+/home/pi/Music/huge/Queen/A Night At The Opera/11 Bohemian Rhapsody.mp3

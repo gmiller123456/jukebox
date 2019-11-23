@@ -4,7 +4,7 @@
 .fakeURL {color:blue; text-decoration: underline;cursor:pointer;}
 .modal {display: none; position: fixed; z-index:1; left:0;top:0;width:100%;height:100%; overflow:auto; background-color: rgba(0,0,0,0.4);}
 
-input[type="button"]  
+.defaultButton
 {
 	border-style: solid;
 	border-width: 2px;
@@ -14,6 +14,21 @@ input[type="button"]
 	border-radius: 0px;
 	background-color: green;
 	color: white;
+}
+
+.tab{
+    font-size:150%;
+    color:white;
+    background-color:green;
+    margin:10px;
+
+    border-style:solid;
+    border-color:white;
+    cursor:pointer;
+}
+
+.tabactive{
+    border-color: black;
 }
 
 #currTitle{
@@ -78,26 +93,8 @@ input[type="button"]
 
 </style>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-</head><body id=mainBody>
-<div class=modal id=addModal>
-<div style="border: solid; padding: 20px; color: white; background-color: #aaaaff; position: absolute; margin: auto; left: 50%; top: 50%;  transform: translate(-50%, -50%);" >
-<div id='selectedName' style='padding-bottom: 20px'></div>
-<input onclick='playNow()'; style="font-size: 25px; padding:10px;" type=button value="Play Now">
-<input onclick='playNow()'; style="font-size: 25px; padding:10px;" type=button value="Add to Playlist">
-<input onclick='cancelSelect()'; style="font-size: 25px; padding:10px;" type=button value="Cancel">
-</div>
-</div>
-<form onsubmit="return search()">
-<input placeholder="Keywords (separate by spaces)" style="font-size: 25px; width:100%" type=text name='keywords' id='keywords'>
-<input style="padding: 10px; border:0" onclick="search()" type=button value='Search'>
-<br>
-</form>
+</head><body id=mainBody onload='init();'>
 
-Volume:
-<input type="range" min=1 max=100 step=1 id='volumeControl' oninput="changeVolume(this.value)" onchange="changeVolume(this.value)"></input>
-<br>
-<a class='fakeURL' onclick='stopPlayer()' >Stop</a><br>
-<a class='fakeURL' onclick='startPlaylist()' >Start Playlist</a><br>
 
 <div id='nowPlaying'>
 	<center>
@@ -118,25 +115,83 @@ Volume:
 			</span>
 			<span id='currTotalTime'></span>
 		</div>
-	<center>
+	<!-- center>
 		<a onclick='prevButtonClick()'><img id='prevButton' src="clear.gif"></a>
 		<a onclick='playButtonClick()'><img id='playButton' src="clear.gif"></a>
 		<a onclick='nextButtonClick()'><img id='nextButton' src="clear.gif"></a>
-	</center>
+	</center -->
 	<center>
 		<span id='currState'></span>
 	</center>
 </div>
-
-<div id=mainList></div>
+Volume:
+<input type="range" min=1 max=100 step=1 id='volumeControl' oninput="changeVolume(this.value)" onchange="changeVolume(this.value)"></input>
+<br>
+<a class='fakeURL' onclick='stopPlayer()' >Stop</a><br>
+<a class='fakeURL' onclick='startPlaylist("main")' >Start Playlist</a><br>
+<a href="playlist.txt">View Playlist</a><br>
+<a class='fakeURL' onclick='startPlaylist("play")' >Start Top 500 Playlist</a><br>
+<a class='fakeURL' onclick='startPlaylist("christmas")' >Start Christmas Playlist</a><br>
+<br>
+<span class='tab' id='searchHeader' onclick='tab("search");'>Search</span><span class='tab' id='playlistHeader' onclick='tab("playlist");'>Playlist</span><span class='tab' id='playlistsHeader' onclick='tab("playlists");'>All Playlists</span>
+<br>
+<div id='searchTab'>
+    <form onsubmit="return search()">
+    <input placeholder="Keywords (separate by spaces)" style="font-size: 25px; width:100%" type=text name='keywords' id='keywords'>
+    <input style="padding: 10px; border:0" onclick="search()" class='defaultButton' type=button value='Search'>
+    <br>
+    </form>
+    <div id=searchList></div>
+</div>
+<div id='playlistTab'>
+    playlist
+</div>
+<div id='playlistsTab'>
+    playlists
+</div>
 
 <script>
+'use strict';
+
+function init(){
+    tab("search");
+}
+
+function tab(t){
+    const searchTab=document.getElementById("searchTab");
+    const playlistTab=document.getElementById("playlistTab");
+    const playlistsTab=document.getElementById("playlistsTab");
+    const searchH=document.getElementById("searchHeader");
+    const playlistH=document.getElementById("playlistHeader");
+    const playlistsH=document.getElementById("playlistsHeader");
+    if(t=="search"){
+        searchTab.style.display='inline';
+        playlistTab.style.display='none';
+        playlistsTab.style.display='none';
+        searchH.classList.add('tabactive');
+        playlistH.classList.remove('tabactive');
+        playlistsH.classList.remove('tabactive');
+    } else if(t=="playlist"){
+        searchTab.style.display='none';
+        playlistTab.style.display='inline';
+        playlistsTab.style.display='none';
+        searchH.classList.remove('tabactive');
+        playlistH.classList.add('tabactive');
+        playlistsH.classList.remove('tabactive');
+    } else if (t=="playlists"){
+        searchTab.style.display='none';
+        playlistTab.style.display='none';
+        playlistsTab.style.display='inline';
+        searchH.classList.remove('tabactive');
+        playlistH.classList.remove('tabactive');
+        playlistsH.classList.add('tabactive');
+    }
+}
 
 function volume(v){
     getURL("player.cgi?volume="+v);
 }
 function changeVolume(v){
-	console.log(v);
 	volume(v);
 }
 function setVolume(v){
@@ -155,24 +210,24 @@ function nextButtonClick(){
 
 function updateProgress(){
 	if(totalTimeInt==0) return;
-	var p=currentTime/totalTimeInt*100;
+	let p=currentTime/totalTimeInt*100;
 	if(p>100)p=100;
 	document.getElementById("progressBar").style.width=p+"%";
 }
 
-var currentTime=0;
-var totalTimeInt=0;
-var currVolume=100;
+let currentTime=0;
+let totalTimeInt=0;
+let currVolume=100;
 function receiveNowPlaying(){
-	var t=this.responseText;
-	var title=t.substr(0,30).trim();
-	var artist=t.substr(30,30).trim();
-	var album=t.substr(60,30).trim();
-	var genra=t.substr(90,30).trim();
-	var year=t.substr(120,5).trim();
+	const t=this.responseText;
+	const title=t.substr(0,30).trim();
+	const artist=t.substr(30,30).trim();
+	const album=t.substr(60,30).trim();
+	const genra=t.substr(90,30).trim();
+	const year=t.substr(120,5).trim();
 	totalTimeInt=t.substr(125,10).trim();
 	currentTime=t.substr(135,10).trim();
-	var state=t.substr(145,10).trim();
+	const state=t.substr(145,10).trim();
 	currVolume=t.substr(155,10).trim();
 	
 	document.getElementById("currTitle").innerHTML=title;
@@ -186,7 +241,7 @@ function receiveNowPlaying(){
 }
 
 function setState(s){
-	var state="";
+	let state="";
 	if(s==2){
 		state="Playing";
 	}
@@ -197,12 +252,12 @@ function setState(s){
 }
 
 function prettyTime(time){
-	var s="";
-	var t=Math.floor(time);
-	var hours=Math.floor(t/(60*60));
+	let s="";
+	let t=Math.floor(time);
+	let hours=Math.floor(t/(60*60));
 	t-=hours*60*60;
 	if(hours>0) {s+=hours+":";}
-	var min=Math.floor(t/60);
+	let min=Math.floor(t/60);
 	t-=min*60;
 	if(min<10){s+="0";}
 	s+=min+":";
@@ -211,53 +266,31 @@ function prettyTime(time){
 	return s;
 }
 
-function updateNowPlaying(){
-	var req=new XMLHttpRequest();
+async function updateNowPlaying(){
+	const req=new XMLHttpRequest();
 	req.addEventListener("load",receiveNowPlaying);
-	req.open("GET","playinfo.txt");
+	req.open("GET","playinfo.txt?"+Math.random());
 	req.send();
 }
 
-function search(){
-	var e=document.getElementById("mainList");
+async function search(){
+	const e=document.getElementById("searchList");
 	e.innerHTML="Loading... Please Wait....";
 	
-	var s=document.getElementById("keywords").value
+	const s=document.getElementById("keywords").value
 	console.log(s);
 
-	var req=new XMLHttpRequest();
-	req.addEventListener("load",receive);
-	//req.open("GET","index1000.txt");
-	req.open("GET","search.cgi?keywords="+s);
-	req.send();
+    let response=await fetch("search.cgi?keywords="+s);
+    let text=await response.text();
+    console.log(text);
+    const index=text.split("\n");
+    showList(index);
+
 	return false;
 }
-function playNow(){
-	var n=document.getElementById("selectedName");
-    var t=n.innerHTML;
-	t=t.replace("&amp;","&");
 
-    t=encodeURIComponent(t);
-    getURL("player.cgi?file="+t);
-	cancelSelect();
-
-}
-
-function startPlaylist(){
-    getURL("player.cgi?playlist=play");
-}
-
-function cancelSelect(){
-	var m=document.getElementById("addModal");
-	m.style.display="none";
-}
-
-function selectSong(s){
-	var m=document.getElementById("addModal");
-	var n=document.getElementById("selectedName");
-	n.innerHTML=s.innerHTML;
-	
-	m.style.display="block";
+function startPlaylist(list){
+    getURL("player.cgi?playlist="+list);
 }
 
 function stopPlayer(){
@@ -265,41 +298,62 @@ function stopPlayer(){
 }
 
 function playSong(s){
-    var t=encodeURI(s.innerHTML);
+    const t=encodeURI(s);
     getURL("player.cgi?file="+t);
 	//console.log(t);
 }
 
-var index;
-function receive(){
-    console.log(this.responseText);
-    index=this.responseText.split("\n");
-    showList(index);
+async function addToPlaylist(s){
+    const t=encodeURI(s);
+	await fetch("player.cgi?command=add&addfile="+t);
+	alert("Added");
+
+}
+
+function showRow(r,i){
+    const temp=i.split("/");
+    const bcell=r.insertCell(0);
+    const playButton=document.createElement("button");
+    const textNode=document.createTextNode("Play");
+    playButton.appendChild(textNode);
+    playButton.classList.add("defaultButton");
+    playButton.addEventListener('click',function(){playSong(i);});
+    bcell.appendChild(playButton);
+
+    const addButton=document.createElement("button");
+    const textNode2=document.createTextNode("Add");
+    addButton.appendChild(textNode2);
+    addButton.classList.add("defaultButton");
+    addButton.addEventListener('click',function(){addToPlaylist(i);});
+    bcell.appendChild(addButton);
+
+
+    let cellNum=1;
+    for(let x=temp.length-3;x<temp.length;x++){
+        const cell=r.insertCell(cellNum);
+        cell.innerHTML=temp[x];
+        cellNum++;
+    }
 }
 
 function showList(l){
-    var t="";
-	var d=document.createElement("div");
-    for(var i=0;i<l.length;i++){
-		var a=document.createElement("a");
-		a.innerHTML=l[i];
-		a.classList.add("fakeURL");
-		a.addEventListener("click",function(){selectSong(this);});
-		d.appendChild(a);
-		d.appendChild(document.createElement("br"));
-		d.appendChild(document.createElement("br"));
+	const t=document.createElement("table");
+    t.border=1;
+    t.cellSpacing=0;
+
+    for(let i=0;i<l.length-1;i++){
+        const r=t.insertRow(i);
+        showRow(r,l[i]);
     }
-	var e=document.getElementById("mainList");
+	let e=document.getElementById("searchList");
 	e.innerHTML=(l.length-1)+" matches.";
-	e.appendChild(d);
+	e.appendChild(t);
+	e.scrollIntoView();
 }
 
 function getURL(u){
     console.log("getting "+u);
-    var req=new XMLHttpRequest();
-    req.open("GET",u);
-    req.addEventListener("load",function(){console.log(this.responseText);});
-    req.send();
+    fetch(u);
 }
 
 var updateInterval=500;

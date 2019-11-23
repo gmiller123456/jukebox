@@ -1,0 +1,394 @@
+/home/pi/Music/share/christmas/01. Boogie Woogie Santa Claus.mp3
+/home/pi/Music/share/christmas/01. Christmas Carousel.mp3
+/home/pi/Music/share/christmas/01. Christmastime Is Here.mp3
+/home/pi/Music/share/christmas/01 Hark! The Herald Angels Sing. The Music Of Christmas.mp3
+/home/pi/Music/share/christmas/01. Jingle Bells.mp3
+/home/pi/Music/share/christmas/01. Merry Christmas Darling.mp3
+/home/pi/Music/share/christmas/01. Santa Claus Is Coming to Town.mp3
+/home/pi/Music/share/christmas/01 Santa Claus Is Comin' to Town.mp3
+/home/pi/Music/share/christmas/01. Santa's Coming For Us.mp3
+/home/pi/Music/share/christmas/01 - Silent Night.MP3
+/home/pi/Music/share/christmas/01 What Christmas Means to Me (2).mp3
+/home/pi/Music/share/christmas/01 What Christmas Means To Me.mp3
+/home/pi/Music/share/christmas/01. Winter Wonderland.mp3
+/home/pi/Music/share/christmas/02 - Adeste Fidelis (O Come All Ye Faithful).MP3
+/home/pi/Music/share/christmas/02. Babys First Christmas.mp3
+/home/pi/Music/share/christmas/02. Candy Cane Lane.mp3
+/home/pi/Music/share/christmas/02. Christmas Bells.mp3
+/home/pi/Music/share/christmas/02. Deck the Halls.mp3
+/home/pi/Music/share/christmas/02. Let It Snow.mp3
+/home/pi/Music/share/christmas/02 Man With The Bag.mp3
+/home/pi/Music/share/christmas/02 Rockin' Around the Christmas Tree.mp3
+/home/pi/Music/share/christmas/02 Silver Bells.mp3
+/home/pi/Music/share/christmas/02. The Christmas Song (2).mp3
+/home/pi/Music/share/christmas/02. The Christmas Song.mp3
+/home/pi/Music/share/christmas/02. White Christmas.mp3
+/home/pi/Music/share/christmas/02. Why Can't It Be Christmastime All Year_.mp3
+/home/pi/Music/share/christmas/03. Christmas Choir.mp3
+/home/pi/Music/share/christmas/03. Don't Forget To Feed the Reindeer.mp3
+/home/pi/Music/share/christmas/03. Do You Believe (feat. Yolanda Adams).mp3
+/home/pi/Music/share/christmas/03. Hard Candy Christmas.mp3
+/home/pi/Music/share/christmas/03 Have Yourself a Merry Little Christmas.mp3
+/home/pi/Music/share/christmas/03. Have Yourself a Merry Little Christmas.mp3
+/home/pi/Music/share/christmas/03 It's Beginning To Look A Lot Like Christmas.mp3
+/home/pi/Music/share/christmas/03. Jingle Bells(1).mp3
+/home/pi/Music/share/christmas/03. My Gift Is You.mp3
+/home/pi/Music/share/christmas/03. River.mp3
+/home/pi/Music/share/christmas/03 Rockin' Around The Christmas Tree.mp3
+/home/pi/Music/share/christmas/03. Snowman.mp3
+/home/pi/Music/share/christmas/03 - White Christmas.MP3
+/home/pi/Music/share/christmas/04. Christmas (Baby Please Come Home).mp3
+/home/pi/Music/share/christmas/04 - God Rest Ye Merry, Gentlemen.MP3
+/home/pi/Music/share/christmas/04 Grown-Up Christmas List.mp3
+/home/pi/Music/share/christmas/04. I Like a Sleighride (Jingle Bells).mp3
+/home/pi/Music/share/christmas/04. I'll Be Home For Christmas (2).mp3
+/home/pi/Music/share/christmas/04. I'll Be Home for Christmas (3).mp3
+/home/pi/Music/share/christmas/04. I'll Be Home For Christmas.mp3
+/home/pi/Music/share/christmas/04 Jingle Bell Rock.mp3
+/home/pi/Music/share/christmas/04. Jingle Bells.mp3
+/home/pi/Music/share/christmas/04 No Place Like Home.mp3
+/home/pi/Music/share/christmas/04. Silent Night.mp3
+/home/pi/Music/share/christmas/04. Snowflake.mp3
+/home/pi/Music/share/christmas/04. The Christmas Song.mp3
+/home/pi/Music/share/christmas/04. White Christmas.mp3
+/home/pi/Music/share/christmas/04. Winter Wonderland.mp3
+/home/pi/Music/share/christmas/05. All I Want For Christmas Is You (feat. Stokley).mp3
+/home/pi/Music/share/christmas/05. Blue Christmas.mp3
+/home/pi/Music/share/christmas/05 Bring Me Love.mp3
+/home/pi/Music/share/christmas/05 - Faith Of Our Fathers.MP3
+/home/pi/Music/share/christmas/05 Greensleeves (Interlude).mp3
+/home/pi/Music/share/christmas/05. Ho Ho Ho.mp3
+/home/pi/Music/share/christmas/05 Rudolph The Red-Nosed Reindeer - Jingle Bells.mp3
+/home/pi/Music/share/christmas/05. Santa Claus is Coming to Town.mp3
+/home/pi/Music/share/christmas/05. Silent Night(1).mp3
+/home/pi/Music/share/christmas/05. Silent Night (2).mp3
+/home/pi/Music/share/christmas/05. Silent Night.mp3
+/home/pi/Music/share/christmas/05. When I Was A Little Girl.mp3
+/home/pi/Music/share/christmas/06. Christmas Choir.mp3
+/home/pi/Music/share/christmas/06. Christmas Will Be Just Another Lonely Day.mp3
+/home/pi/Music/share/christmas/06 - I'll Be Home For Christmas.MP3
+/home/pi/Music/share/christmas/06 Interlude The Music of Christmas.mp3
+/home/pi/Music/share/christmas/06. Last Christmas.mp3
+/home/pi/Music/share/christmas/06 Let It Snow.mp3
+/home/pi/Music/share/christmas/06 Merry Christmas Baby - Give Love on Christmas Day.mp3
+/home/pi/Music/share/christmas/06. O Come Emmanuel.mp3
+/home/pi/Music/share/christmas/06. Peyton's Lullaby (Right Away).mp3
+/home/pi/Music/share/christmas/06. Puppies Are Forever.mp3
+/home/pi/Music/share/christmas/06 Sweater Weather.mp3
+/home/pi/Music/share/christmas/06. The Christmas List.mp3
+/home/pi/Music/share/christmas/06. The First Noel.mp3
+/home/pi/Music/share/christmas/07. Boogie Woogie Santa Claus.mp3
+/home/pi/Music/share/christmas/07 Christmas Time Is Here.mp3
+/home/pi/Music/share/christmas/07 - Jingle Bells (with the Andrews Sisters).MP3
+/home/pi/Music/share/christmas/07. Snow Day.mp3
+/home/pi/Music/share/christmas/07. Sunshine.mp3
+/home/pi/Music/share/christmas/07. The Christmas Riddle.mp3
+/home/pi/Music/share/christmas/07. The Christmas Song.mp3
+/home/pi/Music/share/christmas/07. The Mama Doll Song.mp3
+/home/pi/Music/share/christmas/07. This Christmas (feat. Hasizzle).mp3
+/home/pi/Music/share/christmas/07 When You Believe (with Maren Morris).mp3
+/home/pi/Music/share/christmas/07 Winter Wonderland.mp3
+/home/pi/Music/share/christmas/07. You Make It Feel Like Christmas.mp3
+/home/pi/Music/share/christmas/08. Alone at Christmastime.mp3
+/home/pi/Music/share/christmas/08. Give Love on Christmas Day.mp3
+/home/pi/Music/share/christmas/08. Last Christmas.mp3
+/home/pi/Music/share/christmas/08 - Santa Claus Is Coming To Town (with the Andrews Sisters).MP3
+/home/pi/Music/share/christmas/08 The Christmas Song.mp3
+/home/pi/Music/share/christmas/08. The Christmas Song.mp3
+/home/pi/Music/share/christmas/08. The Mama Doll.mp3
+/home/pi/Music/share/christmas/08. Underneath the Mistletoe.mp3
+/home/pi/Music/share/christmas/08. Under The Christmas Lights.mp3
+/home/pi/Music/share/christmas/08 Waiting for Christmas.mp3
+/home/pi/Music/share/christmas/08 Waltz Of The Flowers.mp3
+/home/pi/Music/share/christmas/08. Where Did The Snowman Go.mp3
+/home/pi/Music/share/christmas/09. Christmas Don't Be Late.mp3
+/home/pi/Music/share/christmas/09. Christmas Waltz.mp3
+/home/pi/Music/share/christmas/09. Everyday Is Christmas.mp3
+/home/pi/Music/share/christmas/09 Here Comes Santa Claus.mp3
+/home/pi/Music/share/christmas/09. I'll Be Home for Christmas.mp3
+/home/pi/Music/share/christmas/09 Purple Snowflakes.mp3
+/home/pi/Music/share/christmas/09. Santa Baby.mp3
+/home/pi/Music/share/christmas/09 - Silver Bells.MP3
+/home/pi/Music/share/christmas/09. The Christmas Spell.mp3
+/home/pi/Music/share/christmas/09. The First Noel.mp3
+/home/pi/Music/share/christmas/09 This Christmas Day.mp3
+/home/pi/Music/share/christmas/09. White Christmas(1).mp3
+/home/pi/Music/share/christmas/09. White Christmas.mp3
+/home/pi/Music/share/christmas/101 - Andy Williams - Happy Holiday The Holiday Season.mp3
+/home/pi/Music/share/christmas/102 - Ray Conniff - Frosty The Snowman.mp3
+/home/pi/Music/share/christmas/103 - Steve Lawrence & Eydie Gorme - Santa Claus Is Coming.mp3
+/home/pi/Music/share/christmas/104 - Mitch Miller - Sleigh Ride.mp3
+/home/pi/Music/share/christmas/105 - Morton Gould - Home For Christmas.mp3
+/home/pi/Music/share/christmas/106 - Perry Como - Here We Come A Caroling We Wish You A Merry Christmas.mp3
+/home/pi/Music/share/christmas/107 - Roger Whittaker - Holly And The Ivy.mp3
+/home/pi/Music/share/christmas/108 - Steve Lawrence & Eydie Gorme - Have Yourself A Merry Little Christmas.mp3
+/home/pi/Music/share/christmas/109 - Mel Torme - The Christmas Song.mp3
+/home/pi/Music/share/christmas/10. All I Want for Christmas Is You.mp3
+/home/pi/Music/share/christmas/10. Christmas Bells.mp3
+/home/pi/Music/share/christmas/10 - It's Beginning To Look A Lot Like Christmas.MP3
+/home/pi/Music/share/christmas/10 Making Christmas.mp3
+/home/pi/Music/share/christmas/10. O Come All Ye Faithful.mp3
+/home/pi/Music/share/christmas/10. O Holy Night.mp3
+/home/pi/Music/share/christmas/10. Remember When It Snowed_.mp3
+/home/pi/Music/share/christmas/10 The Christmas Song (Chestnuts Roasting On An Open Fire).mp3
+/home/pi/Music/share/christmas/10. The Christmas Waltz.mp3
+/home/pi/Music/share/christmas/10. Underneath the Christmas Lights.mp3
+/home/pi/Music/share/christmas/10 White Christmas.mp3
+/home/pi/Music/share/christmas/10. White Christmas.mp3
+/home/pi/Music/share/christmas/110 - Andre Kostelanetz - O Tannenbaum.mp3
+/home/pi/Music/share/christmas/111 - Mitch Miller - I Saw Mommy Kissing Santa Claus.mp3
+/home/pi/Music/share/christmas/112 - Jim Reeves - Jingle Bells.mp3
+/home/pi/Music/share/christmas/113 - Patti Page - Christmas Bells.mp3
+/home/pi/Music/share/christmas/114 - Andy Williams - Do You Hear What I Hear.mp3
+/home/pi/Music/share/christmas/115 - Harry Simeone Chorale - Little Drummer Boy.mp3
+/home/pi/Music/share/christmas/116 - Leontyne Price - Ave Maria (Schubert).mp3
+/home/pi/Music/share/christmas/117 - Ray Conniff - What Child Is This (Greensleeves).mp3
+/home/pi/Music/share/christmas/118 - Nat King Cole - Hark! The Herald Angels Sing.mp3
+/home/pi/Music/share/christmas/119 - Philadelphia Orchestra - Messiah Hallelujah! Chorus.mp3
+/home/pi/Music/share/christmas/11. All I Want for Christmas Is You.mp3
+/home/pi/Music/share/christmas/11 - Christmas In Killarney.MP3
+/home/pi/Music/share/christmas/11. Christmas in Our Soul.mp3
+/home/pi/Music/share/christmas/11. Home.mp3
+/home/pi/Music/share/christmas/11. I Wanna Go Skating with Willie.mp3
+/home/pi/Music/share/christmas/11. Let It Snow.mp3
+/home/pi/Music/share/christmas/11. Never Kissed Anyone With Blue Eyes.mp3
+/home/pi/Music/share/christmas/11 Please Come Home For Christmas.mp3
+/home/pi/Music/share/christmas/11. Round and Round.mp3
+/home/pi/Music/share/christmas/11 Silent Night.mp3
+/home/pi/Music/share/christmas/11. The Star Carol.mp3
+/home/pi/Music/share/christmas/11. Twelve Days of Christmas.mp3
+/home/pi/Music/share/christmas/11 Where Are You Christmas.mp3
+/home/pi/Music/share/christmas/120 - Bing Crosby - I Heard The Bells.mp3
+/home/pi/Music/share/christmas/121 - Brenda Lee - Rocking Around The Christmas Tree.mp3
+/home/pi/Music/share/christmas/12. Amazing Grace.mp3
+/home/pi/Music/share/christmas/12. Christmas Eve.mp3
+/home/pi/Music/share/christmas/12. Cool Yule.mp3
+/home/pi/Music/share/christmas/12 Jingle Bells (with Orchestra).mp3
+/home/pi/Music/share/christmas/12 - Mele Kilikimaka (with the Andrews Sisters).MP3
+/home/pi/Music/share/christmas/12. Merry Christmas Darling.mp3
+/home/pi/Music/share/christmas/12. Miss You Most (At Christmas Time).mp3
+/home/pi/Music/share/christmas/12. Sheila's Christmas Miracle.mp3
+/home/pi/Music/share/christmas/12. Sing For My Life.mp3
+/home/pi/Music/share/christmas/12. The Tree.mp3
+/home/pi/Music/share/christmas/12. Where Did My Snowman Go.mp3
+/home/pi/Music/share/christmas/12. White Christmas.mp3
+/home/pi/Music/share/christmas/12 Wrap Me Up in Your Love.mp3
+/home/pi/Music/share/christmas/13 By Christmas Eve.mp3
+/home/pi/Music/share/christmas/13. Have Yourself a Merry Little Christmas.mp3
+/home/pi/Music/share/christmas/13. My Old Santa Claus.mp3
+/home/pi/Music/share/christmas/13. Pretty Snowflakes.mp3
+/home/pi/Music/share/christmas/13. Rosie's Christmas Wish.mp3
+/home/pi/Music/share/christmas/13. Santa Claus Is Coming To Town.mp3
+/home/pi/Music/share/christmas/13. Thankful.mp3
+/home/pi/Music/share/christmas/13. This Candle Time of Year.mp3
+/home/pi/Music/share/christmas/13. White Christmas.mp3
+/home/pi/Music/share/christmas/14 - A Spaceman Came Travelling.mp3
+/home/pi/Music/share/christmas/14. Cheer For The Elves.mp3
+/home/pi/Music/share/christmas/14. Have Yourself a Merry Little Christmas.mp3
+/home/pi/Music/share/christmas/14 Merry Merry Christmas.mp3
+/home/pi/Music/share/christmas/14. The Christmas Song.mp3
+/home/pi/Music/share/christmas/14. Winter Weather.mp3
+/home/pi/Music/share/christmas/15 - Mad World (feat. Gary Jules).mp3
+/home/pi/Music/share/christmas/15 Merry Christmas.mp3
+/home/pi/Music/share/christmas/15. Merry Me This Christmas.mp3
+/home/pi/Music/share/christmas/15. Secret Santa.mp3
+/home/pi/Music/share/christmas/16. I'll Be Home for Christmas.mp3
+/home/pi/Music/share/christmas/16 - Only You.mp3
+/home/pi/Music/share/christmas/16. Winter Wonderland.mp3
+/home/pi/Music/share/christmas/17 - Caravan Of Love.mp3
+/home/pi/Music/share/christmas/17. Feliz Navidad.mp3
+/home/pi/Music/share/christmas/17. The Christmas Waltz.mp3
+/home/pi/Music/share/christmas/18. Have Yourself a Merry Little Christmas.mp3
+/home/pi/Music/share/christmas/18 It's Beginning To Look A Lot Like Christmas.mp3
+/home/pi/Music/share/christmas/18 - Winter Melody.mp3
+/home/pi/Music/share/christmas/19 - Silent Night.mp3
+/home/pi/Music/share/christmas/1. I'll Be Home for Christmas.mp3
+/home/pi/Music/share/christmas/1. We Need a Little Christmas.mp3
+/home/pi/Music/share/christmas/201 - Andy Williams - It's The Most Wonderful Time Of The Year.mp3
+/home/pi/Music/share/christmas/202 - Steve Lawrence & Eydie Gorme - Winter Wonderland.mp3
+/home/pi/Music/share/christmas/203 - Perry Como - It's Beginning to Look a Lot Like Christmas.mp3
+/home/pi/Music/share/christmas/204 - Bing Crosby - White Christmas.mp3
+/home/pi/Music/share/christmas/205 - Nat King Cole - Caroling Caroling.mp3
+/home/pi/Music/share/christmas/206 - Frank Sinatra - Christmas Waltz.mp3
+/home/pi/Music/share/christmas/207 - Steve Lawrence & Eydie Gorme - Baby It's Cold Outside.mp3
+/home/pi/Music/share/christmas/208 - Beach Boys - Santa's Beard.mp3
+/home/pi/Music/share/christmas/209 - New Christy Minstrels - We Need A Little Christmas.mp3
+/home/pi/Music/share/christmas/20 All I Want For Christmas.mp3
+/home/pi/Music/share/christmas/20 - The Perfect Year.mp3
+/home/pi/Music/share/christmas/210 - Ray Conniff - God Rest Ye Gentlemen.mp3
+/home/pi/Music/share/christmas/211 - Mormon Tabernacle Choir - Deck The Halls.mp3
+/home/pi/Music/share/christmas/212 - Andy Williams - O Little Town of Bethlehem.mp3
+/home/pi/Music/share/christmas/213 - Robert Shaw & Leonard Bernstein - Carol Of The Bells.mp3
+/home/pi/Music/share/christmas/214 - Johnny Mathis - It Came Upon a Midnight Clear.mp3
+/home/pi/Music/share/christmas/215 - Mitch Miller - Silent Night.mp3
+/home/pi/Music/share/christmas/216 - Mahalia Jackson - Go Tell It On The Mountain.mp3
+/home/pi/Music/share/christmas/217 - Harry Belafonte - Mary's Boy Child.mp3
+/home/pi/Music/share/christmas/218 - Nat King Cole - I Saw Three Ships.mp3
+/home/pi/Music/share/christmas/219 - Philadelphia Orchestra - O Come All Ye Faithful.mp3
+/home/pi/Music/share/christmas/220 - Steve Lawrence & Eydie Gorme - What Are You Doing New Years Eve.mp3
+/home/pi/Music/share/christmas/221 - Jose Feliciano - Feliz Navidad.mp3
+/home/pi/Music/share/christmas/23. O Little Town Of Bethlehem.mp3
+/home/pi/Music/share/christmas/25. White Christmas.mp3
+/home/pi/Music/share/christmas/26. The Christmas Waltz (Alternate Take).mp3
+/home/pi/Music/share/christmas/28. White Christmas (Alternate Take).mp3
+/home/pi/Music/share/christmas/2. Christmas Stays the Same.mp3
+/home/pi/Music/share/christmas/2. White Christmas.mp3
+/home/pi/Music/share/christmas/301 - Johnny Mathis - Sleigh Ride.mp3
+/home/pi/Music/share/christmas/302 - Bing Crosby - A Time To Be Jolly.mp3
+/home/pi/Music/share/christmas/303 - Mitch Miller - Winter Wonderland.mp3
+/home/pi/Music/share/christmas/304 - Steve Lawrence & Eydie Gorme - Let It Snow! Let It Snow! Let It Snow!.mp3
+/home/pi/Music/share/christmas/305 - Judy Garland - Have Yourself A Merry Little Christmas.mp3
+/home/pi/Music/share/christmas/306 - Perry Como - Home For The Holidays (1959).mp3
+/home/pi/Music/share/christmas/307 - Ray Conniff - Here Comes Santa Claus.mp3
+/home/pi/Music/share/christmas/308 - Gene Autry - Rudolph The Red-Nosed Reindeer.mp3
+/home/pi/Music/share/christmas/309 - Burl Ives - Holly Jolly Christmas.mp3
+/home/pi/Music/share/christmas/310 - Steve Lawrence & Eydie Gorme - Let Me Be The First To Wish You Merry Xmas.mp3
+/home/pi/Music/share/christmas/311 - Johnny Mathis - I'll Be Home For Christmas.mp3
+/home/pi/Music/share/christmas/312 - Robert Shaw - We Three Kings.mp3
+/home/pi/Music/share/christmas/313 - Julie Andrews - Patapan.mp3
+/home/pi/Music/share/christmas/314 - Johnny Cash - Little Drummer Boy.mp3
+/home/pi/Music/share/christmas/315 - Roger Whittaker - Ding Dong Merrily On High.mp3
+/home/pi/Music/share/christmas/316 - Morton Gould - Good King Wenceslas.mp3
+/home/pi/Music/share/christmas/317 - Luciano Pavarotti - Adeste Fideles.mp3
+/home/pi/Music/share/christmas/318 - Nat King Cole - O Little Town of Bethlehem.mp3
+/home/pi/Music/share/christmas/319 - Perry Como - O Holy Night.mp3
+/home/pi/Music/share/christmas/320 - Percy Faith - Joy To The World.mp3
+/home/pi/Music/share/christmas/321 - Bobby Helms - Jingle Bell Rock.mp3
+/home/pi/Music/share/christmas/32. Have Yourself a Merry Little Christmas (Alternate Take).mp3
+/home/pi/Music/share/christmas/33. Christmas Dreaming.mp3
+/home/pi/Music/share/christmas/3. O Holy Night.mp3
+/home/pi/Music/share/christmas/3. Santa Baby.mp3
+/home/pi/Music/share/christmas/3T _ Endless Christmas.mp3
+/home/pi/Music/share/christmas/401 - Steve Lawrence & Eydie Gorme - That Holiday Feeling.mp3
+/home/pi/Music/share/christmas/402 - Dean Martin - Let It Snow! Let It Snow! Let It Snow!.mp3
+/home/pi/Music/share/christmas/403 - Johnny Mathis - A Marshmallow World.mp3
+/home/pi/Music/share/christmas/404 - Frank Sinatra - Mistletoe and Holly.mp3
+/home/pi/Music/share/christmas/405 - Eddy Arnold - Up On The House Top.mp3
+/home/pi/Music/share/christmas/406 - Perry Como - Silver Bells.mp3
+/home/pi/Music/share/christmas/407 - Ray Conniff - Here We Come A Caroling.mp3
+/home/pi/Music/share/christmas/408 - Chet Atkins - Jolly Old St. Nick.mp3
+/home/pi/Music/share/christmas/409 - Mitch Miller - Santa Claus Is Coming.mp3
+/home/pi/Music/share/christmas/410 - Nat King Cole - The Christmas Song.mp3
+/home/pi/Music/share/christmas/411 - Steve Lawrence & Eydie Gorme - That Ol' Christmas Spirit.mp3
+/home/pi/Music/share/christmas/412 - Percy Faith - Have Yourself A Merry Little Christmas.mp3
+/home/pi/Music/share/christmas/413 - Johnny Mathis - O Holy Night.mp3
+/home/pi/Music/share/christmas/414 - Bing Crosby - Do You Hear What I Hear.mp3
+/home/pi/Music/share/christmas/415 - Andy Williams - The First Noel.mp3
+/home/pi/Music/share/christmas/416 - Mormon Tabernacle Choir - Good King Wenceslas.mp3
+/home/pi/Music/share/christmas/417 - The Nutcracker Suite - Dance of The Reed Pipes Trepak (Russian Dance).mp3
+/home/pi/Music/share/christmas/418 - London Philharmonic Orchestra - Messiah A Child Is Born.mp3
+/home/pi/Music/share/christmas/419 - New Christy Minstrels - Beautiful City.mp3
+/home/pi/Music/share/christmas/420 - Ray Conniff - Joy To The World.mp3
+/home/pi/Music/share/christmas/421 - Beach Boys - Little Saint Nick.mp3
+/home/pi/Music/share/christmas/4. It's Gonna Be a Hot, Hot Christmas.mp3
+/home/pi/Music/share/christmas/4. The Magic of Christmas Time.mp3
+/home/pi/Music/share/christmas/501 - Steve Lawrence & Eydie Gorme - Happy Holiday.mp3
+/home/pi/Music/share/christmas/502 - Johnny Mercer & Margaret Whiting - Baby It's Cold Outside.mp3
+/home/pi/Music/share/christmas/503 - Percy Faith - We Need A Little Christmas.mp3
+/home/pi/Music/share/christmas/504 - Bing Crosby - The White World of Winter.mp3
+/home/pi/Music/share/christmas/505 - Mitch Miller - Twelve Days Of Christmas.mp3
+/home/pi/Music/share/christmas/506 - Steve Lawrence & Eydie Gorme - White Christmas.mp3
+/home/pi/Music/share/christmas/507 - Robert Goulet - Have Yourself A Merry Little Christmas.mp3
+/home/pi/Music/share/christmas/508 - Boston Pops - Sleigh Ride.mp3
+/home/pi/Music/share/christmas/509 - Perry Como - Home For The Holidays (1954).mp3
+/home/pi/Music/share/christmas/510 - Steve Lawrence & Eydie Gorme - The Christmas Song.mp3
+/home/pi/Music/share/christmas/511 - Mitch Miller - It Came Upon A Midnight Clear.mp3
+/home/pi/Music/share/christmas/512 - Nat King Cole - Joy To The World.mp3
+/home/pi/Music/share/christmas/513 - Boston Pops - Here We Come A Caroling I Saw Three Ships.mp3
+/home/pi/Music/share/christmas/514 - King's College Choir - Shepherds, In The Field Abiding.mp3
+/home/pi/Music/share/christmas/515 - Andy Williams - Carol Of The Bells.mp3
+/home/pi/Music/share/christmas/516 - Renata Tebaldi - Ave Maria (Bach-Gounod).mp3
+/home/pi/Music/share/christmas/517 - Philadelphia Brass - Silent Night.mp3
+/home/pi/Music/share/christmas/518 - Nat King Cole - Away In A Manger.mp3
+/home/pi/Music/share/christmas/519 - Gary Puckett - O Holy Night.mp3
+/home/pi/Music/share/christmas/520 - Grinch Soundtrack - Welcome Christmas.mp3
+/home/pi/Music/share/christmas/521 - New Christy Minstrels - It'll Be A Merry Christmas.mp3
+/home/pi/Music/share/christmas/5. Christmas Without You.mp3
+/home/pi/Music/share/christmas/5. Have Yourself a Merry Little Christmas.mp3
+/home/pi/Music/share/christmas/5. Twas the Night Before Christmas.mp3
+/home/pi/Music/share/christmas/601 - Steve Lawrence & Eydie Gorme - Sleigh Ride.mp3
+/home/pi/Music/share/christmas/602 - Barbra Striesand - Jingle Bells.mp3
+/home/pi/Music/share/christmas/603 - Tony Bennett - My Favorite Things.mp3
+/home/pi/Music/share/christmas/604 - Nat King Cole - Deck The Halls.mp3
+/home/pi/Music/share/christmas/605 - Johnny Mathis - Winter Wonderland.mp3
+/home/pi/Music/share/christmas/606 - Beach Boys - Christmas Day.mp3
+/home/pi/Music/share/christmas/607 - Burl Ives - Rudolph The Red-Nosed Reindeer.mp3
+/home/pi/Music/share/christmas/608 - Perry Como - Santa Claus Is Coming.mp3
+/home/pi/Music/share/christmas/609 - Bing Crosby - Mele Kalikimaka.mp3
+/home/pi/Music/share/christmas/610 - Doris Day - Toyland.mp3
+/home/pi/Music/share/christmas/611 - Carpenters - Merry Christmas Darling.mp3
+/home/pi/Music/share/christmas/612 - Steve Lawrence & Eydie Gorme - Hurry Home For Christmas.mp3
+/home/pi/Music/share/christmas/613 - Perry Como - There Is No Christmas Like A Home Christmas.mp3
+/home/pi/Music/share/christmas/614 - Ray Conniff - Silver Bells.mp3
+/home/pi/Music/share/christmas/615 - Robert Goulet - Ave Maria (Bach-Gounod).mp3
+/home/pi/Music/share/christmas/616 - Mario Lanza - O Holy Night.mp3
+/home/pi/Music/share/christmas/617 - The Nutcracker Suite - Dance of the Sugar Plum Fairy Dance of the Mirltons.mp3
+/home/pi/Music/share/christmas/618 - Harry Belafonte - I Heard The Bells.mp3
+/home/pi/Music/share/christmas/619 - Mormon Tabernacle Choir - Messiah Hallelujah! Chorus.mp3
+/home/pi/Music/share/christmas/620 - Andre Kostelanetz - We Wish You A Merry Christmas.mp3
+/home/pi/Music/share/christmas/621 - Guy Lombardo - Auld Lang Syne.mp3
+/home/pi/Music/share/christmas/6. Blue Christmas.mp3
+/home/pi/Music/share/christmas/6. Hey Santa.mp3
+/home/pi/Music/share/christmas/7. Candlelight Carol.mp3
+/home/pi/Music/share/christmas/7. The Christmas Song.mp3
+/home/pi/Music/share/christmas/86. Winter Wonderland.mp3
+/home/pi/Music/share/christmas/8. Silver Bells.mp3
+/home/pi/Music/share/christmas/8. Snow.mp3
+/home/pi/Music/share/christmas/9. Silent Night.mp3
+/home/pi/Music/share/christmas/9. The Christmas Song _ Have Yourself a Merry Little Christmas (Duet with Betsy Holm).mp3
+/home/pi/Music/share/christmas/Amy Grant _ I'll Be Home For Christmas.mp3
+/home/pi/Music/share/christmas/A Very Special Christmas #5 - 04 - Blue Christmas -- Jon Bon.mp3
+/home/pi/Music/share/christmas/Backstreet Boys _ Christmas Time.mp3
+/home/pi/Music/share/christmas/Band Aid _ Do They Know It's Christmas_.mp3
+/home/pi/Music/share/christmas/Bruce Springsteen & The E Street Band _ Merry Christmas Baby.mp3
+/home/pi/Music/share/christmas/Celine Dion _ The Christmas Song.mp3
+/home/pi/Music/share/christmas/Cyndi Lauper _ Early Christmas Morning.mp3
+/home/pi/Music/share/christmas/Gloria Estefan _ Christmas Through Your Eyes.mp3
+/home/pi/Music/share/christmas/Hollywood Bowl Orchestra - Music of Christmas - 01 - O Tannenbaum.mp3
+/home/pi/Music/share/christmas/Hollywood Bowl Orchestra - Music of Christmas - 02 - Away in a Manger.mp3
+/home/pi/Music/share/christmas/Hollywood Bowl Orchestra - Music of Christmas - 03 - Hark! The Herald Angels Sing.mp3
+/home/pi/Music/share/christmas/Hollywood Bowl Orchestra - Music of Christmas - 04 - Carol of the Bells.mp3
+/home/pi/Music/share/christmas/Hollywood Bowl Orchestra - Music of Christmas - 05 - O Little Town of Bethlehem.mp3
+/home/pi/Music/share/christmas/Hollywood Bowl Orchestra - Music of Christmas - 06 - It Came Upon a Midnight Clear.mp3
+/home/pi/Music/share/christmas/Hollywood Bowl Orchestra - Music of Christmas - 07 - Joy to the World.mp3
+/home/pi/Music/share/christmas/Hollywood Bowl Orchestra - Music of Christmas - 08 - God Rest Ye Merry Gentlemen.mp3
+/home/pi/Music/share/christmas/Hollywood Bowl Orchestra - Music of Christmas - 09 - Adeste Fideles.mp3
+/home/pi/Music/share/christmas/Hollywood Bowl Orchestra - Music of Christmas - 10 - The First Noel.mp3
+/home/pi/Music/share/christmas/Hollywood Bowl Orchestra - Music of Christmas - 11 - Cantique de Noel (O Holy Night).mp3
+/home/pi/Music/share/christmas/Hollywood Bowl Orchestra - Music of Christmas - 12 - Deck the Halls.mp3
+/home/pi/Music/share/christmas/Hollywood Bowl Orchestra - Music of Christmas - 13 - Silent Night.mp3
+/home/pi/Music/share/christmas/Human Nature _ Last Christmas.mp3
+/home/pi/Music/share/christmas/London Music Works - A Swinging Big Band Christmas - 01 - Let It Snow! (Feat. Joe Stilgoe).mp3
+/home/pi/Music/share/christmas/London Music Works - A Swinging Big Band Christmas - 02 - Jingle Bells (Feat. Liane Carroll).mp3
+/home/pi/Music/share/christmas/London Music Works - A Swinging Big Band Christmas - 03 - White Christmas (Feat. Shane Hampsheir).mp3
+/home/pi/Music/share/christmas/London Music Works - A Swinging Big Band Christmas - 04 - Winter Wonderland (Feat. Keith Ferreira).mp3
+/home/pi/Music/share/christmas/London Music Works - A Swinging Big Band Christmas - 05 - Have Yourself A Merry Little Christmas (Feat. Joe Stilgoe).mp3
+/home/pi/Music/share/christmas/London Music Works - A Swinging Big Band Christmas - 06 - Sleigh Ride (Feat. Liane Carroll).mp3
+/home/pi/Music/share/christmas/London Music Works - A Swinging Big Band Christmas - 07 - Santa Claus Is Coming To Town (Feat. Joe Stilgoe).mp3
+/home/pi/Music/share/christmas/London Music Works - A Swinging Big Band Christmas - 08 - It's Beginning To Look A Lot Like Christmas (Feat. Shane Hampsheir).mp3
+/home/pi/Music/share/christmas/London Music Works - A Swinging Big Band Christmas - 09 - Santa Baby (Feat. Liane Carroll).mp3
+/home/pi/Music/share/christmas/London Music Works - A Swinging Big Band Christmas - 10 - Frosty The Snowman (Feat. Keith Ferreira).mp3
+/home/pi/Music/share/christmas/London Music Works - A Swinging Big Band Christmas - 11 - Silent Night (Feat. Liane Carroll).mp3
+/home/pi/Music/share/christmas/London Music Works - A Swinging Big Band Christmas - 12 - We Wish You A Merry Christmas (Feat. Liane Carroll, Joe Stilgoe, Shane Hampsheir & Keith Ferreira).mp3
+/home/pi/Music/share/christmas/Luther Vandross _ Have Yourself A Merry Little Christmas.mp3
+/home/pi/Music/share/christmas/Neil Diamond _ You Make It Feel Like Christmas.mp3
+/home/pi/Music/share/christmas/Placido Domingo _ White Christmas.mp3
+/home/pi/Music/share/christmas/Thumbs.db
+/home/pi/Music/share/christmas/Various Artists - Heavenly Christmas - 01 - Trans-Siberian O.mp3
+/home/pi/Music/share/christmas/Various Artists - Heavenly Christmas - 02 - Sarah Brightman .mp3
+/home/pi/Music/share/christmas/Various Artists - Heavenly Christmas - 03 - Manheim Steamrol.mp3
+/home/pi/Music/share/christmas/Various Artists - Heavenly Christmas - 04 - Linda Ronstadt -.mp3
+/home/pi/Music/share/christmas/Various Artists - Heavenly Christmas - 05 - George Winston -.mp3
+/home/pi/Music/share/christmas/Various Artists - Heavenly Christmas - 06 - Carly Simon - I'.mp3
+/home/pi/Music/share/christmas/Various Artists - Heavenly Christmas - 07 - Loreena McKennit.mp3
+/home/pi/Music/share/christmas/Various Artists - Heavenly Christmas - 08 - John Tesh - We T.mp3
+/home/pi/Music/share/christmas/Various Artists - Heavenly Christmas - 09 - Manhattan Transf.mp3
+/home/pi/Music/share/christmas/Various Artists - Heavenly Christmas - 10 - Michael Crawford.mp3
+/home/pi/Music/share/christmas/Various Artists - Heavenly Christmas - 11 - Natalie Cole - M.mp3
+/home/pi/Music/share/christmas/Various Artists - Heavenly Christmas - 12 - Chuck Brown with.mp3
+/home/pi/Music/share/christmas/Various Artists - Heavenly Christmas - 13 - Kitaro - God Res.mp3
+/home/pi/Music/share/christmas/Various Artists - Heavenly Christmas - 14 - Linda Eder - The.mp3
+/home/pi/Music/share/christmas/Various Artists - Heavenly Christmas - 15 - David Lang - It .mp3
+/home/pi/Music/share/christmas/Various Artists - Heavenly Christmas - 16 - Take 6 - Silver .mp3
+/home/pi/Music/share/christmas/Various Artists - Heavenly Christmas - 17 - Chanticleer feat.mp3
+/home/pi/Music/share/christmas/Various Artists - Heavenly Christmas - 18 - Liona Boyd - Sil.mp3

@@ -18,36 +18,12 @@ input[type="button"]
 </style>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head><body>
-<div class=modal id=addModal>
 <div style="border: solid; padding: 20px; color: white; background-color: #aaaaff; position: absolute; margin: auto; left: 50%; top: 50%;  transform: translate(-50%, -50%);" >
-<div id='selectedName' style='padding-bottom: 20px'></div>
-<input onclick='playNow()'; style="font-size: 25px; padding:10px;" type=button value="Play Now">
-<input onclick='playNow()'; style="font-size: 25px; padding:10px;" type=button value="Add to Playlist">
-<input onclick='cancelSelect()'; style="font-size: 25px; padding:10px;" type=button value="Cancel">
 </div>
-</div>
-<form onsubmit="return search()">
-<input placeholder="Keywords (separate by spaces)" style="font-size: 25px; width:100%" type=text name='keywords' id='keywords'>
-<input style="padding: 10px; border:0" onclick="search()" type=button value='Search'>
-<br>
-</form>
-
-Volume:
-<a class='fakeURL' onclick='volume(1)'>1</a>
-<a class='fakeURL' onclick='volume(2)'>2</a>
-<a class='fakeURL' onclick='volume(3)'>3</a>
-<a class='fakeURL' onclick='volume(4)'>4</a>
-<a class='fakeURL' onclick='volume(5)'>5</a>
-<a class='fakeURL' onclick='volume(6)'>6</a>
-<a class='fakeURL' onclick='volume(7)'>7</a>
-<a class='fakeURL' onclick='volume(8)'>8</a>
-<a class='fakeURL' onclick='volume(9)'>9</a>
-<a class='fakeURL' onclick='volume(10)'>10</a>
-<a class='fakeURL' onclick='volume(10)'>11</a>
-<br>
 
 <a class='fakeURL' onclick='stopPlayer()' >Stop</a><br>
 <a class='fakeURL' onclick='startServer()'>Start Server</a><br><br>
+<a class='fakeURL' onclick='restartServer()'>Stop Server</a><br><br>
 <a class='fakeURL' onclick='wipeServer()'>Wipe Sessions</a><br><br>
 <div id=mainList></div>
 
@@ -98,6 +74,10 @@ function stopPlayer(){
 
 function startServer(){
     getURL("player.cgi?command=startserver");
+}
+
+function restartServer(){
+    getURL("player.cgi?command=stopserver");
 }
 
 function wipeServer(){

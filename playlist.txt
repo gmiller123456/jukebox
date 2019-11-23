@@ -1,3 +1,13 @@
-/home/pi/Music/share/top500/048 - The Jimi Hendrix Experience - All Along The Watchtower.mp3
-/home/pi/Music/share/top500/003 - John Lennon - Imagine.mp3
-/home/pi/Music/share/top500/007 - Chuck Berry - Johnny B. Goode.mp3
+/home/pi/Music/share/Clasic Rock/Bruce Springsteen-Born in the U.S.A.-06-I'm on Fire.mp3
+/home/pi/Music/share/new/Bruce Springsteen-Greatest Hits-01-Born to Run.mp3
+/home/pi/Music/share/top500/086 - Bruce Springsteen - Thunder Road.mp3
+/home/pi/Music/share/top500/275 - Bruce Springsteen - Born In The U.S.A.mp3
+/home/pi/Music/huge/Bruce Springsteen/Born In The U.S.A_/10 Glory Days.mp3
+/home/pi/Music/huge/The Clash/Clash on Broadway/03/16 Rock The Casbah.mp3
+
+/home/pi/Music/huge/George Michael/Faith/03 I Want Your Sex (Parts 1 
+/home/pi/Music/huge/George Michael/Faith/03 I Want Your Sex (Parts 1 
+/home/pi/Music/huge/New Wave/New Wave 
+/home/pi/Music/huge/_Compilations_Soundtracks/New Wave/New Wave 
+/home/pi/Music/huge/New Wave/New Wave 
+/home/pi/Music/share/100 Kickass Classical Pieces/Various artists/100 Kickass Classical Pieces/16 - Peer Gynt Suite No. 1, Op. 46_ In the Hall of the Mountain King.mp3

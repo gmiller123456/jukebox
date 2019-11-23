@@ -1,9 +1,14 @@
 #!/usr/bin/perl
 use strict;
 
+print "Starting outputparser\n";
+my $log;
+open($log,"/home/pi/www/log/log.txt");
 my $l;
-while($l=<>){
-	$l=~s/\r*\n*//gs;
+while(1){
+   $l=<$log>;
+   $l=~s/\r*\n*//gs;
+   if($l ne ""){ print "$l\n";}
    if(length($l)<2){ next;}
    if(substr($l,0,1) ne '@'){next;}
    my $c=substr($l,1,1);
@@ -13,6 +18,7 @@ while($l=<>){
    if($c eq "S"){parseExtraInfo($l);}
    if($c eq "V"){parseVolume($l);}
 }
+print "Exiting outputparser\n";
 
 sub parseVolume(){
 	my $l=shift;
@@ -60,22 +66,27 @@ sub writeField {
 
 sub writeTitle(){
 	my $f=shift;
+    $f=~s/[^a-zA-Z ]//gis;
 	writeField(0,30,$f);
 }
 sub writeArtist(){
 	my $f=shift;
+    $f=~s/[^a-zA-Z ]//gis;
 	writeField(30,30,$f);
 }
 sub writeAlbum(){
 	my $f=shift;
+    $f=~s/[^a-zA-Z ]//gis;
 	writeField(60,30,$f);
 }
 sub writeYear(){
 	my $f=shift;
+    $f=~s/[^a-zA-Z ]//gis;
 	writeField(120,5,$f);
 }
 sub wrietGenre(){
 	my $f=shift;
+    $f=~s/[^a-zA-Z ]//gis;
 	writeField(90,30,$f);
 }
 
@@ -83,6 +94,9 @@ sub parseState(){
 	my $l=shift;
 	my $s=substr($l,3,1);
 	writeField(145,10,$s);
+	if($s==0){
+		system("/home/pi/public_html/nextsong.pl");
+	}
 }
 
 sub parseExtraInfo(){
