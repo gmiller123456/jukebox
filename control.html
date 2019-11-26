@@ -2,24 +2,9 @@
 <html><head><title>Jukebox</title>
 <style>
 .fakeURL {color:blue; text-decoration: underline;cursor:pointer;}
-.modal {display: none; position: fixed; z-index:1; left:0;top:0;width:100%;height:100%; overflow:auto; background-color: rgba(0,0,0,0.4);}
-
-input[type="button"]  
-{
- border-style: solid;
- border-width: 2px;
- border-color: white;
- background: none;
- box-shadow: none;
- border-radius: 0px;
- background-color: green;
- color: white;
-}
 </style>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head><body>
-<div style="border: solid; padding: 20px; color: white; background-color: #aaaaff; position: absolute; margin: auto; left: 50%; top: 50%;  transform: translate(-50%, -50%);" >
-</div>
 
 <a class='fakeURL' onclick='stopPlayer()' >Stop</a><br>
 <a class='fakeURL' onclick='startServer()'>Start Server</a><br><br>
@@ -28,45 +13,6 @@ input[type="button"]
 <div id=mainList></div>
 
 <script>
-function search(){
-	var e=document.getElementById("mainList");
-	e.innerHTML="Loading... Please Wait....";
-	
-	var s=document.getElementById("keywords").value
-	console.log(s);
-
-	var req=new XMLHttpRequest();
-	req.addEventListener("load",receive);
-	req.open("GET","search.cgi?keywords="+s);
-	req.send();
-	return false;
-}
-function playNow(){
-	var n=document.getElementById("selectedName");
-    var t=n.innerHTML;
-	t=t.replace("&amp;","&");
-   
-    t=encodeURIComponent(t);
-    getURL("player.cgi?file="+t);
-	cancelSelect();
-}
-
-function cancelSelect(){
-	var m=document.getElementById("addModal");
-	m.style.display="none";
-}
-
-function selectSong(s){
-	var m=document.getElementById("addModal");
-	var n=document.getElementById("selectedName");
-	n.innerHTML=s.innerHTML;
-	
-	m.style.display="block";
-}
-
-function volume(v){
-    getURL("player.cgi?volume="+(v*10));
-}
 
 function stopPlayer(){
     getURL("player.cgi?command=stop");
@@ -89,24 +35,6 @@ function receive(){
     console.log(this.responseText);
     index=this.responseText.split("\n");
     showList(index);
-}
-
-function showList(l){
-    var t="";
-	var d=document.createElement("div");
-    for(var i=0;i<l.length;i++){
-		var a=document.createElement("a");
-		a.innerHTML=l[i];
-		a.classList.add("fakeURL");
-		a.addEventListener("click",function(){selectSong(this);});
-		d.appendChild(a);
-		d.appendChild(document.createElement("br"));
-		d.appendChild(document.createElement("br"));
-    }
-    //document.getElementById("mainList").innerHTML=t;
-	var e=document.getElementById("mainList");
-	e.innerHTML=(l.length-1)+" matches.";
-	e.appendChild(d);
 }
 
 function getURL(u){

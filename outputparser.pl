@@ -17,8 +17,13 @@ while(1){
    if($c eq "P"){parseState($l);}
    if($c eq "S"){parseExtraInfo($l);}
    if($c eq "V"){parseVolume($l);}
+   if($c eq "E"){parseError($l);}
 }
 print "Exiting outputparser\n";
+
+sub parseError(){
+	system("/home/pi/public_html/nextsong.pl");
+}
 
 sub parseVolume(){
 	my $l=shift;
@@ -31,10 +36,8 @@ my $lastTime=0;
 sub parseFrame(){
 	my $l=shift;
 	my ($temp,$frameNum,$framesLeft,$time,$timeLeft)=split(/ /,$l);
-	if($frameNum==0){
-		writeField(125,10,$timeLeft);
-	}
 	if($time-$lastTime>.5){
+		writeField(125,10,$timeLeft+$time);
 		writeField(135,10,$time);
 		$lastTime=$time;
 	}
@@ -43,6 +46,7 @@ sub parseFrame(){
 sub parseInfo(){
 	my $l=shift;
 	#print "Ifno $l";
+	if(substr($l,0,7) eq "\@I ID3:"){writeTitle(substr($l,7,30));}
 	if(substr($l,0,15) eq "\@I ID3v2.title:"){writeTitle(substr($l,15,30));}
 	if(substr($l,0,16) eq "\@I ID3v2.artist:"){writeArtist(substr($l,16,30));}
 	if(substr($l,0,15) eq "\@I ID3v2.album:"){writeAlbum(substr($l,15,30));}

@@ -1,7 +1,18 @@
 
 <html><head><title>Jukebox</title>
 <style>
-.fakeURL {color:blue; text-decoration: underline;cursor:pointer;}
+body{
+	background-color: #001100;
+	color: #aaffaa;
+}
+
+input{
+	background-color: #001100;
+	color:white;
+
+}
+
+.fakeURL {color:green; text-decoration: underline;cursor:pointer;}
 .modal {display: none; position: fixed; z-index:1; left:0;top:0;width:100%;height:100%; overflow:auto; background-color: rgba(0,0,0,0.4);}
 
 .defaultButton
@@ -16,19 +27,40 @@
 	color: white;
 }
 
+.currentEntry{
+	background-color: #005555;
+	color:black;
+}
+
 .tab{
     font-size:150%;
-    color:white;
+    color:#aaffaa;
     background-color:green;
-    margin:10px;
+    margin:2px;
 
     border-style:solid;
-    border-color:white;
+    border-color:black;
     cursor:pointer;
 }
 
 .tabactive{
-    border-color: black;
+    border-color: white;
+    font-size: 155%;
+}
+
+.songListName{
+	color:#aaffaa;
+}
+.songListInfo{
+	color:white;
+	font-weight:bold;
+	background-color:green;
+	font-size:75%;
+}
+
+.formatError{
+	background-color:red;
+	color:white;
 }
 
 #currTitle{
@@ -78,17 +110,16 @@
 #progressContainer2{
 	width: 80%;
 	display: inline-block;
-	background-color: #888888;
+	background-color: #005500;
 }
 #progressBar{
 	width:0%;
-	background-color: green;
+	background-color: #55aa55;
 	display: inline-block;
 }
 #currTotalTime{
 	width: 100%;
 	position: relative;
-	color: black;
 }
 
 </style>
@@ -129,14 +160,14 @@ Volume:
 <br>
 <a class='fakeURL' onclick='stopPlayer()' >Stop</a><br>
 <a class='fakeURL' onclick='startPlaylist("main")' >Start Playlist</a><br>
-<a href="playlist.txt">View Playlist</a><br>
 <a class='fakeURL' onclick='startPlaylist("play")' >Start Top 500 Playlist</a><br>
 <a class='fakeURL' onclick='startPlaylist("christmas")' >Start Christmas Playlist</a><br>
+<a class='fakeURL' href="index.txt">View Entire List</a><br>
 <br>
 <span class='tab' id='searchHeader' onclick='tab("search");'>Search</span><span class='tab' id='playlistHeader' onclick='tab("playlist");'>Playlist</span><span class='tab' id='playlistsHeader' onclick='tab("playlists");'>All Playlists</span>
 <br>
 <div id='searchTab'>
-    <form onsubmit="return search()">
+    <form onsubmit="search(); return false;">
     <input placeholder="Keywords (separate by spaces)" style="font-size: 25px; width:100%" type=text name='keywords' id='keywords'>
     <input style="padding: 10px; border:0" onclick="search()" class='defaultButton' type=button value='Search'>
     <br>
@@ -144,7 +175,7 @@ Volume:
     <div id=searchList></div>
 </div>
 <div id='playlistTab'>
-    playlist
+
 </div>
 <div id='playlistsTab'>
     playlists
@@ -152,6 +183,8 @@ Volume:
 
 <script>
 'use strict';
+
+let playlist="default";
 
 function init(){
     tab("search");
@@ -178,6 +211,7 @@ function tab(t){
         searchH.classList.remove('tabactive');
         playlistH.classList.add('tabactive');
         playlistsH.classList.remove('tabactive');
+        showPlaylist();
     } else if (t=="playlists"){
         searchTab.style.display='none';
         playlistTab.style.display='none';
@@ -186,6 +220,29 @@ function tab(t){
         playlistH.classList.remove('tabactive');
         playlistsH.classList.add('tabactive');
     }
+}
+
+async function showPlaylist(){
+	const listResponse = await fetch('playlist.cgi?command=list&playlist='+encodeURIComponent(playlist)+"&"+Math.random());
+	const text = await listResponse.text();
+	console.log(text);
+
+	const entryResponse = await fetch('playlistentry.txt?'+Math.random());
+	let entry = parseInt(await entryResponse.text());
+
+    const index=text.split("\n");
+    const t=createSongTable(index,"playlist");
+
+    if(entry>=0){
+	    entry-=1;
+	    if(entry<0){entry=t.rows.length-1;}
+	    t.rows[entry].classList.add("currentEntry");
+	}
+
+	let l=document.getElementById("playlistTab");
+	l.innerHTML="";
+	l.appendChild(t);
+	l.scrollIntoView();
 }
 
 function volume(v){
@@ -219,6 +276,7 @@ let currentTime=0;
 let totalTimeInt=0;
 let currVolume=100;
 function receiveNowPlaying(){
+
 	const t=this.responseText;
 	const title=t.substr(0,30).trim();
 	const artist=t.substr(30,30).trim();
@@ -284,13 +342,18 @@ async function search(){
     let text=await response.text();
     console.log(text);
     const index=text.split("\n");
-    showList(index);
+    const t=createSongTable(index,"search");
+
+	let l=document.getElementById("searchList");
+	l.innerHTML=(index.length)+" matches.";
+	l.appendChild(t);
+	l.scrollIntoView();
 
 	return false;
 }
 
 function startPlaylist(list){
-    getURL("player.cgi?playlist="+list);
+    getURL("playlist.cgi?playlist="+list);
 }
 
 function stopPlayer(){
@@ -298,57 +361,121 @@ function stopPlayer(){
 }
 
 function playSong(s){
-    const t=encodeURI(s);
+    let t=encodeURIComponent(s);
+
     getURL("player.cgi?file="+t);
 	//console.log(t);
 }
 
 async function addToPlaylist(s){
-    const t=encodeURI(s);
-	await fetch("player.cgi?command=add&addfile="+t);
+    const t=encodeURIComponent(s);
+	const r=await fetch("playlist.cgi?command=add&addfile="+t+"&playlist="+encodeURIComponent(playlist));
+	console.log(await r.text());
 	alert("Added");
 
 }
 
-function showRow(r,i){
-    const temp=i.split("/");
-    const bcell=r.insertCell(0);
-    const playButton=document.createElement("button");
-    const textNode=document.createTextNode("Play");
-    playButton.appendChild(textNode);
-    playButton.classList.add("defaultButton");
-    playButton.addEventListener('click',function(){playSong(i);});
-    bcell.appendChild(playButton);
-
-    const addButton=document.createElement("button");
-    const textNode2=document.createTextNode("Add");
-    addButton.appendChild(textNode2);
-    addButton.classList.add("defaultButton");
-    addButton.addEventListener('click',function(){addToPlaylist(i);});
-    bcell.appendChild(addButton);
-
-
-    let cellNum=1;
-    for(let x=temp.length-3;x<temp.length;x++){
-        const cell=r.insertCell(cellNum);
-        cell.innerHTML=temp[x];
-        cellNum++;
-    }
+async function deleteFromPlaylist(id){
+	const r=await fetch("playlist.cgi?command=deleteFromPlaylist&id="+id);
+	console.log(await r.text());
+	showPlaylist();
 }
 
-function showList(l){
+function showRow(r,i,type){
+    const bcell=r.insertCell(0);
+    let temp;
+    if(type=="search"){
+	    temp=i.split("/");
+	    const playButton=document.createElement("button");
+	    const textNode=document.createTextNode("Play");
+	    playButton.appendChild(textNode);
+	    playButton.classList.add("defaultButton");
+	    playButton.addEventListener('click',function(){playSong(i);});
+	    bcell.appendChild(playButton);
+
+	    const addButton=document.createElement("button");
+	    const textNode2=document.createTextNode("Add");
+	    addButton.appendChild(textNode2);
+	    addButton.classList.add("defaultButton");
+	    addButton.addEventListener('click',function(){addToPlaylist(i);});
+	    bcell.appendChild(addButton);
+	} else if (type=="playlist"){
+		const fields=i.split("|");
+		const id=fields[0];
+		const sort=fields[1];
+		const playlistn=fields[2];
+		const path=fields[3];
+
+	    temp=path.split("/");
+	    /*
+	    const playButton=document.createElement("button");
+	    const textNode=document.createTextNode("Play");
+	    playButton.appendChild(textNode);
+	    playButton.classList.add("defaultButton");
+	    playButton.addEventListener('click',function(){playSong(i);});
+	    bcell.appendChild(playButton);
+	    */
+
+	    const addButton=document.createElement("button");
+	    const textNode2=document.createTextNode("Delete");
+	    addButton.appendChild(textNode2);
+	    addButton.classList.add("defaultButton");
+	    addButton.addEventListener('click',function(){deleteFromPlaylist(id);});
+	    bcell.appendChild(addButton);
+	}
+
+    displaySongEntry(r,temp)
+}
+
+function displaySongEntry(row,data){
+
+	const t=document.createElement("table");
+    t.border=0;
+    t.cellSpacing=0;
+    t.style.width="100%";
+
+    const top=t.insertRow(0);
+    top.classList.add("songListInfo");
+    
+    const bottom=t.insertRow(1);
+    const songCell=bottom.insertCell(0);
+    songCell.colSpan=3;
+    let songTitle=data[data.length-1];
+    let formatError=false;
+    if(songTitle.toLowerCase().indexOf(".mp3")<0){
+    	songCell.classList.add("formatError");
+    }
+    songTitle=songTitle.replace(/\.mp3/,"");
+    const songTitleNode=document.createTextNode(songTitle);
+    songCell.classList.add("songListName");
+    songCell.appendChild(songTitleNode);
+    bottom.appendChild(songCell);
+
+    const cell=top.insertCell(0);
+    let songInfo="";
+    for(let x=data.length-3;x<data.length-1;x++){
+    	if(data[x] == "share" || data[x]=="huge"){
+
+    	} else {
+	    	if(songInfo != ""){songInfo+=" - ";}
+	        songInfo+=data[x];
+    	}
+    }
+    cell.appendChild(document.createTextNode(songInfo));
+
+    row.appendChild(t);
+}
+
+function createSongTable(l,type){
 	const t=document.createElement("table");
     t.border=1;
     t.cellSpacing=0;
 
     for(let i=0;i<l.length-1;i++){
         const r=t.insertRow(i);
-        showRow(r,l[i]);
+        showRow(r,l[i],type);
     }
-	let e=document.getElementById("searchList");
-	e.innerHTML=(l.length-1)+" matches.";
-	e.appendChild(t);
-	e.scrollIntoView();
+    return t;
 }
 
 function getURL(u){

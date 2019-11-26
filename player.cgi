@@ -1,36 +1,12 @@
 #!/usr/bin/perl
 $|=1;
-require "./parse.pl";
-&ReadParse(*input);
+use DBI;
 
 print "Content-type: text/html\n\n";
+my $dbh = DBI->connect("DBI:SQLite:dbname=/home/pi/www/jukebox.db", "", "", { RaiseError => 1 }) or die $DBI::errstr;
 
-if($input{playlist} eq "main"){
-    print "Playlist\n";
-    stop();
-
-   my $file;
-   open($file,">/home/pi/www/playlistentry.txt");
-   print $file "0";
-   close($file);
-
-   system("/home/pi/www/nextsong.pl");
-
-}
-
-if($input{playlist} eq "play"){
-    print "Playlist\n";
-    stop();
-    #system("screen -d -m -S Random mpg123 --keep-open --random -@ /home/pi/www/top500fav.txt > log/log.txt");
-    system("screen -d -m -S Random mpg123 --keep-open --random -@ /home/pi/www/top500fav.txt");
-    #system("nohup mpg123 --keep-open --random -@ /home/pi/www/top500fav.txt > log/log.txt &");
-}
-
-if($input{playlist} eq "christmas"){
-    print "Playlist Christmas\n";
-    stop();
-    system("screen -d -m -S Random mpg123 --keep-open --random -@ /home/pi/www/christmas.txt");
-}
+require "./parse.pl";
+&ReadParse(*input);
 
 if($input{volume} ne ""){
    sendCommand("V ".$input{volume}."\r\n");
@@ -38,18 +14,12 @@ if($input{volume} ne ""){
 
 if($input{file} ne ""){
     stop();
-   sendCommand('L '.$input{file}."\r\n");
+    $input{file}=~s/\s*$//gis;
+    sendCommand('L '.$input{file}."\r\n");
 }
 
 if($input{command} eq "stop"){
     stop();
-}
-
-if($input{command} eq "add"){
-    my $file;
-    open($file,">>/home/pi/www/playlist.txt");
-    print $file "\n".$input{addfile};
-    close($file);
 }
 
 if($input{command} eq "startserver"){
@@ -66,7 +36,7 @@ if($input{command} eq "wipe"){
 }
 
 sub killServer(){
-   $p=`ps ax | grep mpg123`;
+   my $p=`ps ax | grep mpg123`;
    $p=~m/^\s*(\d+)/gis;
    system("kill -KILL $1");
    print "Killing: ".$1."\n";
@@ -78,6 +48,7 @@ sub killServer(){
 }
 
 sub startServer(){
+	$dbh->do("delete from activeplaylist;");
    system("screen -wipe");
    print "Starting";
    #system("screen -d -m -S Player \"sh -c 'mpg123 --fifo /home/pi/www/fifo/mpg123 -R asdf | /home/pi/www/outputparser.pl > /home/pi/www/log/log.txt\n'\"");
@@ -89,6 +60,7 @@ sub startServer(){
 }
 
 sub stop(){
+	$dbh->do("delete from activeplaylist;");
    my $file;
    open($file,">/home/pi/www/playlistentry.txt");
    print $file "-1";
@@ -96,7 +68,7 @@ sub stop(){
 
    print "Stop\n";
    sendCommand("S\r\n");
-   $p=`ps ax | grep mpg123 | grep random | grep -iv screen`;
+   my $p=`ps ax | grep mpg123 | grep random | grep -iv screen`;
    $p=~m/^\s*(\d+)/gis;
    system("kill -KILL $1");
    print "Killing: ".$1."\n";

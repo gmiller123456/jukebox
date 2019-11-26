@@ -1,26 +1,40 @@
 #!/usr/bin/perl
 use strict;
+use DBI;
 
-my $file;
-open($file,"/home/pi/public_html/playlistentry.txt");
-my $e=join('',<$file>);
-close($file);
+print "Content-type: text/html\n\n";
+my $dbh = DBI->connect("DBI:SQLite:dbname=/home/pi/www/jukebox.db", "", "", { RaiseError => 1 }) or die $DBI::errstr;
 
-if($e < 0){exit;}
+my $s=$dbh->prepare("select playlist,entry from activeplaylist;");
+$s->execute();
+my @row=$s->fetchrow_array();
+if(!@row) {exit;}
+my $playlist=$row[0];
+my $entry=$row[1];
 
-open($file,"/home/pi/public_html/playlist.txt");
+if($entry>0){
+	$s=$dbh->prepare("select sort,path from playlists where playlist='$playlist' and sort>$entry;");
+	$s->execute();
+} else {
+	$s=$dbh->prepare("select sort,path from playlists where playlist='$playlist' order by random() limit 1;");
+	$s->execute();
+}
 
-my @lines=<$file>;
-close($file);
-my $total=scalar @lines;
+@row=$s->fetchrow_array();
+if(!@row) {
+	$s=$dbh->prepare("select sort,path from playlists where playlist='$playlist' order by sort limit 1;");
+	$s->execute();
+	@row=$s->fetchrow_array();
+}
 
-playSong($lines[$e]);
+if(!@row){exit;}
 
-$e++;
-if($e>=$total){$e=0;}
-open($file,">/home/pi/public_html/playlistentry.txt");
-print $file $e;
-close($file);
+my $sort=$row[0];
+my $path=$row[1];
+
+$dbh->do("update activeplaylist set entry=$sort;");
+
+playSong($path);
 
 sub playSong(){
 	my $s=shift;
@@ -31,5 +45,4 @@ sub playSong(){
     print $f "L $s\n";
     print "L $s\n";
     close($f);
-
 }
